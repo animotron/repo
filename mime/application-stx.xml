@@ -1,0 +1,1 @@
+<the:application-stx xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" is:foo="" have:foo=""><is:mime-type/><is:application/><have:type>application/stx+xml</have:type><have:name>STX document</have:name><have:extension>stx</have:extension></the:application-stx>
