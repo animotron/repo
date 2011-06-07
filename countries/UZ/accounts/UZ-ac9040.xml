@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac9040 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac9000/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Возврат проданных товаров</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>90.40</have:code>
+    <have:code>9040</have:code>
+</the:UZ-ac9040>

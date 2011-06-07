@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:irrational-number xmlns:is="animo/relation/is" xmlns:si="animo/relation/si" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>irrational number</have:lang-en>
+            <have:lang-ru>иррациональное число</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- TODO: <have:denoted></have:denoted> boldface I -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Irrational_number</have:uri></have:wiki>
+
+</the:irrational-number>

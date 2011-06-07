@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:photographic-equipment xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:goods/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>photographic equipment</have:lang-en>
+            <have:lang-ru>фототовары</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:photographic-equipment>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac7210 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac7200/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Долгосрочные отсроченные доходы в виде дисконта (скидки)</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>72.10</have:code>
+    <have:code>7210</have:code>
+</the:UZ-ac7210>

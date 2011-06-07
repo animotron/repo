@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:openlayers-cdn xmlns:is="animo/relation/is" xmlns:the="animo/instance">
+    <is:cdn/>
+</the:openlayers-cdn>

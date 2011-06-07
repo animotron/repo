@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:map-widget xmlns:is="animo/relation/is" xmlns:get="animo/query/extract" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:self="animo/query/self" xmlns:the="animo/instance">
+    <is:widget/>
+    
+    <use:jquery-ui-theme/>
+    
+    <use:jquery/>
+    <use:jquery-url/>
+    <use:jquery-history/>
+    <use:jquery-uniform/>
+    
+    <use:openlayers/>
+    <use:openstreetmap/>
+    <use:google-maps/>
+    <use:geo/>
+    
+    <have:css>
+        .<self:instance/> {
+            width            : 100%;
+            height           : 100%;
+            background-color : #fff;
+        }
+    </have:css>
+    
+    <have:content>
+        <an:widget>
+            <have:init>
+                function(widget){
+                    widget.geo().locate(<get:lon/>, <get:lat/>, "<get:zoom/>", "<get:bounds/>", "<get:layers/>");
+                }
+            </have:init>
+        </an:widget>
+    </have:content>
+    
+</the:map-widget>

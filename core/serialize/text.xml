@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:text-serialization xmlns:is="animo/relation/is" xmlns:an="animo/reference" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <is:serialization/>
+    <do:xquery>
+        serialize:as-text($context)
+    </do:xquery>
+</the:text-serialization>

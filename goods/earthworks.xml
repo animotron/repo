@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:earthworks xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:service/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>earthworks</have:lang-en>
+            <have:lang-ru>земельные работы</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:earthworks>

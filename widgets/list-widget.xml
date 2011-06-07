@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:list-widget xmlns:is="animo/relation/is" xmlns:get="animo/query/extract" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:self="animo/query/self" xmlns:the="animo/instance">
+    <is:widget/>
+    
+    <have:content>
+        <an:widget debug="yes">
+            <have:content>
+                <ul xmlns="http://www.w3.org/1999/xhtml"/>
+            </have:content>
+        </an:widget>
+    </have:content>
+</the:list-widget>

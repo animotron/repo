@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:document xmlns:ic="animo/connection" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>document</have:lang-en>
+            <have:lang-ru>документ</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+    
+    <!-- point on time line (this element is internal on that line, because zoom quite big) -->
+    <have:timestamp/>
+    <have:place/>
+</the:document>

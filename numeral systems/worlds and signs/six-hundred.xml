@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:six-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<!-- TODO: remove? -->
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>six hundred</have:lang-en> <!-- TODO: six + " " +hundred -->
+            <have:lang-ru>шестьсот</have:lang-ru> <!-- TODO: шесть + сот -->
+            <!-- TODO: шестисот, шестистам, шестьюстами, шестьюстах -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>600</have:denoted> <!-- десятичная система счисления -->
+	
+</the:six-hundred>

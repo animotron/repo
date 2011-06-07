@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:arcsecond xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>arcminute</have:lang-en>
+            <have:lang-ru>дуговая секунда</have:lang-ru> <!-- секунда дуги -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>″</have:denoted>
+	
+</the:arcsecond>

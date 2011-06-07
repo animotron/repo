@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:search-widget xmlns:is="animo/relation/is" xmlns:get="animo/query/extract" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:self="animo/query/self" xmlns:the="animo/instance">
+    <is:widget/>
+
+    <use:jquery-ui-theme/>
+
+    <use:jquery/>
+    <use:jquery-ui/>
+    
+    <have:css>
+        .<self:instance/> input, .<self:instance/> table {
+            width : 100%;
+        }
+        
+        .<self:instance/> table td {
+            text-align : center;
+        }
+    </have:css>
+    
+    <have:content>
+        <an:widget>
+            <have:init>
+                function(widget){
+                    widget.find("button").button({
+                        text  : false, 
+                        icons : {secondary : "ui-icon-search"}
+                    }).height(widget.find("input").outerHeight());
+                }
+            </have:init>
+            <have:content>
+                <table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td>
+                            <input name="have:search" type="text"/>
+                        </td>
+                        <td width="1">
+                            <button>
+                                <get:name>
+                                    <an:find/>
+                                </get:name>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+            </have:content>
+        </an:widget>
+    </have:content>
+</the:search-widget>

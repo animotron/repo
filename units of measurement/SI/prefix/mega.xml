@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:mega xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+
+    <have:name><an:TODO/></have:name>
+    
+   	<have:denoted>M</have:denoted><!-- Symbol -->
+   	<have:prefix>mega</have:prefix>
+
+   	<have:short-scale>
+   		<have:name>million</have:name><!-- TODO: mi + llion -->
+   		<have:factor>1000^2</have:factor>
+   		<have:logic>1000^(1+1)</have:logic>
+   	</have:short-scale>
+   	<have:long-scale>
+   		<have:name>million</have:name>
+   		<have:factor>10^6</have:factor>
+   	</have:long-scale>
+   	
+   	<have:number><Q:D1000000/></have:number>
+   	
+   	<have:since><T:D1960/></have:since>
+</the:mega>

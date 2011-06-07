@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:hour xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:time/> <!-- this relation wrong, must be unit-of-time -->
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>hour</have:lang-en>
+            <have:lang-ru>час</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+    
+   	<have:denoted>
+        <ptrn:language>
+            <have:lang-en>h</have:lang-en> <!-- or "hr" -->
+            <have:lang-ru>ч</have:lang-ru>
+        </ptrn:language>
+   	</have:denoted>
+    
+    <!-- час равен 3600 секундам или 60 минутам -->
+</the:hour>

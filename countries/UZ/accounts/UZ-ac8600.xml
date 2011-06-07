@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac8600 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета выкупленных собственных акций</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>86</have:code>
+    <have:code>8600</have:code>
+    
+</the:UZ-ac8600>

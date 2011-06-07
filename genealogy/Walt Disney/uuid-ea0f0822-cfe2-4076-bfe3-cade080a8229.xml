@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-ea0f0822-cfe2-4076-bfe3-cade080a8229 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>John George /Gross/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1805-10-20/></have:date>
+		<have:place>Miehlen, Hesse, Prussia</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1886-02-13/></have:date>
+		<have:place>Lacey, Mahaska, Iowa</have:place>
+	</have:death>
+	
+</the:uuid-ea0f0822-cfe2-4076-bfe3-cade080a8229>

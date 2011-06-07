@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:kilo xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+
+    <have:name>thousand</have:name>
+    
+   	<have:denoted>k</have:denoted><!-- Symbol -->
+   	<have:prefix>kilo</have:prefix>
+
+   	<have:short-scale>
+   		<have:name>thousand</have:name>
+   		<have:factor>1000^1</have:factor>
+   		<have:logic>1000^(0+1)</have:logic>
+   	</have:short-scale>
+   	<have:long-scale>
+   		<have:name>thousand</have:name>
+   		<have:factor>10^3</have:factor>
+   	</have:long-scale>
+   	
+   	<have:number><Q:D1000/></have:number>
+   	
+   	<have:since><T:D1795/></have:since>
+</the:kilo>

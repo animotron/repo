@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac1600 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета отклонений в стоимости материалов</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>16</have:code>
+    <have:code>1600</have:code>
+    
+</the:UZ-ac1600>

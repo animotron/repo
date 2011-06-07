@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:jquery xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:script/>
+    <have:uri>
+        <ptrn:cdn>
+            <have:jquery-cdn>http://code.jquery.com/jquery-1.5.1.min.js</have:jquery-cdn>
+            <have:google-cdn>https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js</have:google-cdn>
+            <have:microsoft-cdn>http://ajax.microsoft.com/ajax/jquery/jquery-1.5.1.min.js</have:microsoft-cdn>
+            <have:yandex-cdn>http://yandex.st/jquery/1.5.1/jquery.min.js</have:yandex-cdn>
+            <have:local-cdn>/repository/jquery/jquery-1.5.1.min.js</have:local-cdn>
+        </ptrn:cdn>
+    </have:uri>
+</the:jquery>

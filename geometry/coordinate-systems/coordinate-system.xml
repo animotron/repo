@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:coordinate-system xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>coordinate system</have:lang-en>
+            <have:lang-ru>система координат</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Coordinate_system</have:uri></have:wiki>
+	
+</the:coordinate-system>

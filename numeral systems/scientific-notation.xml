@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:scientific-notation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>scientific notation</have:lang-en><!-- TODO: also known as standard form or as exponential notation -->
+            <have:lang-ru>экспоненциальная запись</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Scientific_notation</have:uri></have:wiki>
+	
+	<!-- TODO: 
+	
+	N = M * n^p
+	
+	N — записываемое число;
+	M — мантисса;
+	n — основание показательной функции;
+	p (целое) — порядок;
+	n^p — характеристика числа.
+	
+	-->
+	
+	<!-- Normalized notation: a×10^b when 1 ≤ |a| < 10 -->
+	<!-- E notation: the letter E or e represents times ten raised to the power of, thus replacing the × 10 -->
+	
+</the:scientific-notation>

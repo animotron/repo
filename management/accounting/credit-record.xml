@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:credit-record xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>credit record</have:lang-en>
+            <have:lang-en>credit entry</have:lang-en>
+            <!-- abbreviation -->
+            <have:lang-en>Cr</have:lang-en>
+            <have:lang-ru>запись по кредиту</have:lang-ru>
+            <have:lang-ru>Кт</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:credit-record>

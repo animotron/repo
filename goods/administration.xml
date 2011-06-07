@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:administration xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:management/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>administration</have:lang-en>
+            <have:lang-ru>администрация</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:administration>

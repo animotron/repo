@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:door-intercommunication-system xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:house/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>door intercommunication system</have:lang-en>
+            <have:lang-ru>домофон</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:door-intercommunication-system>

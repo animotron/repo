@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-288b60ca-d6d0-4939-9a77-88d08b17815b xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Mary /Graves/</have:lang-en>
+	</have:name>
+	
+</the:uuid-288b60ca-d6d0-4939-9a77-88d08b17815b>

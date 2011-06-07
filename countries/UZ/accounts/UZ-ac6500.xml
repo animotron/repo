@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac6500 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета задолженности по страхованию и по платежам в государственные целевые фонды</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>65</have:code>
+    <have:code>6500</have:code>
+    
+</the:UZ-ac6500>

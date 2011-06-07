@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:audit xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:accounting-services/>
+    <is:appraisal/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>audit</have:lang-en>
+            <have:lang-ru>аудит</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:audit>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:lang-en_US xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:language/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>U.S. English</have:lang-en>
+            <have:lang-ru>американский английский</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:lang-en_US>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:south xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>south</have:lang-en>
+            <have:lang-ru>юго</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>S</have:denoted>
+
+	<!-- <ic:wind><an:ostro-or-austro/></ic:wind> -->
+</the:south>

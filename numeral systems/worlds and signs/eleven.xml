@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:eleven xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>eleven</have:lang-en>
+            <have:lang-ru>одиннадцать</have:lang-ru> <!-- TODO: один + над + цать  -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>11</have:denoted> <!-- десятичная система счисления -->
+	
+</the:eleven>

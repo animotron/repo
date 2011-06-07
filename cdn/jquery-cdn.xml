@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:jquery-cdn xmlns:is="animo/relation/is" xmlns:the="animo/instance">
+    <is:cdn/>
+</the:jquery-cdn>

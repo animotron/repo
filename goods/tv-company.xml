@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:tv-company xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:enterprise/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>tv company</have:lang-en>
+            <have:lang-ru>телекомпания</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:tv-company>

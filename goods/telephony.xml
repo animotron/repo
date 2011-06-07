@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:telephony xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:communication/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>telephony</have:lang-en>
+            <have:lang-ru>телефония</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:telephony>

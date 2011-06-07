@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:numeral-system xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<!-- TODO: rename "the" to numerals? -->
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>numeral system</have:lang-en><!-- TODO: system of numeration -->
+            <have:lang-ru>система счисле́ния</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- символический метод записи чисел, представление чисел с помощью письменных знаков -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Numeral_system</have:uri></have:wiki>
+	
+</the:numeral-system>

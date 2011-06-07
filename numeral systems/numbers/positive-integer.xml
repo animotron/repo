@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:positive-integer xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	
+	<!-- <is:integer/> TODO: new relation type?  -->
+	<is:positive/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>positive integer</have:lang-en>
+            <have:lang-ru>положительное целое число</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>ℤ+</have:denoted><!-- TODO: boldface Z+ -->
+	
+	<!-- <have:wiki><have:uri></have:uri></have:wiki> -->
+	
+	<!-- 1, 2, 3, 4, 5, ... -->
+	
+</the:positive-integer>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:warehouse-document xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:document/>
+
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>warehouse document</have:lang-en>
+            <have:lang-ru>складской документ</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+	<!-- 
+   		warehouse's organization: 
+   			organization's warehouse: receipt +, issue -
+   			party: receipt -, issue +
+   			 
+   		party's organization: 
+   			party' warehouse: receipt -, issue +
+   			organization: receipt +, issue - 
+	 -->    
+
+    <!-- active warehouse -->
+    <have:warehouse/>
+    <!--contracting party, including this organization warehouse, but not one from (have:warehouse) -->
+    <have:party/>
+	<!-- document can have many of this TODO: mark it somehow -->
+    <have:SKU/>
+</the:warehouse-document>

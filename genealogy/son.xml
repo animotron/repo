@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:son xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>son</have:lang-en>
+            <have:lang-ru>сын</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- <have:denoted>S</have:denoted> -->
+	
+</the:son>

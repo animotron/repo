@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac9210 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac9200/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Выбытие основных средств</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>92.10</have:code>
+    <have:code>9210</have:code>
+</the:UZ-ac9210>

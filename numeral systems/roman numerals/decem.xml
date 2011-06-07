@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:decem xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:digit/><!-- TODO correct ??? -->
+	<is:roman-numerals/>
+
+    <have:name>
+		<ptrn:language>
+            <have:lang-la>decem</have:lang-la>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>X</have:denoted>
+	<!-- TODO: <have:natural-number>10</have:natural-number> -->
+
+	<!-- TODO: decem == ten ? -->
+	
+</the:decem>

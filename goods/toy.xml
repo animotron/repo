@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:toy xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:baby-products/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>toy</have:lang-en>
+            <have:lang-ru>игрушки</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:toy>

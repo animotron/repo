@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac0900 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета долгосрочной дебиторской задолженности и отсроченных расходов</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>09</have:code>
+    <have:code>0900</have:code>
+    
+</the:UZ-ac0900>

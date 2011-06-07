@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:aunt xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>aunt</have:lang-en>
+            <have:lang-ru>тетя</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- father's sister, mother's sister, father's brother's wife, mother's brother's wife -->
+	
+	<!-- <have:denoted></have:denoted> -->
+	
+</the:aunt>

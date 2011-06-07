@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac6200 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета отсроченных обязательств</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>62</have:code>
+    <have:code>6200</have:code>
+    
+</the:UZ-ac6200>

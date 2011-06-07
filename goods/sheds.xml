@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:sheds xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:hardware/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>sheds</have:lang-en>
+            <have:lang-ru>навесы</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:sheds>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac7000 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Долгосрочные счета к оплате поставщикам и подрядчикам</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>70</have:code>
+    <have:code>7000</have:code>
+    
+</the:UZ-ac7000>

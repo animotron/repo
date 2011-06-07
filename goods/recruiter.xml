@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:recruiter xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:agency/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>recruiter</have:lang-en>
+            <have:lang-ru>кадровое агентство</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:recruiter>

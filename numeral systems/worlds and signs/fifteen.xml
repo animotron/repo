@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:fifteen xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>fifteen</have:lang-en> <!-- TODO: fif + teen -->
+            <have:lang-ru>пятнадцать</have:lang-ru> <!-- TODO: пят + над + цать  -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>15</have:denoted> <!-- десятичная система счисления -->
+	
+</the:fifteen>

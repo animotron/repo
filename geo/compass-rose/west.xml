@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:west xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>west</have:lang-en>
+            <have:lang-ru>запад</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>W</have:denoted>
+
+	<!-- <ic:wind><an:ponente/></ic:wind> -->
+</the:west>

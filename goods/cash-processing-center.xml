@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:cash-processing-center xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>cash processing center</have:lang-en>
+            <have:lang-ru>ркц</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:cash-processing-center>

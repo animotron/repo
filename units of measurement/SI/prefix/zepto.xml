@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:zepto xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+
+    <have:name><an:TODO/></have:name>
+    
+   	<have:denoted>z</have:denoted><!-- Symbol -->
+   	<have:prefix>zepto</have:prefix>
+
+   	<have:short-scale>
+   		<have:name>sextillionth</have:name> <!-- TODO: sexti + llionth -->
+   		<have:factor>1000^-7</have:factor>
+   	</have:short-scale>
+   	<have:long-scale>
+   		<have:name>trilliardth</have:name> <!-- TODO: tri + lliardth -->
+   		<have:factor>10^-21</have:factor>
+   	</have:long-scale>
+   	
+   	<have:number><Q:D0.000000000000000000001/></have:number>
+   	
+   	<have:since><T:D1991/></have:since>
+</the:zepto>

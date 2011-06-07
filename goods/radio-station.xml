@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:radio-station xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:equipmen/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>radio station</have:lang-en>
+            <have:lang-ru>радиостанции</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:radio-station>

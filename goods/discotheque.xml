@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:discotheque xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:entertainment/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>discotheque</have:lang-en>
+            <have:lang-ru>дискотека</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:discotheque>

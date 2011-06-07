@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-084e52a0-a8ce-494b-937a-513186ae1f8c xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>Arundel R. /Disney/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1858/></have:date>
+		<have:place>Canada</have:place>
+	</have:birth>
+	
+</the:uuid-084e52a0-a8ce-494b-937a-513186ae1f8c>

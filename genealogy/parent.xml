@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:parent xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>parent</have:lang-en>
+            <have:lang-ru>родители</have:lang-ru> <!-- жарг. "предки" -->
+        </ptrn:language>
+	</have:name>
+	
+	<!-- <have:denoted>P</have:denoted> -->
+	
+</the:parent>

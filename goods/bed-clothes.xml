@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:bed-clothes xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>bed-clothes</have:lang-en>
+            <have:lang-ru>постельное белье</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:bed-clothes>

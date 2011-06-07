@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:restaurant xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:catering/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>restaurant</have:lang-en>
+            <have:lang-ru>ресторан</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:restaurant>

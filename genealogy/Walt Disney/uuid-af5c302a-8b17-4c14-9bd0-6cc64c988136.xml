@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-af5c302a-8b17-4c14-9bd0-6cc64c988136 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Abigail /Call/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1776-03-19/></have:date>
+		<have:place>Colrain, Franklin, Mass.</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1838-06-05/></have:date>
+	</have:death>
+	
+</the:uuid-af5c302a-8b17-4c14-9bd0-6cc64c988136>

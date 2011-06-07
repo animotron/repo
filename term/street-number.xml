@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:street-number xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:text/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>street-number</have:lang-en>
+            <have:lang-ru>номер улицы</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:street-number>

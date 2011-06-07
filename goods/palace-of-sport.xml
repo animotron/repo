@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:palace-of-sport xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:sports-complex/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>palace of sport</have:lang-en>
+            <have:lang-ru>дворец спорта</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:palace-of-sport>

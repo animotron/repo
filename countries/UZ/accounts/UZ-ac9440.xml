@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac9440 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac9400/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Расходы отчетного периода, исключаемые из налогооблагаемой базы в будущем</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>94.40</have:code>
+    <have:code>9440</have:code>
+</the:UZ-ac9440>

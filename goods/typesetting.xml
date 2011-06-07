@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:typesetting xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:service/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>typesetting</have:lang-en>
+            <have:lang-ru>набор текста</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:typesetting>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-91513924-e3cd-4d9d-aaed-693026a91775 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Fanny /Johnson/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1764-05-16/></have:date>
+		<have:place>Woodstock, Windham, Conn.</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1801-04-27/></have:date>
+		<have:place>Colrain, Franklin, Mass.</have:place>
+	</have:death>
+	
+</the:uuid-91513924-e3cd-4d9d-aaed-693026a91775>

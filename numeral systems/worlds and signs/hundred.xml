@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<!-- ??? 
+	<is:digit/>
+	<is:natural-number/>
+	-->
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>hundred</have:lang-en>
+            <have:lang-ru>тысяца</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- ??? <have:denoted>100</have:denoted>  десятичная система счисления -->
+	<!-- [3] разряд в десятичная система счисления -->
+	
+</the:hundred>

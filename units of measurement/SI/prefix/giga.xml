@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:giga xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+
+    <have:name><an:TODO/></have:name>
+    
+   	<have:denoted>G</have:denoted><!-- Symbol -->
+   	<have:prefix>giga</have:prefix>
+   	<have:short-scale>
+   		<have:name>billion</have:name><!-- TODO: bi + llion -->
+   		<have:factor>1000^3</have:factor>
+   		<have:logic>1000^(2+1)</have:logic>
+   	</have:short-scale>
+   	<have:long-scale>
+   		<have:name>milliard</have:name>
+   		<have:factor>10^9</have:factor>
+   	</have:long-scale>
+   	
+   	<have:number><Q:D1000000000/></have:number>
+   	
+   	<have:since><T:D1960/></have:since>
+</the:giga>

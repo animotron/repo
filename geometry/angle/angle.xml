@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:angle xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>angle</have:lang-en>
+            <have:lang-ru>угол</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Angle</have:uri></have:wiki>
+	
+</the:angle>

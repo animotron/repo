@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:radiator xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:auto-parts/>
+    <is:household-appliances/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>radiator</have:lang-en>
+            <have:lang-ru>радиаторы</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:radiator>

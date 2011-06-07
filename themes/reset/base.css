@@ -1,0 +1,190 @@
+/*	CSS-Framework
+
+	Version		: 0.3.1
+	Author		: Aleksej Romanovskij (http://css-framework.ru)
+	License		: Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/by/3.0/)
+
+------------------------------ */
+		
+/* Utilites
+------------------------------ */
+
+* { margin: 0; padding: 0; }
+
+*:focus { outline: none; }
+.hidden { display: none; }
+.show { display: block!important; }
+.no-margin { margin: 0!important; }
+.no-padding { padding: 0!important; }
+.no-bg { background: none!important; }
+.no-border, a img { border: none!important; }
+.container:after, .columns:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.img-repl { text-indent: -9999px; overflow: hidden; display: block; }
+.cc { clear: both; }
+
+/* Main styles
+------------------------------ */
+
+html { height: 100%; color: #000; background: #f4f4f4; font: 0.75em/1.5 Arial, Helvetica, sans-serif; }
+body { height: auto !important; height: 100%; min-height: 100%; } /* body height 100% */
+
+a { color: #0066сс; }
+a:visited {  }
+a:hover {  }
+a:active {  }
+			
+/* Layout Boxs
+------------------------------ */
+
+.page-layout { margin-right: -5px; }
+.layout-box { float: left; margin: 0 5px 5px 0; }
+
+.lb-1 { width: 779px; } /* 100% */
+.lb-2 { width: 583px; } /* 75% */
+.lb-3 { width: 387px; } /* 50% */
+.lb-4 { width: 191px; } /* 25% */
+			
+/* Content elements
+------------------------------ */
+
+.content h1, .content h2, .content h3, .content h4 { font: 1.7em Verdana, Verdana, Geneva, sans-serif; margin-bottom: .5em; }
+.content h2 { font-size: 1.5em; }
+.content h3 { font-size: 1.3em; font-weight: bold; }
+.content h4 { font-size: 1.1em; font-weight: bold; }
+
+blockquote { margin-left: 10em; padding-left: 1em; border-left: 2px solid #ccc; }
+code, pre { font: 1.2em/1 "Courier New", Courier, monospace; padding: 1px 2px; background: #eee; }
+pre { border: 1px dashed #aaa; line-height: 1.7em; padding: 5px; font-size: .9em; background: #eee; margin: 0; }
+strong {  }
+em {  }
+sup, sub { vertical-align: baseline; position: relative; }
+sup { top: -0.4em; }
+sub { bottom: -0.3em; }
+
+hr { color: #ccc; background-color: #ccc; height: 1px; border-width: 0px; }
+
+.em { font-style: italic; }
+.strong { font-weight: bold; }
+
+.content ul, .content ol { margin-left: 3em; line-height: 1.3em; }
+.content ul li, .content ol li { margin-bottom: .2em; }
+
+.content dl {  }
+.content dl dt { margin-bottom: .2em; font-weight: bold; }
+.content dl dd { padding-left: 5em; margin-bottom: .4em; }
+
+.icons a, .icon { padding: 1px 0 1px 20px; background-repeat: no-repeat; background-position: left center; }
+
+.content p, .content ul, .content ol, .content dl, .content table, blockquote, pre, .columns, .content img, hr { margin-bottom: 11px; }
+
+.box { margin: 11px; }
+
+/* Text align, float
+------------------------------ */
+
+.a-left { text-align: left; }
+.a-center { text-align: center; }
+.a-right { text-align: right; }
+
+.f-left { float: left; }
+.f-right { float: right; }
+
+/*	Tables
+------------------------------ */
+
+table { border-collapse: collapse; width: 100%; }
+table th, table td { border: 1px solid #ccc; padding: 2px 3px; vertical-align: top; }
+table th { background: #f4f4f4; }
+table td {  }
+
+/*	Columns
+------------------------------ */
+
+.columns {  }
+.w-5, .w-10, .w-15, .w-20, .w-25, .w-30, .w-35, .w-40, .w-45, .w-50, .w-55, .w-60, .w-65, .w-70, .w-75, .w-80, .w-85, .w-90, .w-95, .w-100, .w-33, .w-66, .w-38, .w-62 { float: left;  }
+
+.col-content { padding-right: 6px; }
+.col-first { padding-left: 0!important; }
+.col-last { padding-right: 0!important; }
+
+.w-5 { width: 5%; }
+.w-10 { width: 10%; }
+.w-15 { width: 15%; }
+.w-20 { width: 20%; }
+.w-25 { width: 25%; }
+.w-30 { width: 30%; }
+.w-35 { width: 35%; }
+.w-40 { width: 40%; }
+.w-45 { width: 45%; }
+.w-50 { width: 50%; }
+.w-55 { width: 55%; }
+.w-60 { width: 60%; }
+.w-65 { width: 65%; }
+.w-70 { width: 70%; }
+.w-75 { width: 75%; }
+.w-80 { width: 80%; }
+.w-85 { width: 85%; }
+.w-90 { width: 90%; }
+.w-95 { width: 95%; }
+.w-100 { width: 100%; }
+
+.w-33 { width: 33%; }
+.w-66 { width: 66%; }
+
+.w-38 { width: 38%; }
+.w-62 { width: 62%; }
+
+/* Images
+------------------------------ */
+
+.content img { padding: 5px; border: 1px solid #ccc!important; margin-top: .4em; }
+.content img.null-image { padding: 0!important; border: none!important; margin: 0!important; }
+img.f-left { margin-right: 1em; }
+img.f-right { margin-left: 1em; }
+
+/* Content Form
+------------------------------ */
+
+.content form { padding: .5em 0; }
+.content fieldset { margin-bottom: 1em; border: none; }
+.content legend { margin-top: -1px; padding-bottom: 1em; font-size: 1.1em; font-weight: bold; }
+
+.content .f-row { overflow: hidden; margin-bottom: .5em; }
+.content label { float: left; text-align: right; width: 25.99%; padding: 0 2%; }
+.content .f-inputs { padding-left: 30%; }
+
+.f-actions { padding-top: 1em; border-top: 1px solid #ccc; }
+
+/* Inputs
+------------------------------ */
+
+input { vertical-align: middle }
+.i-checkbox { margin-top: 3px; }
+.i-text { width: 200px; padding: 1px; font: 1em sans-serif; }
+.button { padding: 0 .25em; width: auto; overflow: visible; cursor: pointer; }
+			
+/* Corners (em)
+------------------------------ */
+
+.corners { position: relative; overflow: hidden; }
+.corners em.tl, .corners em.tr, .corners em.bl, .corners em.br { position: absolute; font-size: 1px; }
+
+.corners-2 em.tl, .corners-2 em.tr, .corners-2 em.bl, .corners-2 em.br { width: 4px; height: 4px; background-image: url(../i/corners/corners-2.png); }
+	.corners-2 em.tl { left: -2px; top: -2px; } .corners-2 em.tr { right: -2px; top: -2px; } .corners-2 em.bl { left: -2px; bottom: -2px; } .corners-2 em.br { right: -2px; bottom: -2px; }
+.corners-3 em.tl, .corners-3 em.tr, .corners-3 em.bl, .corners-3 em.br { width: 6px; height: 6px; background: url(../i/corners/corners-3.png); }
+	.corners-3 em.tl { left: -3px; top: -3px; } .corners-3 em.tr { right: -3px; top: -3px; } .corners-3 em.bl { left: -3px; bottom: -3px; } .corners-3 em.br { right: -3px; bottom: -3px; }
+.corners-4 em.tl, .corners-4 em.tr, .corners-4 em.bl, .corners-4 em.br { width: 8px; height: 8px; background: url(../i/corners/corners-4.png); }
+	.corners-4 em.tl { left: -4px; top: -4px; } .corners-4 em.tr { right: -4px; top: -4px; } .corners-4 em.bl { left: -4px; bottom: -4px; } .corners-4 em.br { right: -4px; bottom: -4px; }
+.corners-5 em.tl, .corners-5 em.tr, .corners-5 em.bl, .corners-5 em.br { width: 10px; height: 10px; background: url(../i/corners/corners-5.png); }
+	.corners-5 em.tl { left: -5px; top: -5px; } .corners-5 em.tr { right: -5px; top: -5px; } .corners-5 em.bl { left: -5px; bottom: -5px; } .corners-5 em.br { right: -5px; bottom: -5px; }
+.corners-6 em.tl, .corners-6 em.tr, .corners-6 em.bl, .corners-6 em.br { width: 12px; height: 12px; background: url(../i/corners/corners-6.png); }
+	.corners-6 em.tl { left: -6px; top: -6px; } .corners-6 em.tr { right: -6px; top: -6px; } .corners-6 em.bl { left: -6px; bottom: -6px; } .corners-6 em.br { right: -6px; bottom: -6px; }
+.corners-7 em.tl, .corners-7 em.tr, .corners-7 em.bl, .corners-7 em.br { width: 14px; height: 14px; background: url(../i/corners/corners-7.png); }
+	.corners-7 em.tl { left: -7px; top: -7px; } .corners-7 em.tr { right: -7px; top: -7px; } .corners-7 em.bl { left: -7px; bottom: -7px; } .corners-7 em.br { right: -7px; bottom: -7px; }
+.corners-8 em.tl, .corners-8 em.tr, .corners-8 em.bl, .corners-8 em.br { width: 16px; height: 16px; background: url(../i/corners/corners-8.png); }
+	.corners-8 em.tl { left: -8px; top: -8px; } .corners-8 em.tr { right: -8px; top: -8px; } .corners-8 em.bl { left: -8px; bottom: -8px; } .corners-8 em.br { right: -8px; bottom: -8px; }
+.corners-9 em.tl, .corners-9 em.tr, .corners-9 em.bl, .corners-9 em.br { width: 18px; height: 18px; background: url(../i/corners/corners-9.png); }
+	.corners-9 em.tl { left: -9px; top: -9px; } .corners-9 em.tr { right: -9px; top: -9px; } .corners-9 em.bl { left: -9px; bottom: -9px; } .corners-9 em.br { right: -9px; bottom: -9px; }
+.corners-10 em.tl, .corners-10 em.tr, .corners-10 em.bl, .corners-10 em.br { width: 20px; height: 20px; background: url(../i/corners/corners-10.png); }
+	.corners-10 em.tl { left: -10px; top: -10px; } .corners-10 em.tr { right: -10px; top: -10px; } .corners-10 em.bl { left: -10px; bottom: -10px; } .corners-10 em.br { right: -10px; bottom: -10px; }
+			

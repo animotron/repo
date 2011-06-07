@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:reset-css xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance">
+    <is:css/>
+    <have:uri>/repository/themes/reset/reset.css</have:uri>
+</the:reset-css>

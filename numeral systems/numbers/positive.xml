@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:positive xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	<is:number/>
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>positive</have:lang-en>
+            <have:lang-ru>положительн(ые)</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- <have:wiki><have:uri></have:uri></have:wiki> -->
+	
+</the:positive>

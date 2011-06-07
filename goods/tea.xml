@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:tea xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:foodstuff/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>tea</have:lang-en>
+            <have:lang-ru>чай</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:tea>

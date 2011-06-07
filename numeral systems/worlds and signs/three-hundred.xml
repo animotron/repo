@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:three-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<!-- TODO: remove? -->
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>three hundred</have:lang-en> <!-- TODO: three + " " + hundred -->
+            <have:lang-ru>триста</have:lang-ru> <!-- TODO: три + ста -->
+            <!-- TODO: трёхсот, трёмстам, тремястами, о трёхстах -->
+            <!-- TODO: поряд. трёхсотый, -ая, -ое. -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>300</have:denoted> <!-- десятичная система счисления -->
+	
+</the:three-hundred>

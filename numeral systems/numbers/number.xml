@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:number xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>number</have:lang-en>
+            <have:lang-ru>число</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+
+	<!-- a mathematical object used to count and measure -->	
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Number</have:uri></have:wiki>
+	
+</the:number>

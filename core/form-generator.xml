@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:form-generator xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <have:title>
+        <do:xquery>
+            let $form-context := $context/self::the:*
+            return
+                element {"get:name"} {
+                    element {concat("an:", local-name($form-context[last()]))} {}
+                }
+        </do:xquery>
+    </have:title>
+    <have:content>
+        <article xmlns="http://docbook.org/ns/docbook">
+            <section>
+                <do:xquery>
+                    let $id := $CONTEXT/self::the:sense-context/xml:id/text()
+    				let $id := if($id) then $id else concat("uuid-", util:uuid())
+
+                    let $form-context := $context/self::the:*
+    				for $c in $form-context[last()]
+    				let $form-id := local-name($c)
+    				return
+                        <form xmlns="http://www.w3.org/1999/xhtml" action="/an:save" method="post" id="{$form-id}">
+        				    {generator:generate-fields($c, $id)}
+        					<input type="hidden" name="the:{$form-id}/id" value="{$id}"/>
+                        <input type="submit" name="action" value="Submit"/>
+                    </form>
+                </do:xquery>
+            </section>
+            <have:gui-menu>
+                <an:menu-widget>
+                    <have:id>form-generator</have:id>
+                    <have:title>Menu</have:title>
+                    <have:link href="/">Home</have:link>
+                    <have:link href="/development">Development</have:link>
+                    <have:link href="/theme-layout-documentation">Theme evaluation</have:link>
+                    <have:link href="/map">Map demo</have:link>
+                </an:menu-widget>
+            </have:gui-menu>
+        </article>
+    </have:content>
+</the:form-generator>

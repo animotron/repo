@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>Roy O. /Disney/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1893-06-24/></have:date>
+		<have:place>Chicago, Cook, Illinois</have:place>
+	</have:birth>
+	
+</the:uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3>

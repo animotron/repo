@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:asphalting xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:way/>
+    <is:service/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>asphalting</have:lang-en>
+            <have:lang-ru>асфальтирование</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:asphalting>

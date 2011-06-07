@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-a09ef829-8f99-45dc-b092-78a3f21f2740 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Violette /Lawrence/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1792/></have:date> <!-- ABT -->
+		<have:place>Massachusetts</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1870-06-12/></have:date>
+		<have:place>Greenfield, Huron, Ohio</have:place>
+	</have:death>
+	
+</the:uuid-a09ef829-8f99-45dc-b092-78a3f21f2740>

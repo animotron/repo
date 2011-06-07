@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:theme-concrete xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:the="animo/instance">
+    <is:theme/>
+    <have:widget-color>#c00</have:widget-color>
+    <use:reset-css/>
+    <use:concrete-css/>
+    <use:jquery-ui-theme/>
+    <use:theme-concrete-root-layout/>
+</the:theme-concrete>

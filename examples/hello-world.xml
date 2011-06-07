@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:hello-world xmlns:is="animo/relation/is" xmlns:get="animo/query/extract" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:the="animo/instance">
+    <is:service/>
+    <have:uri>/hello-world</have:uri>
+    <have:title>
+        <get:name>
+            <an:example/>
+        </get:name>
+    </have:title>
+    <have:content>
+        <get:name>
+            <an:hello/>
+        </get:name>
+        <get:name>
+            <an:world/>
+        </get:name>! 
+    </have:content>
+</the:hello-world>

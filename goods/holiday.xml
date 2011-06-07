@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:holiday xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>holiday</have:lang-en>
+            <have:lang-ru>праздники</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:holiday>

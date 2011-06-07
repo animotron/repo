@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac0212 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac0200/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Износ благоустройства основных средств, полученных по договору долгосрочной аренды</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>02.12</have:code>
+    <have:code>0212</have:code>
+</the:UZ-ac0212>

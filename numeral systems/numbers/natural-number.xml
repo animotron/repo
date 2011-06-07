@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:natural-number xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	<is:number/>
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>natural number</have:lang-en>
+            <have:lang-ru>натуральное число</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>ℕ</have:denoted><!-- TODO: boldface N -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Natural_number</have:uri></have:wiki>
+
+	<!-- counting numbers -->
+	<!-- 0, 1, 2, 3, 4, ... or 1, 2, 3, 4, ... (sometimes including zero) -->
+	
+</the:natural-number>

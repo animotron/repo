@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:stand-lamp xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:lamp/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>stand lamp</have:lang-en>
+            <have:lang-ru>торшеры</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:stand-lamp>

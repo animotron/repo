@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac6320 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac6300/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Авансы, полученные от подписчиков на акции</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>63.20</have:code>
+    <have:code>6320</have:code>
+</the:UZ-ac6320>

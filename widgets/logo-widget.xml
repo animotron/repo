@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:logo-widget xmlns:is="animo/relation/is" xmlns:the="animo/instance">
+    <is:widget/>
+    <do:xslt xmlns:do="animo/perform">
+        <have:content xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:have="animo/relation/have" xsl:exclude-result-prefixes="#all" xsl:version="2.0">
+            <div id="logo">
+                <xsl:choose>
+                    <xsl:when test="//have:request-uri eq '/'">
+                        <img src="/site/{//have:logo}" alt="logo"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <a href="/">
+                            <img src="/site/{//have:logo}" alt="logo"/>
+                        </a>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </div>
+        </have:content>
+    </do:xslt>
+</the:logo-widget>

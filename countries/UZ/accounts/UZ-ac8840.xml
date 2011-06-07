@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac8840 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac8800/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Налоговые льготы с целевым использованием</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>88.40</have:code>
+    <have:code>8840</have:code>
+</the:UZ-ac8840>

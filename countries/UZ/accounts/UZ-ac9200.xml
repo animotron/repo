@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac9200 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета выбытия основных средств и других активов</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>92</have:code>
+    <have:code>9200</have:code>
+    
+</the:UZ-ac9200>

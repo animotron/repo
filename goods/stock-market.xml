@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:stock-market xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:finances/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>stock market</have:lang-en>
+            <have:lang-ru>фондовый рынок</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:stock-market>

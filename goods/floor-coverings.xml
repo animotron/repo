@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:floor-coverings xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:building-materials/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>floor coverings</have:lang-en>
+            <have:lang-ru>напольные покрытия</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:floor-coverings>

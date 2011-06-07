@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:medical-instruments xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:health/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>medical instruments</have:lang-en>
+            <have:lang-ru>медицинские инструменты</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:medical-instruments>
