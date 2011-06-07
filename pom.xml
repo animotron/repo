@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.animotrom</groupId>
+  <artifactId>repo</artifactId>
+  <name>Animo repsitory</name>
+  <version>0.0.2-SNAPSHOT</version>
+  <packaging/>
+    <developers>
+        <developer>
+            <name>Dmitiry Shabanov</name>
+            <email>shabanovd@gmail.com</email>
+        </developer>
+        <developer>
+            <name>Evgeny Gazdovsky</name>
+        </developer>
+    </developers>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.animotron</groupId>
+  		<artifactId>core</artifactId>
+  		<version>0.0.2-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+</project>
