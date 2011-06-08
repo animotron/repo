@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:caps xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
-    <have:name>
-        <ptrn:language>
-            <have:lang-en>caps</have:lang-en>
-            <have:lang-ru>крышки</have:lang-ru>
-        </ptrn:language>
-    </have:name>
-</the:caps>

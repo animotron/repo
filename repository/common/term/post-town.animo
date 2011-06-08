@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:post-town xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
-    <have:name>
-        <ptrn:language>
-            <have:lang-en>post-town</have:lang-en>
-        </ptrn:language>
-    </have:name>
-    <have:name/>
-</the:post-town>

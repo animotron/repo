@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:methods-development xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
-    <have:name>
-        <ptrn:language>
-            <have:lang-en>methods development</have:lang-en>
-            <have:lang-ru>отдел труда</have:lang-ru>
-        </ptrn:language>
-    </have:name>
-</the:methods-development>

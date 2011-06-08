@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:accounting xmlns:ic="animo/connection" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
-    <have:name>
-        <ptrn:language>
-            <have:lang-en>procurement</have:lang-en>
-        </ptrn:language>
-    </have:name>
-</the:accounting>

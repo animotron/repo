@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:chamber-of-commerce-and-industry xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
-    <have:name>
-        <ptrn:language>
-            <have:lang-en>chamber of commerce and industry</have:lang-en>
-            <have:lang-ru>торгово-промышленная палата</have:lang-ru>
-        </ptrn:language>
-    </have:name>
-</the:chamber-of-commerce-and-industry>

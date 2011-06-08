@@ -1,1 +1,0 @@
-<the:video-mp4 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" is:foo="" have:foo=""><is:mime-type/><is:video/><have:type>video/mp4</have:type><have:name>MP4 Video</have:name><have:extension>mp4</have:extension></the:video-mp4>

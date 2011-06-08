@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:loggia xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
-    <have:name>
-        <ptrn:language>
-            <have:lang-en>loggia</have:lang-en>
-            <have:lang-ru>лоджии</have:lang-ru>
-        </ptrn:language>
-    </have:name>
-</the:loggia>
