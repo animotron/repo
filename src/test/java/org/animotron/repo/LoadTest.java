@@ -21,6 +21,8 @@ package org.animotron.repo;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.fail;
 
+import java.io.FileNotFoundException;
+
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.XMLStreamWriter;
 
@@ -60,7 +62,7 @@ public class LoadTest extends ATest {
 	}
 	
 	@Test
-	public void loadAndSerialize() throws XMLStreamException {
+	public void loadAndSerialize() throws XMLStreamException, FileNotFoundException {
 		
         System.out.println("Test repository loader ...");
         

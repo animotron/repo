@@ -19,13 +19,11 @@
 package org.animotron.repo;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 
 import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamReader;
 
-import org.animotron.graph.stax.StAXGraphBuilder;
-
-import com.ctc.wstx.stax.WstxInputFactory;
+import org.animotron.graph.CommonGraphBuilder;
 
 /**
  * Repository loader
@@ -35,22 +33,18 @@ import com.ctc.wstx.stax.WstxInputFactory;
  */
 public class Repository {
 	
-	private final static WstxInputFactory INPUT_FACTORY = new WstxInputFactory();
-
-	public static void load (String path) throws XMLStreamException {
+	public static void load (String path) throws XMLStreamException, FileNotFoundException {
 		load(new File(path));
 	}
 	
-	public static void load (File path) throws XMLStreamException {
+	public static void load (File path) throws XMLStreamException, FileNotFoundException {
 		
 		if (path.isDirectory()) {
 			for (File file : path.listFiles()) {
 				load(file);
 			}
 		} else {
-			XMLStreamReader sr = INPUT_FACTORY.createXMLStreamReader(path);
-			StAXGraphBuilder builder = new StAXGraphBuilder(sr);
-			builder.build();
+			CommonGraphBuilder.build(path);
 		}
 		
 	}
