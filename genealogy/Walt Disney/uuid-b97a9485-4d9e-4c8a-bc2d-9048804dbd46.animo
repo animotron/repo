@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-b97a9485-4d9e-4c8a-bc2d-9048804dbd46 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Catherine Hanna /Gross/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1845-02-14/></have:date>
+		<have:place>Ottumwa, Wapello, Iowa</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1921-05-28/></have:date>
+		<have:place>Oskaloosa, Mahska, Iowa</have:place>
+	</have:death>
+	
+</the:uuid-b97a9485-4d9e-4c8a-bc2d-9048804dbd46>

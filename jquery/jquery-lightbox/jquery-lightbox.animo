@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:jquery-lightbox xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance">
+    <is:script/>
+    <have:uri>/repository/jquery/jquery-lightbox/jquery-lightbox.js</have:uri>
+</the:jquery-lightbox>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:printing-plant xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:printed-matter/>
+    <is:service/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>printing plant</have:lang-en>
+            <have:lang-ru>типография</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:printing-plant>

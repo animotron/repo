@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:unus xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:digit/><!-- TODO correct ??? -->
+	<is:roman-numerals/>
+
+    <have:name>
+		<ptrn:language>
+            <have:lang-la>unus</have:lang-la>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>I</have:denoted>
+	<!-- TODO: <have:natural-number>1</have:natural-number> -->
+	
+	<!-- TODO: unus == one ? -->
+
+</the:unus>

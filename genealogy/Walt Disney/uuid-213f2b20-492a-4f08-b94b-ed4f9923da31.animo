@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-213f2b20-492a-4f08-b94b-ed4f9923da31 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>Stephen /Call/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1768-04-29/></have:date>
+		<have:place>Colrain, Franklin, Mass.</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1848-05-23/></have:date>
+		<have:place>Corinth, Saratoga, New York</have:place>
+	</have:death>
+	
+</the:uuid-213f2b20-492a-4f08-b94b-ed4f9923da31>

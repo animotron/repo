@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:decimal-degrees xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>decimal degrees</have:lang-en>
+            <have:lang-ru status="check">десятичный градус</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- shortname: DD -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Decimal_degrees</have:uri></have:wiki>
+	
+	<!-- Example:
+	
+	The decimal degree representation of the location of the United States Capitol is:
+		38.889722°, -77.008889°
+
+	In most systems, such as Google Maps, the degree symbol is omitted and thus the coordinates are expressed as "38.889722, -77.008889".
+
+	A DMS value is converted to decimal degrees using the formula:
+		decimal = D + M / 60 + S / 3600
+
+	The decimal degree representation for the location of the United States Capitol of
+		38° 53′ 23″ N, 77° 00′ 32″ W
+
+	is:
+		38.889722°, -77.008889°
+ 	-->
+ 	
+ 	<!-- 
+ 		Conversion from DMS to Decimal Degree
+
+		Given a DMS (Degrees, Minutes, Seconds) coordinate such as W87°43′41″, it's trivial to convert it to a number of decimal degrees using the following method:
+		Calculate the total number of seconds, 43′41″ = (43*60 + 41) = 2621 seconds.
+		The fractional part is total number of seconds divided by 3600. 2621 / 3600 = ~0.728056
+		Add fractional degrees to whole degrees to produce the final result: 87 + 0.728056 = 87.728056
+		Since it is a West longitude coordinate, negate the result.
+		The final result is -87.728056.
+	-->
+</the:decimal-degrees>

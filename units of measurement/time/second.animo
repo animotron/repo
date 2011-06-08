@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:second xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:time/> <!-- this relation wrong, must be unit-of-time -->
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>second</have:lang-en>
+            <have:lang-ru>секунда</have:lang-ru>
+            <have:lang-la>secunda</have:lang-la> <!-- сокращение выражения «pars minuta secunda» -->
+        </ptrn:language>
+    </have:name>
+    
+   	<have:denoted>
+        <ptrn:language>
+            <have:lang-en>s</have:lang-en> <!-- or "sec" -->
+            <have:lang-ru>с</have:lang-ru> <!-- or "сек" -->
+        </ptrn:language>
+   	</have:denoted>
+    
+</the:second>

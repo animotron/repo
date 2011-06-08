@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:niece xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>niece</have:lang-en>
+            <have:lang-ru>племянница</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- sister's daughter, brother's daughter, wife's brother's daughter, wife's sister's daughter, husband's brother's daughter, husband's sister's daughter -->
+	
+	<!-- <have:denoted></have:denoted> -->
+	
+</the:niece>

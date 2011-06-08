@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:negative-integer xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	
+	<is:number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>zero</have:lang-en>
+            <have:lang-ru>ноль</have:lang-ru><!-- TODO: нуль -->
+            <have:lang-la>nullus</have:lang-la><!-- никакой -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>0</have:denoted>
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Zero</have:uri></have:wiki>
+	
+</the:negative-integer>

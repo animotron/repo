@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:manipulative-device xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:special-technique/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>manipulative device</have:lang-en>
+            <have:lang-ru>манипулятор</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:manipulative-device>

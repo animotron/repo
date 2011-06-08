@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:theme-capsicum-root-layout xmlns="http://www.w3.org/1999/xhtml" xmlns:is="animo/relation/is" xmlns:get="animo/query/extract" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:the="animo/instance">
+    <is:root-layout/>
+    
+    <have:content>
+        <an:logo-widget/>
+        
+        <div id="content">
+            <div id="sidebar">
+                <div id="menu">
+                    <ul>
+                        <li class="active">
+                            <a href="#" title="">Homepage</a>
+                        </li>
+                        <li>
+                            <a href="#" title="">About Us</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="login" class="boxed">
+                    <h2 class="title">Client Account</h2>
+                    <div class="content">
+                        <form id="form1" method="post" action="#">
+                            <fieldset>
+                                <legend>Sign-In</legend>
+                                <label for="inputtext1">Client ID:</label>
+                                <input id="inputtext1" type="text" name="inputtext1" value=""/>
+                                <label for="inputtext2">Password:</label>
+                                <input id="inputtext2" type="password" name="inputtext2" value=""/>
+                                <input id="inputsubmit1" type="submit" name="inputsubmit1" value="Sign In"/>
+                                <p>
+                                    <a href="#">Forgot your password?</a>
+                                </p>
+                            </fieldset>
+                        </form>
+                    </div>
+                </div>
+                <div id="updates" class="boxed">
+                    <h2 class="title">Recent Updates</h2>
+                    <div class="content">
+                        <ul>
+                            <li>
+                                <h3>March 5, 2007</h3>
+                                <p>
+                                    <a href="#">In posuere eleifend odio quisque semper augue mattis wisi
+                                        maecenas ligula…</a>
+                                </p>
+                            </li>
+                            <li>
+                                <h3>March 3, 2007</h3>
+                                <p>
+                                    <a href="#">Quisque dictum integer nisl risus, sagittis convallis,
+                                        rutrum id, congue, and nibh…</a>
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="main">
+                <div id="welcome">
+                    <get:content/>
+                    <div class="hr">
+                        <hr/>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="extra"/>
+        </div>
+        <div id="footer">
+            <p id="legal">Copyright 2011. All Rights Reserved. Designed by
+                <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.
+            </p>
+            <p id="links">
+                <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a>
+            </p>
+        </div>
+
+    </have:content>
+    
+</the:theme-capsicum-root-layout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:division xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:binary-operation/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>division</have:lang-en>
+            <have:lang-ru>деле́ние</have:lang-ru><!-- операция деления -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>÷</have:denoted>
+
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Division_(mathematics)</have:uri></have:wiki>
+	
+	<!--
+	a / b = c 
+	a is called the dividend, b the divisor and c the quotient.
+	-->
+	
+	<!-- 
+	Сколько раз 3 содержится в 14?
+	14 называется делимым, число 3 — делителем, число 4 — (неполным) частным и число 2 — остатком (от деления)
+	 -->
+	
+</the:division>

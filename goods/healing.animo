@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:healing xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:roof/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>healing</have:lang-en>
+            <have:lang-ru>кровельные работы</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:healing>

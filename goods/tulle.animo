@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:tulle xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:tissues/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>tulle</have:lang-en>
+            <have:lang-ru>тюль</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:tulle>

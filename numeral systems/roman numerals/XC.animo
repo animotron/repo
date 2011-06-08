@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:XC xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:digit/><!-- TODO correct ??? -->
+	<is:roman-numerals/>
+
+	<!-- 
+    <have:name>
+		<ptrn:language>
+            <have:lang-la></have:lang-la>
+        </ptrn:language>
+	</have:name>
+	-->
+	
+	<have:denoted>XC</have:denoted>
+	<!-- TODO: <have:natural-number>90</have:natural-number> -->
+	
+	<!-- TODO: XC == ninety ? -->
+
+</the:XC>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:international-system-of-units xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>international system of units</have:lang-en>
+            <have:lang-ru>международная система единиц</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+    
+   	<have:denoted>
+        <ptrn:language>
+            <have:lang-en>SI</have:lang-en>
+            <have:lang-ru>СИ</have:lang-ru>
+        </ptrn:language>
+   	</have:denoted>
+</the:international-system-of-units>

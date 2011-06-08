@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:fraction xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	<!-- in математика -->
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>fraction</have:lang-en>
+            <have:lang-ru>дробь</have:lang-ru>
+            <have:lang-la>fractus</have:lang-la>
+        </ptrn:language>
+	</have:name>
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Fraction_(mathematics)</have:uri></have:wiki>
+	
+	<have:numerator/>
+	<have:denominator/>
+	
+</the:fraction>

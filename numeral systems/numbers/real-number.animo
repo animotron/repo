@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:real-number xmlns:is="animo/relation/is" xmlns:si="animo/relation/si" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>rational number</have:lang-en>
+            <have:lang-ru>вещественное число</have:lang-ru>
+            <have:lang-la>numerus realis</have:lang-la>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>ℝ</have:denoted><!-- TODO: boldface R -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Real_number</have:uri></have:wiki>
+
+	<!-- 
+	a real number is a value that represents a quantity along a continuum
+	-->	
+	
+</the:real-number>

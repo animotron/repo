@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-3fae40b1-7260-4389-9a06-d24e446eadcb xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Lillian M. /Bounds/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1899-02-15/></have:date>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1997-12-16/></have:date>
+		<have:place>Los Angeles, California</have:place>
+	</have:death>
+	
+</the:uuid-3fae40b1-7260-4389-9a06-d24e446eadcb>

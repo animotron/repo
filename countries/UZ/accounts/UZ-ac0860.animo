@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac0860 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac0800/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Капитальные вложения в основные средства, полученные по договору долгосрочной аренды</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>08.60</have:code>
+    <have:code>0860</have:code>
+</the:UZ-ac0860>

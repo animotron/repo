@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac9350 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac9300/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Доходы от краткосрочной аренды</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>93.50</have:code>
+    <have:code>9350</have:code>
+</the:UZ-ac9350>

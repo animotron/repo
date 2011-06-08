@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac8910 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac8900/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Резервы предстоящих расходов и платежей</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>89.10</have:code>
+    <have:code>8910</have:code>
+</the:UZ-ac8910>

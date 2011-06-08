@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:groupsep xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:grapheme/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>the separator between clusters of integers</have:lang-en> <!-- the grouping separator -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>
+		<ptrn:language>
+            <have:lang-en>,</have:lang-en>
+            <have:lang-ru>'</have:lang-ru>
+        </ptrn:language>
+	</have:denoted>
+</the:groupsep>

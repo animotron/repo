@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-48cdd92d-0cfd-4e9a-baa7-3de6766ec71d xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Eliza /Totman/</have:lang-en>
+	</have:name>
+	
+</the:uuid-48cdd92d-0cfd-4e9a-baa7-3de6766ec71d>

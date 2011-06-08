@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:address-geography xmlns:ic="animo/connection" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>address</have:lang-en>
+            <have:lang-ru>адрес</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:addressee/>
+
+	<!-- TODO: pattern for instance name -->
+    <ptrn:country>
+        <have:UK>
+            <have:street-number/>
+            <have:street/>
+            <have:locality/>
+            <have:post-town/>
+            <have:postcode/>
+        </have:UK>
+        <have:USA>
+            <have:street-number/>
+            <have:street/>
+            <have:town/>
+            <have:state>
+				<!-- TODO: selected morphizm -->
+				<!-- <an:name><an:abbreviation/></an:name> -->
+            </have:state>
+            <have:zip-code/>
+        </have:USA>
+        <ic:other>
+            <have:street-number/>
+            <have:street/>
+            <have:town/>
+            <have:state/>
+            <have:zip-code/>
+        </ic:other>
+    </ptrn:country>
+    
+    <!-- duplication? no, this one force to have 'ask' for it -->
+	<have:country/>
+
+</the:address-geography>

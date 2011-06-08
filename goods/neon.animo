@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:neon xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:gas/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>neon</have:lang-en>
+            <have:lang-ru>неон</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:neon>

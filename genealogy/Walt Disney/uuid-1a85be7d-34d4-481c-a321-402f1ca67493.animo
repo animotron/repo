@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-1a85be7d-34d4-481c-a321-402f1ca67493 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>Charles Henry /Call/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1870-10-06/></have:date>
+		<have:place>Greenfield, Huron, Ohio</have:place>
+	</have:birth>
+	
+</the:uuid-1a85be7d-34d4-481c-a321-402f1ca67493>

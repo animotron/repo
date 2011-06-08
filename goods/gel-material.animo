@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:gel-material xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:building-materials/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>gel material</have:lang-en>
+            <have:lang-ru>глинопорошки</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:gel-material>

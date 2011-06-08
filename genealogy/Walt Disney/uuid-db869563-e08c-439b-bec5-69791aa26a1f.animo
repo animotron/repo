@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-db869563-e08c-439b-bec5-69791aa26a1f xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Mercy /Lawrence/</have:lang-en>
+	</have:name>
+	
+</the:uuid-db869563-e08c-439b-bec5-69791aa26a1f>

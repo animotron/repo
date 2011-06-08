@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac7900 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета долгосрочной задолженности разным кредиторам</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>79</have:code>
+    <have:code>7900</have:code>
+    
+</the:UZ-ac7900>

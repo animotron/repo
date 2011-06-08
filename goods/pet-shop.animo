@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:pet-shop xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:shop/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>pet-shop</have:lang-en>
+            <have:lang-ru>зоомагазин</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:pet-shop>

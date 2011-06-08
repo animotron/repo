@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:photoepilation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:service/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>photoepilation</have:lang-en>
+            <have:lang-ru>фотоэпиляция</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:photoepilation>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:widget xmlns:have="animo/relation/have" xmlns:use="animo/relation/use" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <use:jquery/>
+    
+    <do:xquery>
+        
+        let $id      := (unordered($CONTEXT/self::have:id)[1]/text(), util:uuid())[1]
+        let $width   := u:attribute("width", unordered($CONTEXT/self::have:width)[1]/text())
+        let $height  := u:attribute("height", unordered($CONTEXT/self::have:height)[1]/text())
+        let $init    := $context/self::have:init/text()
+        let $content := $context/self::have:content/node()
+        let $class   := u:attribute("class", $flow-stack[1]/local-name())
+        return 
+            (
+                if ($init)
+                    then
+                        <have:script>
+                            $(function(){{
+                                ({$init})($("#{$id}"))
+                            }});
+                        </have:script>
+                    else
+                        (),
+                
+                <have:content>
+            <div xmlns="http://www.w3.org/1999/xhtml" id="{$id}">
+                        {
+                            $height, $width, $class, $content
+                        }
+                    </div>
+                    
+                </have:content>
+            )
+            
+    </do:xquery>
+
+</the:widget>

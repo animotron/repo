@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac3100 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:account/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета учета расходов будущих периодов</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>31</have:code>
+    <have:code>3100</have:code>
+    
+</the:UZ-ac3100>

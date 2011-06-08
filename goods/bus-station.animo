@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:bus-station xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:enterprise/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>bus station</have:lang-en>
+            <have:lang-ru>автовокзал</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:bus-station>

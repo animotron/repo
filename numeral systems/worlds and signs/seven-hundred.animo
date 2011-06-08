@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:seven-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<!-- TODO: remove? -->
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>seven hundred</have:lang-en> <!-- TODO: seven + " " +hundred -->
+            <have:lang-ru>семьсот</have:lang-ru> <!-- TODO: семь + сот -->
+            <!-- TODO: семисот, семистам, семьюстами, семистах -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>700</have:denoted> <!-- десятичная система счисления -->
+	
+</the:seven-hundred>

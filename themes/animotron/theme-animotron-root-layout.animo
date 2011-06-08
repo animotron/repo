@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:theme-animotron-root-layout xmlns="http://www.w3.org/1999/xhtml" xmlns:is="animo/relation/is" xmlns:get="animo/query/extract" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:the="animo/instance">
+    <is:root-layout/>
+    <is:content-layout/>
+    <have:content>
+        <div id="wrapper">
+            <div id="header">
+                <div class="container">
+                    <div class="content">
+                        <div class="text fix_t" id="t_repeat">
+                            <div id="inside_t_right" class="top"/>
+                        </div>
+                    </div>
+                    <div class="left top" id="t_left">
+                        <an:logo-widget/>
+                    </div>
+                    <div class="right top" id="t_right"/>
+                    <div class="clear"/>
+                </div>
+            </div>
+            <div class="container">
+                <div class="m_left">
+                    <div class="content">
+                        <div id="conbox" class="text">
+                            <div id="in_txt_repeat_y_left">
+                                <div id="in_txt_repeat_y_right">
+                                    <div id="in_txt_repeat_bottom">
+                                        <div id="left_cont_b">
+                                            <div id="right_cont_b">
+                                                <div id="main_box">
+                                                    <div id="inside_box">
+                                                        <div id="content_box">
+                                                            <!--
+                                                                <div class="news">
+                                                                <div class="title h2"/>
+                                                                -->
+
+                                                                <!--<span class="d_autor">21.02.11/ Admin</span>-->
+                                                            <get:content/>
+
+                                                                <!--
+                                                                <div class="lbox">
+                                                                    <a href="/" title="read more">read more</a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="del_1"/>
+                                                                -->
+                                                            <div class="footer">
+                                                                <p>Copyright © 2011 Animotron. All Rights Reserved.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="left" id="leftcolumn"/>
+                    <div class="right" id="m_right">
+                        <div id="m_right_bottom">
+                            <div class="hide_menu">
+                                <div class="top_menu"/>
+                                <div class="repeat_menu">
+                                    <div class="dm_top">
+                                        <get:gui-menu/>
+                                    </div>
+                                </div>
+                                <div class="bot_menu"/>
+
+                                <!--Login-->
+                                <!--
+                                <div class="top_menu"/>
+                                <div class="repeat_menu">
+                                    <div class="dm_top">
+                                        <div class="arr_bottom arr_all">Authorization</div>
+                                        <div class="login">
+                                            <form action="" method="post">
+                                                <input class="log" type="text" name="login" value="Username" onfocus="this.value = '';"/>
+                                                <input class="log" type="password" name="password" value="******" onfocus="this.value = '';"/>
+                                                <div class="send">
+                                                    <button class="button">Sign in</button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="bot_menu"/>
+                                -->
+                            </div>
+                            <div class="clear"/>
+                        </div>
+                    </div>
+                    <div class="clear"/>
+                </div>
+            </div>
+            <div id="footer">
+                <div class="container">
+                    <div class="content">
+                        <div id="f_cent" class="text fix_center_f"/>
+                    </div>
+                    <div id="f_left" class="left"/>
+                    <div id="f_right" class="right"/>
+                    <div class="clear"/>
+                    <div align="right">
+                        <a href="http://sourceforge.net/projects/animo/">
+                            <img src="http://sflogo.sourceforge.net/sflogo.php?group_id=92981&amp;type=9" width="80" height="15" alt="Get Animo at SourceForge.net. Fast, secure and Free Open Source software downloads"/>
+                        </a>
+                        <script type="text/javascript" src="http://www.ohloh.net/p/479355/widgets/project_thin_badge.js"/>
+                        <img src="/image/existdb.png" height="40" width="135" alt="Powered by eXist-db"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </have:content>
+</the:theme-animotron-root-layout>

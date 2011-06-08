@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:acceleration xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:math="animo/math">
+
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>acceleration</have:lang-en>
+            <have:lang-ru>ускоре́ние</have:lang-ru> 
+        </ptrn:language>
+    </have:name>
+    
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Acceleration</have:uri></have:wiki>
+	
+	<!-- In physics, acceleration is the rate of change of velocity over time. -->
+	<!-- In common speech, the term acceleration is used for an increase in speed (the magnitude of velocity); -->
+	
+	<!-- Acceleration has the dimensions L T^−2 -->
+	<!-- СИ м/с² ; СГС см/с² -->
+	<!-- In SI units, acceleration is measured in meters per second squared (m/s^2) -->
+	
+   	<have:denoted>a</have:denoted> 
+   	<!-- обычно обозначается вектор(a), в теоретической механике вектор(ω) -->
+
+	<!-- 
+	In classical mechanics, for a body with constant mass, 
+	the acceleration of the body is proportional to the net force acting on it 
+	(Newton's second law)
+	F = m * a => a = F / m
+	-->
+	<math:division>
+		<an:force/>
+		<an:mass/>
+	</math:division>
+	
+	<!-- 	
+	Average acceleration is the change in velocity (Δv) divided by the change in time (Δt).
+	v = u + a*t
+	s = u* t + (1/2) * a * t^2 = ((u + v) * t) / 2
+	|v|^2 = |u|^2 + 2 * a * s
+	s - displacement
+	u - initial velocity
+	v - final velocity
+	t - time
+	-->
+	
+	<!-- 
+	Circular motion
+	a = v^2 / r
+	a = -ω^2 * r
+	ω - angular velocity
+	v - speed
+	r - 
+	-->
+</the:acceleration>

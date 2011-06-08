@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:html-serialization xmlns:is="animo/relation/is" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <is:serialization/>
+    
+    <do:xquery>
+        
+        declare namespace xhtml = "http://www.w3.org/1999/xhtml";
+        
+        declare function local:content ($content as node()*) as element()*{
+            if ($content)
+                then
+                    let $res := $content/(html | xhtml:*)
+                    return
+                        if ($res) 
+                            then
+                                $res
+                            else
+                                local:content($content/*)
+                else
+                    ()
+        };
+        
+        serialize:as-html(local:content($context))
+        
+    </do:xquery>
+</the:html-serialization>

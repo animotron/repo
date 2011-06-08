@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:old-links-workaround-service xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <is:service/>
+    <have:uri>/development</have:uri>
+    <have:uri>/theme-layout-documentation</have:uri>
+    <have:uri>/form-generator-documentation</have:uri>
+    <do:xquery> 
+        let $link := substring($CONTEXT//have:request-uri, 2) 
+        let $link := if ($link eq"development") 
+                        then 
+                            "animo-development" 
+                        else 
+                            $link 
+        return
+            response:redirect-to(xs:anyURI(concat("/content?use:", $link))) </do:xquery>
+</the:old-links-workaround-service>

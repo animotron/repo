@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:serialize xmlns:any="animo/query/any" xmlns:the="animo/instance">
+    <any:serialization/>
+</the:serialize>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-75365b4b-1792-4f7e-b1a3-8f1bd17ce135 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Mercy /Fox/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1740or1741-03-10/></have:date> <!-- TODO: 10 MAR 1740/1741 -->
+		<have:place>Roxbury, Suffolk, Mass.</have:place>
+	</have:birth>
+	
+</the:uuid-75365b4b-1792-4f7e-b1a3-8f1bd17ce135>

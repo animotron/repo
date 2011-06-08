@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:group-multiplicative xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
+
+	<is:algebraic-structure/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>multiplicative group</have:lang-en>
+            <have:lang-ru></have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:wiki><have:uri></have:uri></have:wiki>
+	
+	<!-- 
+	structure with a binary multiplicative operation (·), 
+	satisfying the group axioms: associativity, neutral element, inverse element and closure
+	-->
+	
+	<!-- 
+	TODO: times - the product of this class instance with the one ???
+	TODO: inverse - the multiplicative inverse of this class instance. 
+					(X times (X inverse) ) == ONE
+	-->
+	
+	<ic:multiplication/> <!-- (times), see the:multiplication -->
+	<ic:inverse/>
+	
+</the:group-multiplicative>

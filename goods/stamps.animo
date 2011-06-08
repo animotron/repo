@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:stamps xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:stamp/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>stamps</have:lang-en>
+            <have:lang-ru>печати</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:stamps>

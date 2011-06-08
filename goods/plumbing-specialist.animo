@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:plumbing-specialist xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>plumbing specialist</have:lang-en>
+            <have:lang-ru>сантехник</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:plumbing-specialist>

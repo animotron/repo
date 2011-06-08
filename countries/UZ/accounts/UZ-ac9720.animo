@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac9720 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac9700/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Чрезвычайные убытки</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>97.20</have:code>
+    <have:code>9720</have:code>
+</the:UZ-ac9720>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:operation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>operation</have:lang-en><!-- TODO: mathematical operation -->
+            <have:lang-ru>операция</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<!-- отображение, ставящее в соответствие одному или нескольким элементам множества (аргументам) другой элемент (значение) -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Operation_(mathematics)</have:uri></have:wiki>
+	
+	<!-- TODO: basic arithmetic operations -->
+	
+</the:operation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:deci xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+
+    <have:name>tenth</have:name>
+    
+   	<have:denoted>d</have:denoted><!-- Symbol -->
+   	<have:prefix>deci</have:prefix>
+
+   	<have:short-scale>
+   		<have:name>tenth</have:name>
+   		<have:factor>1000^-(1/3)</have:factor>
+   	</have:short-scale>
+   	<have:long-scale>
+   		<have:name>tenth</have:name>
+   		<have:factor>10^-1</have:factor>
+   	</have:long-scale>
+   	
+   	<have:number><Q:D0.1/></have:number>
+   	
+   	<have:since><T:D1795/></have:since>
+</the:deci>

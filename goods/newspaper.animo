@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:newspaper xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:printed-matter/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>newspaper</have:lang-en>
+            <have:lang-ru>газета</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:newspaper>

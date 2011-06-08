@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:rational-number xmlns:is="animo/relation/is" xmlns:si="animo/relation/si" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>rational number</have:lang-en>
+            <have:lang-ru>рациональное число</have:lang-ru>
+            <!-- TODO: <have:lang-la>ratio — отношение, деление, дробь</have:lang-la> -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>ℚ</have:denoted><!-- TODO: boldface Q -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Rational_number</have:uri></have:wiki>
+
+	<!-- 
+	any number that can be expressed as the quotient or fraction a/b of two integers, 
+	with the denominator b not equal to zero
+	-->	
+	
+</the:rational-number>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:three xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>three</have:lang-en>
+            <have:lang-ru>три</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>3</have:denoted>
+	
+</the:three>

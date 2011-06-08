@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:summation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
+
+	<is:operation/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>summation</have:lang-en>
+            <have:lang-ru>су́мма</have:lang-ru>
+            <have:lang-la>summa</have:lang-la><!-- итог, общее количество -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>Σ</have:denoted>
+
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Summation</have:uri></have:wiki>
+	
+	<!-- the operation of combining a sequence of numbers using addition -->
+	<!-- the result is their sum or total -->
+	<!-- If numbers are added sequentially from left to right, any intermediate result is a partial sum or running total of the summation. -->
+	<!-- 
+	The numbers to be summed may be integers, rational numbers, real numbers, or complex numbers. 
+	
+	Besides numbers, other types of values can be added as well: vectors, matrices, polynomials, 
+	and in general elements of any additive group (or even monoid). 
+	
+	For finite sequences of such elements, summation always produces a well-defined sum (possibly by virtue of the convention for empty sums).
+	-->
+	
+</the:summation>

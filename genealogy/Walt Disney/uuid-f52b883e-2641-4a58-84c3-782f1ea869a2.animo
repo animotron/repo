@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-f52b883e-2641-4a58-84c3-782f1ea869a2 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Hannah /Burroughs/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1680-04-27/></have:date>
+		<have:place>Salisbury, Essex, Mass.</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1749-08-05/></have:date>
+		<have:place>Woburn, Middlesex, Mass.</have:place>
+	</have:death>
+	
+</the:uuid-f52b883e-2641-4a58-84c3-782f1ea869a2>

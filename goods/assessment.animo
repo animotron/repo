@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:assessment xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:appraisal/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>assessment</have:lang-en>
+            <have:lang-ru>оценка имущества</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:assessment>

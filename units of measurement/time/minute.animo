@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:minute xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:time/> <!-- this relation wrong, must be unit-of-time -->
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>minute</have:lang-en>
+            <have:lang-ru>минута</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+    
+   	<have:denoted>
+        <ptrn:language>
+            <have:lang-en>m</have:lang-en> <!-- or "min" -->
+            <have:lang-ru>м</have:lang-ru> <!-- or "мин" -->
+        </ptrn:language>
+   	</have:denoted>
+    
+</the:minute>

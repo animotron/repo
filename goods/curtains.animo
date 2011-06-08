@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:curtains xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:tent/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>curtains</have:lang-en>
+            <have:lang-ru>полог</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:curtains>

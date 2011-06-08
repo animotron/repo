@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:newton xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+
+	<is:unit-of-measurement/>
+	
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>Newton</have:lang-en>
+            <have:lang-ru>Ньютон</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+    
+   	<have:denoted>N</have:denoted> <!-- Н -->
+
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Newton_(unit)</have:uri></have:wiki>
+	
+	<!-- SI: кг·м·c^−2 -->
+
+</the:newton>

@@ -1,0 +1,26 @@
+.ui-layout-pane {
+    overflow : hidden;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.ui-layout-resizer {
+    border : none;
+}
+
+.ui-layout-toggler {
+    border-style : solid;
+    border-width : 1px;
+    -moz-border-radius-topleft: 3px;
+    -moz-border-radius-topright: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}

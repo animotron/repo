@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-8d2233d3-9f99-47a2-847c-6625b54c1ac9 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>John Appleton /Kelley/</have:lang-en>
+	</have:name>
+	
+</the:uuid-8d2233d3-9f99-47a2-847c-6625b54c1ac9>

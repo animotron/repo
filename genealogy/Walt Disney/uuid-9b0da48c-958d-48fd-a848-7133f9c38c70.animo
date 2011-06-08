@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-9b0da48c-958d-48fd-a848-7133f9c38c70 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Olive /Call/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1793-06-24/></have:date>
+		<have:place>Colrain, Franklin, Mass.</have:place>
+	</have:birth>
+	
+</the:uuid-9b0da48c-958d-48fd-a848-7133f9c38c70>

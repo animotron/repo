@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:atto xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+
+    <have:name><an:TODO/></have:name>
+    
+   	<have:denoted>a</have:denoted><!-- Symbol -->
+   	<have:prefix>atto</have:prefix>
+
+   	<have:short-scale>
+   		<have:name>quintillionth</have:name> <!-- TODO: quinti + llionth -->
+   		<have:factor>1000^-6</have:factor>
+   	</have:short-scale>
+   	<have:long-scale>
+   		<have:name>trillionth</have:name> <!-- TODO: tri + llionth -->
+   		<have:factor>10^-18</have:factor>
+   	</have:long-scale>
+   	
+   	<have:number><Q:D0.000000000000000001/></have:number>
+   	
+   	<have:since><T:D1964/></have:since>
+</the:atto>

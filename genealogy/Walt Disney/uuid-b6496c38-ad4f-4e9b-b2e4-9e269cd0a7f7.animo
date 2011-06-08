@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-b6496c38-ad4f-4e9b-b2e4-9e269cd0a7f7 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>Jabez /Fox/</have:lang-en>
+	</have:name>
+	
+</the:uuid-b6496c38-ad4f-4e9b-b2e4-9e269cd0a7f7>

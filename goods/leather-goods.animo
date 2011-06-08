@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:leather-goods xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>leather goods</have:lang-en>
+            <have:lang-ru>кожгалантерея</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:leather-goods>

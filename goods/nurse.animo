@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:nurse xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>nurse</have:lang-en>
+            <have:lang-ru>сиделка</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:nurse>

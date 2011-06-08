@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:form-generator-service xmlns:is="animo/relation/is" xmlns:any="animo/query/any" xmlns:an="animo/reference" xmlns:the="animo/instance">
+    <is:service/>
+	<an:html>
+        <an:form-generator/>
+	</an:html>
+</the:form-generator-service>

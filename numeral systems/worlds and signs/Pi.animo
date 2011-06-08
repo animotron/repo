@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:Pi xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>Pi</have:lang-en>
+            <have:lang-ru>Пи</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+   	<have:denoted>π</have:denoted>
+</the:Pi>

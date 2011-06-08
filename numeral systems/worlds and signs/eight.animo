@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:eight xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>eight</have:lang-en>
+            <have:lang-ru>восемь</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>8</have:denoted>
+	
+</the:eight>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:school xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:education/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>school</have:lang-en>
+            <have:lang-ru>школа</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:school>

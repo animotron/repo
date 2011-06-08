@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:hexadecimal xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:positional-notation/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>hexadecimal</have:lang-en><!-- TODO: base 16, or hex -->
+            <have:lang-ru>Шестнадцатеричная система счисления</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Hexadecimal</have:uri></have:wiki>
+	
+	<have:alphabet>
+		<an:zero/>
+		<an:one/>
+		<an:two/>
+		<an:three/>
+		<an:four/>
+		<an:five/>
+		<an:six/>
+		<an:seven/>
+		<an:eight/>
+		<an:nine/>
+
+		<an:A-digit/>
+		<an:B-digit/>
+		<an:C-digit/>
+		<an:D-digit/>
+		<an:E-digit/>
+		<an:F-digit/>
+	</have:alphabet>
+	-->	
+</the:hexadecimal>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-b49e690b-d6c5-4ebf-b7cc-b9713e654710 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Barbara Elizabeth /Boyer/</have:lang-en>
+	</have:name>
+	
+</the:uuid-b49e690b-d6c5-4ebf-b7cc-b9713e654710>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:jquery-ui-autocomplite xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <do:xquery>
+        let $context := $context/self::the:sense-context
+        let $query := concat($context/term_startsWith/text(), "*")
+        let $searchBy := concat("is:", $context/searchBy/text())
+        let $result := util:eval(concat("//the:*[ft:query(have:name, $query)][",$searchBy,"]"))
+        let $callback :=  
+            if ($context/callback) then <callback>{$context/callback/text()}</callback> 
+            else ()
+        let $items := 
+            if ($result) then
+                for $r in $result
+                return
+                    <item>
+            <name>{
+                            if ($r/have:name/*) then $r/have:name/*
+                            else $r/have:name/text()
+                        }</name>
+			            <id>{local-name($r)}</id>
+			        </item>
+            else
+                <item/>
+        return
+            ($callback,<have:json>{$items}</have:json>)
+	</do:xquery>
+</the:jquery-ui-autocomplite>

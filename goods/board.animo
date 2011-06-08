@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:board xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:building-materials/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>board</have:lang-en>
+            <have:lang-ru>доска</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:board>

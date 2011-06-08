@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:foaming-agent xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:foam/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>foaming agent</have:lang-en>
+            <have:lang-ru>пенообразователь</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:foaming-agent>

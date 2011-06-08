@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:irc-log-viewer-service xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:the="animo/instance">
+    <is:service/>
+    <have:uri>/irc-log-viewer</have:uri>
+    <an:html>
+        <an:content>
+            <an:theme-capsicum>
+                <an:irc-log-viewer>
+                    <an:context/>
+                </an:irc-log-viewer>
+            </an:theme-capsicum>
+        </an:content>
+    </an:html>
+</the:irc-log-viewer-service>

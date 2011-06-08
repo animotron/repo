@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:oil xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:delivery/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>oil</have:lang-en>
+            <have:lang-ru>масло</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:oil>

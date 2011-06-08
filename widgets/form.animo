@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:form xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:any="animo/query/any" xmlns:use="animo/relation/use" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <use:jquery/>
+    <use:jquery-form/>
+    
+    <do:xquery>
+        let $id       := util:uuid()                
+        let $widget   := $context/self::have:widget/node()
+        let $action   := $context/self::have:action/text()
+        let $callback := $context/self::have:callback/text()
+        let $method   := ($context/self::have:method/text(), 'POST')[1]
+        return 
+            (
+                if ($callback)
+                    then
+                        <have:script>
+                            $(function(){{
+                                $("#{$id}").ajaxForm({$callback});    
+                            }});
+                        </have:script>
+                    else
+                        (),
+                
+                <have:content>
+            <form xmlns="http://www.w3.org/1999/xhtml" id="{$id}" action="{$action}" method="{$method}">
+                        {$widget}
+                    </form>
+                </have:content>
+            )
+    </do:xquery>
+    
+</the:form>

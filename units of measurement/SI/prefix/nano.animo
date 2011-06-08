@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:nano xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+
+    <have:name><an:TODO/></have:name>
+    
+   	<have:denoted>n</have:denoted><!-- Symbol -->
+   	<have:prefix>nano</have:prefix>
+
+   	<have:short-scale>
+   		<have:name>billionth</have:name> <!-- TODO: bi + llionth -->
+   		<have:factor>1000^-3</have:factor>
+   	</have:short-scale>
+   	<have:long-scale>
+   		<have:name>milliardth</have:name> <!-- TODO: mi + lliardth -->
+   		<have:factor>10^-9</have:factor>
+   	</have:long-scale>
+   	
+   	<have:number><Q:D0.000000001/></have:number>
+   	
+   	<have:since>1960</have:since>
+</the:nano>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:geo-content xmlns:have="animo/relation/have" xmlns:do="animo/perform" xmlns:the="animo/instance">
+    <have:content>
+        <do:xquery>
+            
+            declare function local:uri($param as element()*) as xs:string {
+                concat(
+                    "?",
+                    string-join(
+                        for $i in $param
+                        return
+                            concat(local-name($i), "=", $i),
+                        "&amp;"    
+                    )
+                )
+            }; 
+            
+            for $i in $context/have:place
+            let $link    := $i/have:display_name/text()
+            let $uri     := local:uri($i/(have:lon, have:lat, have:bounds))
+            let $icon    := $i/have:icon/text()
+            return
+                element have:item {
+                    element have:link {
+                        element have:icon  {$icon} [$icon],
+                        element have:text  {$link},
+                        element have:uri   {$uri}
+                    }
+                }
+                
+        </do:xquery>
+    </have:content>
+</the:geo-content>

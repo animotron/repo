@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-e2edabee-d2d1-4635-9230-384692f097e2 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>Isaac /Call/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1780-04-24/></have:date>
+		<have:place>Colrain, Franklin, Mass.</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1793-12-01/></have:date>
+		<have:place>Colrain, Franklin, Mass.</have:place>
+	</have:death>
+	
+</the:uuid-e2edabee-d2d1-4635-9230-384692f097e2>

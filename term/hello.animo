@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:hello xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>hello</have:lang-en>
+            <have:lang-ru>привет</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:hello>

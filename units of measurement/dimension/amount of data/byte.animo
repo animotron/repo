@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:byte xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:math="animo/math">
+
+	<is:amount-of-data/> <!-- units of information -->
+	
+	<!-- eight bits -->
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>byte</have:lang-en>
+            <have:lang-ru>байт</have:lang-ru> 
+        </ptrn:language>
+    </have:name>
+    
+   	<have:denoted>B</have:denoted>
+   	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Byte</have:uri></have:wiki>
+
+</the:byte>

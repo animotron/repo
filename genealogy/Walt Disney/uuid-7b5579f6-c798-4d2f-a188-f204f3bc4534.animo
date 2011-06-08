@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-7b5579f6-c798-4d2f-a188-f204f3bc4534 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Alice /Call/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1862/></have:date><!-- ABT -->
+		<have:place>Ohio</have:place>
+	</have:birth>
+	
+</the:uuid-7b5579f6-c798-4d2f-a188-f204f3bc4534>

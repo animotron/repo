@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:general-ledger xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>general ledger</have:lang-en>
+            <!-- abbreviation -->
+            <have:lang-en>G/L</have:lang-en>
+            <have:lang-ru>главная книга</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:general-ledger>

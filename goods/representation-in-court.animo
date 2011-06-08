@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:representation-in-court xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:legal-services/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>representation in court</have:lang-en>
+            <have:lang-ru>представительство в суде</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:representation-in-court>

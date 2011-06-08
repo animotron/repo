@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac6110 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac6100/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Счета к оплате обособленным подразделениям</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>61.10</have:code>
+    <have:code>6110</have:code>
+</the:UZ-ac6110>

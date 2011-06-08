@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:positional-notation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
+	<is:numeral-system/>
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>positional notation</have:lang-en><!-- TODO: place-value notation -->
+            <have:lang-ru>позиционная систе́ма счисле́ния</have:lang-ru><!-- TODO: позиционная нумерация -->
+        </ptrn:language>
+	</have:name>
+	
+	<!-- a method of representing or encoding numbers -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Positional_notation</have:uri></have:wiki>
+	
+	<have:base/>
+	<have:alphabet/>
+	
+	<!-- 
+	Позиционная система счисления определяется целым числом b > 1, называемым основанием системы счисления. 
+	Система счисления с основанием b также называется b-ричной (в частности, двоичной, троичной, десятичной и т. п.).
+	-->
+	
+	<!-- TODO: notation == alphabet ??? -->
+	
+	<!-- "2506" => 2*10^3 + 5*10^2 + 0*10^1 + 6*10^0 -->
+	<!-- "171B" => 1*16^3 + 7*16^2 + 1*16^1 + B*16^0 => 1*16^3 + 7*16^2 + 1*16^1 + 11*16^0 -->
+
+	<!-- формула перевода в base10 -->
+	<!-- 
+	int result = 0;
+	for (int x = animo-parser:length; x >= 1 ; x--) {
+		result += N10( animo-parser:symbol( x ) ) * 10 ^ get:base;
+	}
+	-->
+	<!-- 
+	animo-parser:length >= x >= 1
+	N10( animo-parser:symbol( x ) ) * get:base ^ x;
+	 -->
+	<ic:number>
+		<math xmlns="http://www.w3.org/1998/Math/MathML">
+			<apply>
+				<sum/> 
+				<bvar> 
+					<ci>x</ci> 
+				</bvar> 
+				<lowlimit> 
+					<ci>animo-parser:length</ci> 
+				</lowlimit> 
+				<uplimit> 
+					<ci>1</ci> 
+				</uplimit> 
+				<apply>
+					<times/>
+					<ci>
+						<apply>
+							<ci type="fn">N10</ci><!-- TODO: ??? --> 
+							<ci>
+								<apply>
+									<ci type="fn">animo-parser:symbol</ci><!-- TODO: parser function that return symbol at position x? --> 
+									<ci>x</ci>
+								</apply> 
+							</ci> 
+						</apply>
+					</ci>
+					<ci>
+						<apply>
+							<power/>
+							<ci><get:base/></ci> <!-- get base of correct numerals -->
+							<cn>x</cn>
+						</apply>
+					</ci> 
+			</apply>
+		</math>
+	</ic:number>
+	
+	<!-- 
+	N10(123) => N7
+	
+	123/7 = 17 with remainder of 4
+	 17/7 =  2 with remainder of 3
+	  2/7 =  0 with remainder of 2
+	                               = N7(234)
+	-->
+	
+</the:positional-notation>

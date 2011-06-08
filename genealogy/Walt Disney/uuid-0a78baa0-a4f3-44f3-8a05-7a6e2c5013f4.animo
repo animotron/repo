@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-0a78baa0-a4f3-44f3-8a05-7a6e2c5013f4 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:female/>
+	
+    <have:name>
+        <have:lang-en>Martha Emeline /Howard/</have:lang-en>
+	</have:name>
+	
+</the:uuid-0a78baa0-a4f3-44f3-8a05-7a6e2c5013f4>

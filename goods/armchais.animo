@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:armchais xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:furniture/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>armchais</have:lang-en>
+            <have:lang-ru>кресла</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:armchais>

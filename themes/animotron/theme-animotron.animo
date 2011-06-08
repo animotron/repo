@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:theme-animotron xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:the="animo/instance">
+    <is:theme/>
+    <have:widget-color>#920000</have:widget-color>
+    <use:reset-css/>
+    <use:css-animotron/>
+    <use:js-equalcolumns/>
+    <use:js-esc/>
+    <use:jquery-ui-theme/>
+    <use:theme-animotron-root-layout/>
+</the:theme-animotron>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:uuid-f87952c5-d208-46cc-afa6-8dbc9d30cc92 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+
+	<is:male/>
+	
+    <have:name>
+        <have:lang-en>Stephen /Call/</have:lang-en>
+	</have:name>
+	
+	<have:birth>
+		<have:date><T:D1765-05-06/></have:date>
+		<have:place>Woodstock, Windham, Conn.</have:place>
+	</have:birth>
+	
+	<have:death>
+		<have:date><T:D1766-05-24/></have:date>
+		<have:place>Woodstock, Windham, Conn.</have:place>
+	</have:death>
+	
+</the:uuid-f87952c5-d208-46cc-afa6-8dbc9d30cc92>

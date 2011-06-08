@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac6620 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac6600/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Задолженность выбывающим учредителям по их доле</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>66.20</have:code>
+    <have:code>6620</have:code>
+</the:UZ-ac6620>

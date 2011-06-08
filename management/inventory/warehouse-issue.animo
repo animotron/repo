@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:warehouse-issue xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:warehouse-document/>
+	<is:issue/>
+	
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>warehouse issue</have:lang-en>
+            <have:lang-ru>расход со склада</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:warehouse-issue>

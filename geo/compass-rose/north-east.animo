@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:north-east xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>north-east</have:lang-en>
+            <have:lang-ru>северо-восток</have:lang-ru>
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>NE</have:denoted>
+	
+	<!-- <ic:wind><an:gregale/></ic:wind> -->
+	
+</the:north-east>

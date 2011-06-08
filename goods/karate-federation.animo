@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:karate-federation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:management/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>karate federation</have:lang-en>
+            <have:lang-ru>федерация карате</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:karate-federation>

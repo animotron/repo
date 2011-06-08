@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:UZ-ac2930 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:UZ-ac2900/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-ru>Товары на выставке</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+
+    <have:code>29.30</have:code>
+    <have:code>2930</have:code>
+</the:UZ-ac2930>

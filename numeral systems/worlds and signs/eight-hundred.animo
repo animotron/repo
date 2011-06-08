@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:eight-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<!-- TODO: remove? -->
+
+	<is:digit/>
+	<is:natural-number/>
+	
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>eight hundred</have:lang-en> <!-- TODO: eight + " " +hundred -->
+            <have:lang-ru>восемьсот</have:lang-ru> <!-- TODO: восемь + сот -->
+            <!-- TODO: восьмисот, восьмьюстами и восемьюстами, восьмистах -->
+        </ptrn:language>
+	</have:name>
+	
+	<have:denoted>800</have:denoted> <!-- десятичная система счисления -->
+	
+</the:eight-hundred>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:bowling xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:sport/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>bowling</have:lang-en>
+            <have:lang-ru>боулинг</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:bowling>
