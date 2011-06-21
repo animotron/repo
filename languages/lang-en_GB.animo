@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <the:lang-en_GB xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
-    <is:language/>
+    <is:lang-en/>
     <have:name>
         <ptrn:language>
             <have:lang-en>British English</have:lang-en>
