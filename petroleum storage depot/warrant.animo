@@ -1,0 +1,12 @@
+<the:warrant xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:document/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>warrant</have:lang-en>
+            <have:lang-ru>доверенность</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+    <have:number/>
+    <have:date/>
+    <have:person/>
+</the:warrant>

@@ -1,0 +1,9 @@
+<the:tax xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:text/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>tax</have:lang-en>
+            <have:lang-ru>налог</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:tax>

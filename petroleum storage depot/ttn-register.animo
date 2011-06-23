@@ -1,0 +1,5 @@
+<the:ttn-register xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <have:number/>
+    <have:timestamp/>
+    <have:comment/>
+</the:ttn-register>

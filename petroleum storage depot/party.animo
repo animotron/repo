@@ -1,0 +1,9 @@
+<the:party xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <!-- IS ??? -->
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>party</have:lang-en>
+            <have:lang-ru>контрагент</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:party>

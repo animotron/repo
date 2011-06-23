@@ -1,0 +1,44 @@
+<the:ttn xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <is:document/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>TTN</have:lang-en>
+            <have:lang-ru>ТТН</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+    <have:vendor>
+        <have:number/>
+        <have:date/>
+    </have:vendor>
+    <have:customer>
+        <have:number/>
+        <have:date/>
+        <have:warrant/>
+        <have:car/>
+    </have:customer>
+    <have:contract/>
+    <have:sku type="multi">
+        <have:good/>
+        <have:qty/>
+        <have:price/>
+        <have:sum/>
+        <have:tax/>
+        <have:total/>
+    </have:sku>
+    <have:comment/>
+<!--
+    <have:number/>
+    <have:date/>
+    <have:party/>
+    <have:contract/>
+    <have:warrant/>
+    <have:car/>
+    <have:good/>
+    <have:qty/>
+    <have:price/>
+    <have:sum/>
+    <have:vat/>
+    <have:total/>
+    <have:comment/>
+-->
+</the:ttn>
