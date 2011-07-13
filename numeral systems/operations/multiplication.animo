@@ -10,7 +10,15 @@
         </ptrn:language>
 	</have:name>
 	
-	<have:denoted>×</have:denoted> <!-- TODO: крестик (×), точку (∙) или звёздочку (∗) (http://ru.wikipedia.org/wiki/Знак_умножения) -->
+	<have:denoted>
+		<an:asterisk-operator/>
+		<an:asterisk/>
+		<an:bullet-operator/>
+		<an:dot-operator/>
+		<an:invisible-times/>
+		<an:middle-dot/>
+		<an:multiplication-sign/>
+	</have:denoted>
 
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Multiplication</have:uri></have:wiki>
 	
