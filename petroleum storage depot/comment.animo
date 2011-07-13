@@ -1,0 +1,10 @@
+<the:comment xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+    <!-- IS ??? -->
+    <is:text/>
+    <have:name>
+        <ptrn:language>
+            <have:lang-en>comment</have:lang-en>
+            <have:lang-ru>комментарий</have:lang-ru>
+        </ptrn:language>
+    </have:name>
+</the:comment>

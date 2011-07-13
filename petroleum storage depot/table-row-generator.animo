@@ -1,0 +1,13 @@
+<the:table-row-generator xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:use="animo/relation/use" xmlns:self="animo/query/self" xmlns:the="animo/instance">
+    <an:html-part>
+        <have:content>
+            <an:widget-table-row>
+                <do:xquery xmlns:do="animo/perform">
+                    let $prefix := $CONTEXT/self::the:sense-context/prefix/text()
+                    return
+                    generator:table-row(<content>{$context}</content>, $prefix, ())
+                </do:xquery>
+            </an:widget-table-row>
+        </have:content>
+    </an:html-part>
+</the:table-row-generator>
