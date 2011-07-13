@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:invisible-times xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+    <have:name>
+		<ptrn:language>
+            <have:lang-en>asterisk operator</have:lang-en>
+        </ptrn:language>
+	</have:name>
+	
+	<have:HTML>&lowast;</have:HTML>
+	
+	<have:unicode>U+2062</have:unicode>
+	
+	<!-- TODO: <have:denoted></have:denoted>  -->
+
+	<have:wiki><have:uri>http://ru.wikipedia.org/wiki/Знак_умножения</have:uri></have:wiki>
+	
+</the:invisible-times>
