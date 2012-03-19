@@ -1,0 +1,8 @@
+the addition
+    (binary-operation)
+    (word
+        (lang-en "addition")
+        (lang-ru "сложение"))
+    (denoted "+")
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Addition").

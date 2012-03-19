@@ -1,0 +1,7 @@
+the unit-of-measurement
+    (word
+        (lang-en "unit of measurement")
+        (lang-ru "единицы измерения")
+        (!--   единицы физических величин, единицы величин ))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Units_of_measurement").

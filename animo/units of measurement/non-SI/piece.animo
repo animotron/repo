@@ -1,0 +1,8 @@
+the piece
+    (unit-of-measurement)
+    (word
+        (lang-en "piece")
+        (lang-ru "штука"))
+    (denoted
+        (lang-en "pc")
+        (lang-ru "шт")).

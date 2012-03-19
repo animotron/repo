@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<the:decimal xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+
+	<is:positional-notation/><!-- have:base 10 -->
+	<is:numeral-system/>
+	
+	<!-- this class instance is:group-additive -->
+	
+	<have:name>
+	    <ptrn:language>
+        	<have:lang-en>decimal</have:lang-en><!-- TODO: base ten or occasionally denary -->
+        	<have:lang-ru>десяти́чная систе́ма счисле́ния</have:lang-ru>
+    	    </ptrn:language>
+	</have:name>
+	
+	<have:base>10</have:base><!-- TODO: in decimal -->
+	
+	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Decimal</have:uri></have:wiki>
+	
+	<!-- should it be here??? -->
+	<have:alphabet>
+		<an:zero/>
+		<an:one/>
+		<an:two/>
+		<an:three/>
+		<an:four/>
+		<an:five/>
+		<an:six/>
+		<an:seven/>
+		<an:eight/>
+		<an:nine/>
+		<an:decsep/><!-- only one per instance -->
+		<an:groupsep/><!-- only before decsep? -->
+	</have:alphabet>
+	
+	<!-- TODO: decimal separator: period (.) or raised period (·) or (,)-->
+</the:decimal>

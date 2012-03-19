@@ -1,0 +1,11 @@
+the negative-integer
+    (number)
+    (word
+        (lang-en "zero")
+        (lang-ru "ноль")
+        (!--  TODO: нуль )
+        (lang-la "nullus")
+        (!--  никакой ))
+    (denoted 0)
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Zero").

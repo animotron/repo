@@ -1,0 +1,11 @@
+the positive-integer
+    (!--  <is:integer/> TODO: new relation type?  )
+    (positive)
+    (natural-number)
+    (word
+        (lang-en "positive integer")
+        (lang-ru "положительное целое число"))
+    (denoted "ℤ+")
+    (!--  TODO: boldface Z+ )
+    (!--  <have:wiki><have:uri></have:uri></have:wiki> )
+    (!--  1, 2, 3, 4, 5, ... ).

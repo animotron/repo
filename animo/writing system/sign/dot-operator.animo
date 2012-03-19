@@ -1,0 +1,8 @@
+the dot-operator
+    (word
+        lang-en "dot operator")
+    (unicode "U+22C5")
+    (LaTeX "\cdot")
+    (denoted "⋅")
+    (wiki
+        uri "http://ru.wikipedia.org/wiki/Знак_умножения").

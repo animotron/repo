@@ -1,0 +1,6 @@
+the printing-plant
+    (printed-matter)
+    (service)
+    (word
+        (lang-en "printing plant")
+        (lang-ru "типография")).

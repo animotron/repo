@@ -1,0 +1,17 @@
+the division
+    (binary-operation)
+    (word
+        (lang-en "division")
+        (lang-ru "деле́ние")
+        (!--  операция деления ))
+    (denoted "÷")
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Division_(mathematics)")
+    (!-- 
+	a / b = c 
+	a is called the dividend, b the divisor and c the quotient.
+	)
+    (!--  
+	Сколько раз 3 содержится в 14?
+	14 называется делимым, число 3 — делителем, число 4 — (неполным) частным и число 2 — остатком (от деления)
+	 ).

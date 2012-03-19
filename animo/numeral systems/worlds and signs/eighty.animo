@@ -1,0 +1,10 @@
+the eighty
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "eighty")
+        (!--  TODO: eigh + ty  )
+        (lang-ru "восемьдесят")
+        (!--  TODO: восемь + десят ))
+    (denoted 80)
+    (!--  десятичная система счисления ).

@@ -1,0 +1,9 @@
+the eleven
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "eleven")
+        (lang-ru "одиннадцать")
+        (!--  TODO: один + над + цать  ))
+    (denoted 11)
+    (!--  десятичная система счисления ).

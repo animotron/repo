@@ -1,0 +1,7 @@
+the six
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "six")
+        (lang-ru "шесть"))
+    (denoted 6).

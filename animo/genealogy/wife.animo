@@ -1,0 +1,6 @@
+the wife
+    (word
+        (lang-en "wife")
+        (lang-ru "жена")
+        (!--  TODO: супруга ))
+    (!--  <have:denoted>W</have:denoted> ).

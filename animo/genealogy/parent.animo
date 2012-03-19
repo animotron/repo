@@ -1,0 +1,6 @@
+the parent
+    (word
+        (lang-en "parent")
+        (lang-ru "родители")
+        (!--  жарг. "предки" ))
+    (!--  <have:denoted>P</have:denoted> ).

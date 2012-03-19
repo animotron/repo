@@ -1,0 +1,14 @@
+the hecto
+    (word "hundred")
+    (denoted "h")
+    (!--  Symbol )
+    (prefix "hecto")
+    (short-scale
+        (word "hundred")
+        (factor "1000^(2/3)"))
+    (long-scale
+        (word "hundred")
+        (factor "10^2"))
+    (number Q D100)
+    (since
+        T D1795).

@@ -1,0 +1,10 @@
+the seventeen
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "seventeen")
+        (!--  TODO: seven + teen )
+        (lang-ru "семнадцать")
+        (!--  TODO: сем + над + цать  ))
+    (denoted 17)
+    (!--  десятичная система счисления ).

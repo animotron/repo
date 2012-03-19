@@ -1,0 +1,16 @@
+the exa
+    (word TODO)
+    (denoted "E")
+    (!--  Symbol )
+    (prefix "exa")
+    (short-scale
+        (word "quintillion")
+        (!--  TODO: quinti + llion )
+        (factor "1000^6")
+        (logic "1000^(5+1)"))
+    (long-scale
+        (word "trillion")
+        (factor "10^18"))
+    (number Q D1000000000000000000)
+    (since
+        T D1975).

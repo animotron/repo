@@ -1,0 +1,16 @@
+the giga
+    (word TODO)
+    (denoted "G")
+    (!--  Symbol )
+    (prefix "giga")
+    (short-scale
+        (word "billion")
+        (!--  TODO: bi + llion )
+        (factor "1000^3")
+        (logic "1000^(2+1)"))
+    (long-scale
+        (word "milliard")
+        (factor "10^9"))
+    (number Q D1000000000)
+    (since
+        T D1960).

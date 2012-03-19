@@ -1,0 +1,9 @@
+the uuid-dfea8791-bc73-4c65-a718-26e7a8559831
+    (male)
+    (word
+        lang-en "James /Richardson/")
+    (birth
+        (date
+            T D1832)
+        (!--  TODO: ABT )
+        (place "Ireland")).

@@ -1,0 +1,8 @@
+the exchange-rate
+    (word
+        (lang-en "exchange-rate")
+        (lang-ru "обменный курс"))
+    (timestamp)
+    (ratio)
+    (!--  to currency )
+    (currency).

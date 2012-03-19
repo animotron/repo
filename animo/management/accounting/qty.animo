@@ -1,0 +1,7 @@
+the qty
+    (word
+        (lang-en "quantity")
+        (lang-ru "количество"))
+    (number)
+    (UoM)
+    (!--  number * UoM ).

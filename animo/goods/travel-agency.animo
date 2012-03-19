@@ -1,0 +1,6 @@
+the travel-agency
+    (tourism)
+    (service)
+    (word
+        (lang-en "travel agency")
+        (lang-ru "туристическое агентство")).

@@ -1,0 +1,11 @@
+the negative-integer
+    (!--  <is:integer/> TODO: new relation type?  )
+    (negative)
+    (natural-number)
+    (word
+        (lang-en "negative integer")
+        (lang-ru "отрицательное целое число"))
+    (denoted "ℤ-")
+    (!--  TODO: boldface Z- )
+    (!--  <have:wiki><have:uri></have:uri></have:wiki> )
+    (!--  -1, -2, -3, -4, -5, ... ).

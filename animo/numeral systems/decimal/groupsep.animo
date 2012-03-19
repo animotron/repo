@@ -1,0 +1,8 @@
+the groupsep
+    (grapheme)
+    (word
+        (lang-en "the separator between clusters of integers")
+        (!--  the grouping separator ))
+    (denoted
+        (lang-en ",")
+        (lang-ru "'")).

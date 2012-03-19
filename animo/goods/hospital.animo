@@ -1,0 +1,5 @@
+the hospital
+    (medical-center)
+    (word
+        (lang-en "hospital")
+        (lang-ru "больница")).

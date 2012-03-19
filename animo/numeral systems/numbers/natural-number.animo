@@ -1,0 +1,11 @@
+the natural-number
+    (number)
+    (word
+        (lang-en "natural number")
+        (lang-ru "натуральное число"))
+    (denoted "ℕ")
+    (!--  TODO: boldface N )
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Natural_number")
+    (!--  counting numbers )
+    (!--  0, 1, 2, 3, 4, ... or 1, 2, 3, 4, ... (sometimes including zero) ).

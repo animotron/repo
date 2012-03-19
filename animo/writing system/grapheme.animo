@@ -1,0 +1,8 @@
+the grapheme
+    (word
+        (lang-en "grapheme")
+        (lang-ru "графе́ма")
+        (!--  from the Greek: γράφω, gráphō, "write" ))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Grapheme")
+    (!--  Понятие введено в 1912 г. Иваном Александровичем Бодуэном де Куртенэ ).

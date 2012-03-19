@@ -1,0 +1,9 @@
+the force
+    (word
+        (lang-en "force")
+        (lang-ru "си́ла"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Force_(physics)")
+    (denoted "F")
+    (SI-unit newton)
+    (!--  F = m * a  (Newton's second law) ).

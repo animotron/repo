@@ -1,0 +1,16 @@
+the tera
+    (word TODO)
+    (denoted "T")
+    (!--  Symbol )
+    (prefix "tera")
+    (short-scale
+        (word "trillion")
+        (!--  TODO: tri + llion )
+        (factor "1000^4")
+        (logic "1000^(3+1)"))
+    (long-scale
+        (word "billion")
+        (factor "10^12"))
+    (number Q D1000000000000)
+    (since
+        T D1960).

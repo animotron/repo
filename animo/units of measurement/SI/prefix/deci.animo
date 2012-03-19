@@ -1,0 +1,14 @@
+the deci
+    (word "tenth")
+    (denoted "d")
+    (!--  Symbol )
+    (prefix "deci")
+    (short-scale
+        (word "tenth")
+        (factor "1000^-(1/3)"))
+    (long-scale
+        (word "tenth")
+        (factor "10^-1"))
+    (number Q D0.1)
+    (since
+        T D1795).

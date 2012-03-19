@@ -1,0 +1,6 @@
+the spouse
+    (word
+        (lang-en "spouse")
+        (lang-ru "супруги")
+        (!--  TODO: лица, состоящие в браке ))
+    (!--  <have:denoted>SP</have:denoted> ).

@@ -1,0 +1,12 @@
+the uuid-72808231-82a9-4b6c-bdcb-caa2031c98ce
+    (male)
+    (word
+        lang-en "Walter Elias /Disney/")
+    (birth
+        (date
+            T D1901-12-05)
+        (place "Chicago, Cook, Illinois"))
+    (death
+        (date
+            T D1966-12-15)
+        (place "Los Angeles, California")).

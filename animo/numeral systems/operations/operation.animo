@@ -1,0 +1,9 @@
+the operation
+    (word
+        (lang-en "operation")
+        (!--  TODO: mathematical operation )
+        (lang-ru "операция"))
+    (!--  отображение, ставящее в соответствие одному или нескольким элементам множества (аргументам) другой элемент (значение) )
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Operation_(mathematics)")
+    (!--  TODO: basic arithmetic operations ).

@@ -1,0 +1,10 @@
+the nineteen
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "nineteen")
+        (!--  TODO: nine + teen )
+        (lang-ru "девятнадцать")
+        (!--  TODO: девят + над + цать  ))
+    (denoted 19)
+    (!--  десятичная система счисления ).

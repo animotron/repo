@@ -1,0 +1,9 @@
+the asterisk-operator
+    (word
+        lang-en "asterisk operator")
+    (!-- have:HTML>&lowast;</have:HTML)
+    (unicode "U+2217")
+    (LaTeX "\ast")
+    (denoted "∗")
+    (wiki
+        uri "http://ru.wikipedia.org/wiki/Знак_умножения").

@@ -1,0 +1,10 @@
+the newton
+    (unit-of-measurement)
+    (word
+        (lang-en "Newton")
+        (lang-ru "Ньютон"))
+    (denoted "N")
+    (!--  Н )
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Newton_(unit)")
+    (!--  SI: кг·м·c^−2 ).

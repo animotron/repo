@@ -1,0 +1,5 @@
+the street-number
+    (text)
+    (word
+        (lang-en "street-number")
+        (lang-ru "номер улицы")).

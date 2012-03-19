@@ -1,0 +1,16 @@
+the peta
+    (word TODO)
+    (denoted "P")
+    (!--  Symbol )
+    (prefix "peta")
+    (short-scale
+        (word "quadrillion")
+        (!--  TODO: Quadri + llion )
+        (factor "1000^5")
+        (logic "1000^(4+1)"))
+    (long-scale
+        (word "billiard")
+        (factor "10^15"))
+    (number Q N10-1000000000000000)
+    (since
+        T D1975).

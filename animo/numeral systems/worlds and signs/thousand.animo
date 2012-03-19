@@ -1,0 +1,9 @@
+the thousand
+    (!--  TODO: remove? )
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "thousand")
+        (lang-ru "тысяча"))
+    (!--  ??? <have:denoted>1000</have:denoted>  десятичная система счисления )
+    (!--  [4-6] разряд в десятичная система счисления ).

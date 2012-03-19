@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:jquery-url xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance">
-    <is:script/>
-    <have:uri>/repository/jquery/jquery-url/jquery.url.js</have:uri>
-</the:jquery-url>

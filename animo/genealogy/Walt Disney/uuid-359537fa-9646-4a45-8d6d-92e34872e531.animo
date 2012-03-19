@@ -1,0 +1,13 @@
+the uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3
+    (female)
+    (word
+        lang-en "Maria /Swan/")
+    (birth
+        (date
+            T D1815)
+        (!--  TODO: ABT )
+        (place "Ireland"))
+    (death
+        (date
+            T D1896)
+        (place "Ellis, Ellis, Kansas")).

@@ -1,0 +1,15 @@
+the kilo
+    (word "thousand")
+    (denoted "k")
+    (!--  Symbol )
+    (prefix "kilo")
+    (short-scale
+        (word "thousand")
+        (factor "1000^1")
+        (logic "1000^(0+1)"))
+    (long-scale
+        (word "thousand")
+        (factor "10^3"))
+    (number Q D1000)
+    (since
+        T D1795).

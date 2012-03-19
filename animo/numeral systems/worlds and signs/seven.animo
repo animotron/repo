@@ -1,0 +1,7 @@
+the seven
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "seven")
+        (lang-ru "семь"))
+    (denoted 7).

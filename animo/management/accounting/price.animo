@@ -1,0 +1,8 @@
+the price
+    (word
+        (lang-en "price")
+        (lang-ru "цена"))
+    (number)
+    (currency)
+    (UoM)
+    (!--  price = number * currency / UoM ).

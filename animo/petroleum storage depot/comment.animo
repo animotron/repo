@@ -1,0 +1,6 @@
+the comment
+    (!--  IS ??? )
+    (text)
+    (word
+        (lang-en "comment")
+        (lang-ru "комментарий")).

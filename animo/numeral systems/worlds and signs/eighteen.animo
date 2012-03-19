@@ -1,0 +1,10 @@
+the eighteen
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "eighteen")
+        (!--  TODO: eigh + teen )
+        (lang-ru "восемнадцать")
+        (!--  TODO: сем + над + цать  ))
+    (denoted 18)
+    (!--  десятичная система счисления ).

@@ -1,0 +1,26 @@
+the hexadecimal
+    (positional-notation)
+    (word
+        (lang-en "hexadecimal")
+        (!--  TODO: base 16, or hex )
+        (lang-ru "Шестнадцатеричная система счисления"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Hexadecimal")
+    (alphabet
+        (zero)
+        (one)
+        (two)
+        (three)
+        (four)
+        (five)
+        (six)
+        (seven)
+        (eight)
+        (nine)
+        (A-digit)
+        (B-digit)
+        (C-digit)
+        (D-digit)
+        (E-digit)
+        (F-digit))
+    "-->".

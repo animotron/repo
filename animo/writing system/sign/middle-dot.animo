@@ -1,0 +1,8 @@
+the middle-dot
+    (word
+        lang-en "middle dot")
+    (!-- have:HTML>&middot;</have:HTML)
+    (unicode "U+00B7")
+    (denoted "·")
+    (wiki
+        uri "http://ru.wikipedia.org/wiki/Знак_умножения").

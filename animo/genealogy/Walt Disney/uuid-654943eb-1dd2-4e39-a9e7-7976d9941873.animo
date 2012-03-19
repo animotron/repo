@@ -1,0 +1,12 @@
+the uuid-654943eb-1dd2-4e39-a9e7-7976d9941873
+    (male)
+    (word
+        lang-en "Thomas /Fox/")
+    (birth
+        (date
+            T D1706-12-06)
+        (place "Boston, Suffolk, Mass."))
+    (death
+        (date
+            T D1793-03-13)
+        (place "Woodstock, Windham, Conn.")).

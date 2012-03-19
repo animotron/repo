@@ -1,0 +1,6 @@
+the father
+    (word
+        (lang-en "father")
+        (lang-ru "отец")
+        (!--  TODO: разг. папа, папенька, папаня, батя; груб. папаша ))
+    (!--  <have:denoted>F</have:denoted> ).

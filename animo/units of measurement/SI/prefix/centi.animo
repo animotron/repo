@@ -1,0 +1,14 @@
+the centi
+    (word "hundredth")
+    (denoted "c")
+    (!--  Symbol )
+    (prefix "centi")
+    (short-scale
+        (word "hundredth")
+        (factor "1000^-(2/3)"))
+    (long-scale
+        (word "hundredth")
+        (factor "10^-2"))
+    (number Q D0.01)
+    (since
+        T D1795).

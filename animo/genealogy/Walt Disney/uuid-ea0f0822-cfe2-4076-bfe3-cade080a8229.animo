@@ -1,0 +1,12 @@
+the uuid-ea0f0822-cfe2-4076-bfe3-cade080a8229
+    (male)
+    (word
+        lang-en "John George /Gross/")
+    (birth
+        (date
+            T D1805-10-20)
+        (place "Miehlen, Hesse, Prussia"))
+    (death
+        (date
+            T D1886-02-13)
+        (place "Lacey, Mahaska, Iowa")).

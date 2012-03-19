@@ -1,0 +1,7 @@
+the five
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "five")
+        (lang-ru "пять"))
+    (denoted 5).

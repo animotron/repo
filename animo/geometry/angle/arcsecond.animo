@@ -1,0 +1,6 @@
+the arcsecond
+    (word
+        (lang-en "arcminute")
+        (lang-ru "дуговая секунда")
+        (!--  секунда дуги ))
+    (denoted "″").

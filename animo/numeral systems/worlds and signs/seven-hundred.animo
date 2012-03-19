@@ -1,0 +1,12 @@
+the seven-hundred
+    (!--  TODO: remove? )
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "seven hundred")
+        (!--  TODO: seven + " " +hundred )
+        (lang-ru "семьсот")
+        (!--  TODO: семь + сот )
+        (!--  TODO: семисот, семистам, семьюстами, семистах ))
+    (denoted 700)
+    (!--  десятичная система счисления ).

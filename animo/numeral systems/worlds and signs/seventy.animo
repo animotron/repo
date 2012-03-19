@@ -1,0 +1,10 @@
+the seventy
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "seventy")
+        (!--  TODO: seven + ty  )
+        (lang-ru "семьдесят")
+        (!--  TODO: семь + десят ))
+    (denoted 70)
+    (!--  десятичная система счисления ).

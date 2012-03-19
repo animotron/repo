@@ -1,0 +1,12 @@
+the uuid-6bff7a0a-6f0b-453e-ac40-adac53184ede
+    (male)
+    (word
+        lang-en "John /Call/")
+    (birth
+        (date
+            T D1761-10-14)
+        (place "Colrain, Franklin, Mass."))
+    (death
+        (date
+            T D1831-06-01)
+        (place "Colrain, Franklin, Mass.")).

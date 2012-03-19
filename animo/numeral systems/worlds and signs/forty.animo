@@ -1,0 +1,9 @@
+the forty
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "forty")
+        (!--  TODO: for + ty  )
+        (lang-ru "сорок"))
+    (denoted 40)
+    (!--  десятичная система счисления ).

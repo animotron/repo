@@ -1,0 +1,8 @@
+the gramme
+    (mass)
+    (word
+        (lang-en "gram")
+        (lang-ru "грамм"))
+    (denoted
+        (lang-en "g")
+        (lang-ru "г")).

@@ -1,0 +1,6 @@
+the angle
+    (word
+        (lang-en "angle")
+        (lang-ru "угол"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Angle").

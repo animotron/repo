@@ -1,0 +1,7 @@
+the eight
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "eight")
+        (lang-ru "восемь"))
+    (denoted 8).

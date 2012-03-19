@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:jquery-prevent-default-event xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance">
-    <is:script/>
-    <have:uri>/repository/jquery/jquery-prevent-default-event/jquery-prevent-default-event.js</have:uri>
-</the:jquery-prevent-default-event>

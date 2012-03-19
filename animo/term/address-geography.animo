@@ -1,0 +1,29 @@
+the address-geography
+    (word
+        (lang-en "address")
+        (lang-ru "адрес"))
+    (addressee)
+    (!--  TODO: pattern for instance name )
+    (ptrn country
+        (UK
+            (street-number)
+            (street)
+            (locality)
+            (post-town)
+            (postcode))
+        (USA
+            (street-number)
+            (street)
+            (town)
+            (state
+                (!--  TODO: selected morphizm )
+                (!--  <an:name><an:abbreviation/></an:name> ))
+            (zip-code))
+        (other
+            (street-number)
+            (street)
+            (town)
+            (state)
+            (zip-code)))
+    (!--  duplication? no, this one force to have 'ask' for it )
+    (country).

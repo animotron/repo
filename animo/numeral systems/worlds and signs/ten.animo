@@ -1,0 +1,8 @@
+the ten
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "ten")
+        (lang-ru "десять"))
+    (denoted 10)
+    (!--  десятичная система счисления ).

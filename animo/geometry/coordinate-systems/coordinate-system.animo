@@ -1,0 +1,6 @@
+the coordinate-system
+    (word
+        (lang-en "coordinate system")
+        (lang-ru "система координат"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Coordinate_system").

@@ -1,0 +1,6 @@
+the uncle
+    (word
+        (lang-en "uncle")
+        (lang-ru "дядя"))
+    (!--  father's brother, mother's brother, father's sister's husband, mother's sister's husband )
+    (!--  <have:denoted></have:denoted> ).

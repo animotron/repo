@@ -1,0 +1,10 @@
+the fraction
+    (!--  in математика )
+    (word
+        (lang-en "fraction")
+        (lang-ru "дробь")
+        (lang-la "fractus"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Fraction_(mathematics)")
+    (numerator)
+    (denominator).

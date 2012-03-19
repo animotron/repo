@@ -1,0 +1,14 @@
+the uuid-ff786f7c-d008-4c28-abd1-20bb08870fef
+    (male)
+    (word
+        lang-en "Robert /Richardson/")
+    (birth
+        (date
+            T D1796)
+        (!--  TODO: ABT )
+        (place "Ireland"))
+    (death
+        (date
+            T D1861)
+        (!--  TODO: AFT )
+        (place)).

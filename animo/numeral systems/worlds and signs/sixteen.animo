@@ -1,0 +1,10 @@
+the sixteen
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "sixteen")
+        (!--  TODO: six + teen )
+        (lang-ru "шестнадцать")
+        (!--  TODO: шест + над + цать  ))
+    (denoted 16)
+    (!--  десятичная система счисления ).

@@ -1,0 +1,5 @@
+the car-of-foreign-make
+    (car)
+    (word
+        (lang-en "car of foreign make")
+        (lang-ru "иномарки")).

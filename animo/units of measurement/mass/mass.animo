@@ -1,0 +1,6 @@
+the mass
+    (unit-of-measurement)
+    (word
+        (lang-en "mass")
+        (lang-ru "масса")
+        (!--  TODO: от греч. μάζα )).

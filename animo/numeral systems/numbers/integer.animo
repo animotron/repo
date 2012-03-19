@@ -1,0 +1,13 @@
+si:positive-integersi:zerosi:negative-integerthe integer
+    (!--  UNDERSTAND: is this relations correct? or new relation type? )
+    (\)
+    (\)
+    (\)
+    (word
+        (lang-en "integer")
+        (lang-ru "целое число"))
+    (denoted "ℤ")
+    (!--  TODO: boldface Z )
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Integer")
+    (!--  ..., −5, −4, −3, −2, −1, 0, 1, 2, 3, 4, 5, ... ).

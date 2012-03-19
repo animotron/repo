@@ -1,0 +1,12 @@
+the uuid-5b244c42-8fbc-4397-91c1-60893ced5abf
+    (male)
+    (word
+        lang-en "Charles /Call/")
+    (birth
+        (date
+            T D1822-03-22)
+        (place "Colrain, Franklin, Mass."))
+    (death
+        (date
+            T D1890-01-06)
+        (place "Paisley, Lake, Florida")).

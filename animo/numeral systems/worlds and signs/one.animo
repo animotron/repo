@@ -1,0 +1,7 @@
+the one
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "one")
+        (lang-ru "один"))
+    (denoted 1).

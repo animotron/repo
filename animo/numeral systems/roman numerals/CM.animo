@@ -1,0 +1,14 @@
+the CM
+    (digit)
+    (!--  TODO correct ??? )
+    (roman-numerals)
+    (!--  
+    <have:name>
+		<ptrn:language>
+            <have:lang-la></have:lang-la>
+        </ptrn:language>
+	</have:name>
+	)
+    (denoted "CM")
+    (!--  TODO: <have:natural-number>900</have:natural-number> )
+    (!--  TODO: CM == nine-hundred ? ).

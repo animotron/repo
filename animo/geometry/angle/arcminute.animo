@@ -1,0 +1,7 @@
+the arcminute
+    (word
+        (lang-en "arcminute")
+        (lang-ru "дуговая минута"))
+    (denoted "′")
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Minute_of_arc").

@@ -1,0 +1,7 @@
+the irrational-number
+    (word
+        (lang-en "irrational number")
+        (lang-ru "иррациональное число"))
+    (!--  TODO: <have:denoted></have:denoted> boldface I )
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Irrational_number").

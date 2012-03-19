@@ -1,0 +1,16 @@
+the femto
+    (word TODO)
+    (denoted "f")
+    (!--  Symbol )
+    (prefix "femto")
+    (short-scale
+        (word "quadrillionth")
+        (!--  TODO: quadri + llionth )
+        (factor "1000^-5"))
+    (long-scale
+        (word "billiardth")
+        (!--  TODO: bi + lliardth )
+        (factor "10^-15"))
+    (number Q D0.000000000000001)
+    (since
+        T D1964).

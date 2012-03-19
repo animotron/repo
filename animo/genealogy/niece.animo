@@ -1,0 +1,6 @@
+the niece
+    (word
+        (lang-en "niece")
+        (lang-ru "племянница"))
+    (!--  sister's daughter, brother's daughter, wife's brother's daughter, wife's sister's daughter, husband's brother's daughter, husband's sister's daughter )
+    (!--  <have:denoted></have:denoted> ).

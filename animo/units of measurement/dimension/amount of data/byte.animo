@@ -1,0 +1,10 @@
+the byte
+    (amount-of-data)
+    (!--  units of information )
+    (!--  eight bits )
+    (word
+        (lang-en "byte")
+        (lang-ru "байт"))
+    (denoted "B")
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Byte").

@@ -1,0 +1,7 @@
+the three
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "three")
+        (lang-ru "три"))
+    (denoted 3).

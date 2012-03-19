@@ -1,0 +1,30 @@
+the decimal
+    (positional-notation)
+    (!--  have:base 10 )
+    (numeral-system)
+    (!--  this class instance is:group-additive )
+    (word
+        (lang-en "decimal")
+        (!--  TODO: base ten or occasionally denary )
+        (lang-ru "десяти́чная систе́ма счисле́ния"))
+    (base 10)
+    (!--  TODO: in decimal )
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Decimal")
+    (!--  should it be here??? )
+    (alphabet
+        (zero)
+        (one)
+        (two)
+        (three)
+        (four)
+        (five)
+        (six)
+        (seven)
+        (eight)
+        (nine)
+        (decsep)
+        (!--  only one per instance )
+        (groupsep)
+        (!--  only before decsep? ))
+    (!--  TODO: decimal separator: period (.) or raised period (·) or (,)).

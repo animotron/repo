@@ -1,0 +1,16 @@
+the zetta
+    (word TODO)
+    (denoted "Z")
+    (!--  Symbol )
+    (prefix "zetta")
+    (short-scale
+        (word "sextillion")
+        (!--  TODO: sexti + llion )
+        (factor "1000^7")
+        (logic "1000^(6+1)"))
+    (long-scale
+        (word "trilliard")
+        (factor "10^21"))
+    (number Q D1000000000000000000000)
+    (since
+        T D1991).

@@ -1,0 +1,16 @@
+the atto
+    (word TODO)
+    (denoted "a")
+    (!--  Symbol )
+    (prefix "atto")
+    (short-scale
+        (word "quintillionth")
+        (!--  TODO: quinti + llionth )
+        (factor "1000^-6"))
+    (long-scale
+        (word "trillionth")
+        (!--  TODO: tri + llionth )
+        (factor "10^-18"))
+    (number Q D0.000000000000000001)
+    (since
+        T D1964).

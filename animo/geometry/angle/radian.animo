@@ -1,0 +1,13 @@
+the radian
+    (word
+        (lang-en "radian")
+        (lang-ru "радиан")
+        (lang-la "radius"))
+    (denoted
+        (lang-en "rad")
+        (lang-ru "рад"))
+    (definition
+        (lang-en "rad")
+        (lang-ru "угловая величина дуги, длина которой равна её радиусу"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Radian").

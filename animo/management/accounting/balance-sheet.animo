@@ -1,0 +1,6 @@
+the balance-sheet
+    word
+        (lang-en "balance sheet")
+        (!--  abbreviation )
+        (lang-en "B/S")
+        (lang-ru "балансовый отчет").

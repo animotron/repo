@@ -1,0 +1,5 @@
+the pet-shop
+    (shop)
+    (word
+        (lang-en "pet-shop")
+        (lang-ru "зоомагазин")).

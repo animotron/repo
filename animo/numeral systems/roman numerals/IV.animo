@@ -1,0 +1,14 @@
+the IV
+    (digit)
+    (!--  TODO correct ??? )
+    (roman-numerals)
+    (!--  
+    <have:name>
+		<ptrn:language>
+            <have:lang-la></have:lang-la>
+        </ptrn:language>
+	</have:name>
+	)
+    (denoted "IV")
+    (!--  TODO: <have:natural-number>4</have:natural-number> )
+    (!--  TODO: IV == four ? ).

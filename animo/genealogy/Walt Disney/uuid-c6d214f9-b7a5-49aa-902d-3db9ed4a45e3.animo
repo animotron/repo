@@ -1,0 +1,12 @@
+the uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3
+    (female)
+    (word
+        lang-en "Mary /Richardson/")
+    (birth
+        (date
+            T D1838-03-20)
+        (place "Ireland"))
+    (death
+        (date
+            T D1909-03-10)
+        (place "Ellis County, Kansas")).

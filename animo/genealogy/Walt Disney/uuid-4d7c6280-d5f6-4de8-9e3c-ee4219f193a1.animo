@@ -1,0 +1,12 @@
+the uuid-4d7c6280-d5f6-4de8-9e3c-ee4219f193a1
+    (male)
+    (word
+        lang-en "Elias /Disney/")
+    (birth
+        (date
+            T D1859-02-06)
+        (place "Huron County, Ontario"))
+    (death
+        (date
+            T D1941-09-13)
+        (place "Los Angeles, California")).

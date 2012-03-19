@@ -1,0 +1,20 @@
+the scientific-notation
+    (word
+        (lang-en "scientific notation")
+        (!--  TODO: also known as standard form or as exponential notation )
+        (lang-ru "экспоненциальная запись"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Scientific_notation")
+    (!--  TODO: 
+	
+	N = M * n^p
+	
+	N — записываемое число;
+	M — мантисса;
+	n — основание показательной функции;
+	p (целое) — порядок;
+	n^p — характеристика числа.
+	
+	)
+    (!--  Normalized notation: a×10^b when 1 ≤ |a| < 10 )
+    (!--  E notation: the letter E or e represents times ten raised to the power of, thus replacing the × 10 ).

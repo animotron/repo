@@ -1,0 +1,6 @@
+the negative
+    (word
+        (lang-en "negative")
+        (lang-ru "отрицательн(ый)"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Negative_number").

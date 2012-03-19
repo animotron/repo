@@ -1,0 +1,16 @@
+the yocto
+    (word TODO)
+    (denoted "y")
+    (!--  Symbol )
+    (prefix "yocto")
+    (short-scale
+        (word "septillionth")
+        (!--  TODO: septi + llionth )
+        (factor "1000^-8"))
+    (long-scale
+        (word "quadrillionth")
+        (!--  TODO: quadri + llionth )
+        (factor "10^-24"))
+    (number Q D0.000000000000000000000001)
+    (since
+        T D1991).

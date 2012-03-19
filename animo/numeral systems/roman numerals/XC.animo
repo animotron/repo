@@ -1,0 +1,14 @@
+the XC
+    (digit)
+    (!--  TODO correct ??? )
+    (roman-numerals)
+    (!--  
+    <have:name>
+		<ptrn:language>
+            <have:lang-la></have:lang-la>
+        </ptrn:language>
+	</have:name>
+	)
+    (denoted "XC")
+    (!--  TODO: <have:natural-number>90</have:natural-number> )
+    (!--  TODO: XC == ninety ? ).

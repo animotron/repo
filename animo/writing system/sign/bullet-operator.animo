@@ -1,0 +1,8 @@
+the bullet-operator
+    (word
+        lang-en "bullet operator")
+    (unicode "U+2219")
+    (LaTeX "\bullet")
+    (denoted "∙")
+    (wiki
+        uri "http://ru.wikipedia.org/wiki/Знак_умножения").

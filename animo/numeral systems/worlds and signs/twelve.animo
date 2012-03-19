@@ -1,0 +1,9 @@
+the twelve
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "twelve")
+        (lang-ru "двенадцать")
+        (!--  TODO: две + над + цать  ))
+    (denoted 12)
+    (!--  десятичная система счисления ).

@@ -1,0 +1,13 @@
+the uuid-4c08b943-ae97-4493-9163-bcebe2571d3c
+    (female)
+    (word
+        lang-en "Ruth /Lark/")
+    (birth
+        (date
+            T D1797)
+        (!--  TODO: ABT )
+        (place "Ireland"))
+    (death
+        (date
+            T D1876-10-08)
+        (place "Homesville, Ontario")).

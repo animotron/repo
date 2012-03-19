@@ -1,0 +1,11 @@
+the hour
+    (time)
+    (!--  this relation wrong, must be unit-of-time )
+    (word
+        (lang-en "hour")
+        (lang-ru "час"))
+    (denoted
+        (lang-en "h")
+        (!--  or "hr" )
+        (lang-ru "ч"))
+    (!--  час равен 3600 секундам или 60 минутам ).

@@ -1,0 +1,10 @@
+the hundred
+    (!--  ??? 
+	<is:digit/>
+	<is:natural-number/>
+	)
+    (word
+        (lang-en "hundred")
+        (lang-ru "тысяца"))
+    (!--  ??? <have:denoted>100</have:denoted>  десятичная система счисления )
+    (!--  [3] разряд в десятичная система счисления ).

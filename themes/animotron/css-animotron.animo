@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:css-animotron xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance">
-    <is:css/>
-	<have:uri>/repository/themes/animotron/default.css</have:uri>
-</the:css-animotron>

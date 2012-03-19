@@ -1,0 +1,12 @@
+the four-hundred
+    (!--  TODO: remove? )
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "four hundred")
+        (!--  TODO: four + " " + hundred )
+        (lang-ru "четыреста")
+        (!--  TODO: четыре + ста )
+        (!--  TODO: четырёхсот, четырёмстам, четырьмястами, четырёхстах ))
+    (denoted 400)
+    (!--  десятичная система счисления ).

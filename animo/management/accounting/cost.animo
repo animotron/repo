@@ -1,0 +1,7 @@
+the cost
+    (word
+        (lang-en "cost")
+        (lang-ru "стоимость"))
+    (number)
+    (currency)
+    (!--  cost = number * currency ).

@@ -1,0 +1,8 @@
+the asterisk
+    (word
+        lang-en "asterisk")
+    (LaTeX "*")
+    (unicode "U+002A")
+    (denoted "*")
+    (wiki
+        uri "http://ru.wikipedia.org/wiki/Знак_умножения").

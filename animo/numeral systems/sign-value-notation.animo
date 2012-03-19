@@ -1,0 +1,34 @@
+math "http://www.w3.org/1998/Math/MathML"applysumbvarcilowlimitciuplimitciapplycitype "fn"ciapplycitype "fn"cithe sign-value-notation
+    (numeral-system)
+    (word
+        (lang-en "sign-value-notation")
+        (!--  TODO: <have:lang-ru></have:lang-ru> ))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Sign-value_notation")
+    (alphabet)
+    (!--  N10(alphabet) )
+    (!--  represents numbers by a series of numeric signs that added together equal the number represented. )
+    (!--  
+	animo-parser:length >= x >= 1
+	N10( animo-parser:symbol( x ) );
+	 )
+    (number
+        \
+            ($)
+            (\
+                (\)
+                (\ \ "x")
+                (\ \ "animo-parser:length")
+                (\ \ 1)
+                (\
+                    (\
+                        (@)
+                        "?get:base?")
+                    (!--  TODO: ??? )
+                    (\
+                        \
+                            (\
+                                (@)
+                                "animo-parser:symbol")
+                            (!--  TODO: parser function that return symbol at position x? )
+                            (\ "x"))))).

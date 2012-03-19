@@ -1,0 +1,6 @@
+the warehouse-receipt
+    (warehouse-document)
+    (receipt)
+    (word
+        (lang-en "warehouse receipt")
+        (lang-ru "приход на склад")).

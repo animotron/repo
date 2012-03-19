@@ -1,0 +1,9 @@
+the quinque
+    (digit)
+    (!--  TODO correct ??? )
+    (roman-numerals)
+    (word
+        lang-la "quinque")
+    (denoted "V")
+    (!--  TODO: <have:natural-number>5</have:natural-number> )
+    (!--  TODO: quinque == five ? ).

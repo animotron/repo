@@ -1,0 +1,7 @@
+the international-system-of-units
+    (word
+        (lang-en "international system of units")
+        (lang-ru "международная система единиц"))
+    (denoted
+        (lang-en "SI")
+        (lang-ru "СИ")).

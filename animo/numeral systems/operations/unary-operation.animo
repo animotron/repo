@@ -1,0 +1,20 @@
+the unary-operation
+    (operation)
+    (word
+        (lang-en "unary operation")
+        (lang-ru "унарной операцией")
+        (!--  одноместной операцией ))
+    (!--  an operation with only one operand )
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Unary_operation")
+    (!--  
+	Common notations are 
+	prefix notation (e.g. +, −, not), 
+	postfix notation (e.g. factorial: n!), 
+	functional notation (e.g. sin x or sin (x)), and 
+	superscripts (e.g. transpose A^T). 
+	
+	Other notation exists as well, for example in the case of the square root a horizontal bar over the argument extending 
+	the square root sign can indicate the extent of the argument.
+	)
+    (!--  Унарная операция, обратная самой себе, называется инволюцией. ).

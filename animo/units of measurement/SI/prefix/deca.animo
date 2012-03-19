@@ -1,0 +1,14 @@
+the deca
+    (word "ten")
+    (denoted "da")
+    (!--  Symbol )
+    (prefix "deca")
+    (short-scale
+        (word "ten")
+        (factor "1000^(1/3)"))
+    (long-scale
+        (word "ten")
+        (factor "10^1"))
+    (number Q D10)
+    (since
+        T D1795).

@@ -1,0 +1,7 @@
+the spherical-coordinate-system
+    (coordinate-system)
+    (word
+        (lang-en "spherical coordinate system")
+        (lang-ru "сферическая система координат"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Spherical_coordinate_system").

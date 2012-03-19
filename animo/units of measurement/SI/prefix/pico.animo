@@ -1,0 +1,16 @@
+the pico
+    (word TODO)
+    (denoted "p")
+    (!--  Symbol )
+    (prefix "pico")
+    (short-scale
+        (word "trillionth")
+        (!--  TODO: tri + llionth )
+        (factor "1000^-4"))
+    (long-scale
+        (word "billionth")
+        (!--  TODO: bi + llionth )
+        (factor "10^-12"))
+    (number Q D0.000000000001)
+    (since
+        T D1960).

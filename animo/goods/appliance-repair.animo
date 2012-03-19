@@ -1,0 +1,5 @@
+the appliance-repair
+    (service)
+    (word
+        (lang-en "appliance repair")
+        (lang-ru "ремонт бытовой техники")).

@@ -1,0 +1,13 @@
+the three-hundred
+    (!--  TODO: remove? )
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "three hundred")
+        (!--  TODO: three + " " + hundred )
+        (lang-ru "триста")
+        (!--  TODO: три + ста )
+        (!--  TODO: трёхсот, трёмстам, тремястами, о трёхстах )
+        (!--  TODO: поряд. трёхсотый, -ая, -ое. ))
+    (denoted 300)
+    (!--  десятичная система счисления ).

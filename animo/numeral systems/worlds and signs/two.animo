@@ -1,0 +1,7 @@
+the two
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "two")
+        (lang-ru "два"))
+    (denoted 2).

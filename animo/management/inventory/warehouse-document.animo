@@ -1,0 +1,20 @@
+the warehouse-document
+    (document)
+    (word
+        (lang-en "warehouse document")
+        (lang-ru "складской документ"))
+    (!--  
+   		warehouse's organization: 
+   			organization's warehouse: receipt +, issue -
+   			party: receipt -, issue +
+   			 
+   		party's organization: 
+   			party' warehouse: receipt -, issue +
+   			organization: receipt +, issue - 
+	 )
+    (!--  active warehouse )
+    (warehouse)
+    (!-- contracting party, including this organization warehouse, but not one from (have:warehouse) )
+    (party)
+    (!--  document can have many of this TODO: mark it somehow )
+    (SKU).

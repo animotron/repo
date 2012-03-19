@@ -1,0 +1,5 @@
+the street
+    (word
+        (lang-en "street")
+        (lang-ru "улица"))
+    (word).

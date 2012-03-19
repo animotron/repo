@@ -1,0 +1,10 @@
+the sixty
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "sixty")
+        (!--  TODO: six + ty  )
+        (lang-ru "шестьдесят")
+        (!--  TODO: шесть + десят ))
+    (denoted 60)
+    (!--  десятичная система счисления ).

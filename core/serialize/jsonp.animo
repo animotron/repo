@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:jsonp-serialization xmlns:is="animo/relation/is" xmlns:do="animo/perform" xmlns:the="animo/instance">
-    <is:serialization/>
-    <do:xquery>
-        serialize:as-jsonp($context/have:json/*, $context/callback)
-    </do:xquery>
-</the:jsonp-serialization>

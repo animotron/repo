@@ -1,0 +1,6 @@
+the country
+    (word
+        (lang-en "country")
+        (lang-ru "страна"))
+    (word)
+    (locality).

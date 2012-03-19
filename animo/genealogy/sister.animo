@@ -1,0 +1,5 @@
+the sister
+    (word
+        (lang-en "sister")
+        (lang-ru "сестра́"))
+    (!--  <have:denoted>Z</have:denoted> ).

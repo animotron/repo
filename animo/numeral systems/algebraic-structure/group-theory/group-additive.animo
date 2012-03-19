@@ -1,0 +1,23 @@
+the group-additive
+    (algebraic-structure)
+    (word
+        (lang-en "additive group")
+        (lang-ru))
+    (!--  
+	structure with a binary additive operation (+), 
+	satisfying the group axioms: associativity, neutral element, inverse element and closure
+	)
+    (!--  
+	TODO: plus - the sum of this class instance with the one ???
+	TODO: opposite - he additive inverse of this class instance
+					 (X plus (X opposite)) == ZERO
+	)
+    (addition)
+    (!--  (plus), see the:addition )
+    (opposite)
+    (!--  from java:
+	interface GroupAdditive<G> extends Structure<G> {
+		G plus(G that);
+		G opposite();
+	}
+	).

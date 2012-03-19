@@ -1,0 +1,11 @@
+the hundred
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "one hundred")
+        (!--  TODO: one + " " + hundred )
+        (lang-ru "сто")
+        (!--  TODO: Синонимы: десять десятков, сотня )
+        (!--  TODO: (только мн.) ста, сот, стам, стами, стах ))
+    (denoted 100)
+    (!--  десятичная система счисления ).

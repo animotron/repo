@@ -1,0 +1,6 @@
+the positive
+    (number)
+    (word
+        (lang-en "positive")
+        (lang-ru "положительн(ые)"))
+    (!--  <have:wiki><have:uri></have:uri></have:wiki> ).

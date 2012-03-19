@@ -1,0 +1,8 @@
+the package
+    (unit-of-measurement)
+    (word
+        (lang-en "package")
+        (lang-ru "упаковка"))
+    (denoted
+        (lang-en "pkg")
+        (lang-ru "упк")).

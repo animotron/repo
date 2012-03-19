@@ -1,0 +1,8 @@
+the warrant
+    (document)
+    (word
+        (lang-en "warrant")
+        (lang-ru "доверенность"))
+    (number)
+    (date)
+    (person).

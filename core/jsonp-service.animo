@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:jsonp-service xmlns:an="animo/reference" xmlns:do="animo/perform" xmlns:the="animo/instance">
-    <an:jsonp-serialization/>
-</the:jsonp-service>

@@ -1,0 +1,8 @@
+the letter
+    (grapheme)
+    (!--  TODO: in an alphabetic system of writing )
+    (word
+        (lang-en "letter")
+        (lang-ru "бу́ква"))
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Letter_(alphabet)").

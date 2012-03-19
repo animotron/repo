@@ -1,0 +1,10 @@
+the fifteen
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "fifteen")
+        (!--  TODO: fif + teen )
+        (lang-ru "пятнадцать")
+        (!--  TODO: пят + над + цать  ))
+    (denoted 15)
+    (!--  десятичная система счисления ).

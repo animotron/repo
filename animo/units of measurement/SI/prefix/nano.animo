@@ -1,0 +1,15 @@
+the nano
+    (word TODO)
+    (denoted "n")
+    (!--  Symbol )
+    (prefix "nano")
+    (short-scale
+        (word "billionth")
+        (!--  TODO: bi + llionth )
+        (factor "1000^-3"))
+    (long-scale
+        (word "milliardth")
+        (!--  TODO: mi + lliardth )
+        (factor "10^-9"))
+    (number Q D0.000000001)
+    (since 1960).

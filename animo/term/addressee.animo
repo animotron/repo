@@ -1,0 +1,7 @@
+the addressee
+    (person)
+    (organization)
+    (word
+        (lang-en "addressee")
+        (lang-ru "адресат"))
+    (word).

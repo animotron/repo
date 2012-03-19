@@ -1,0 +1,14 @@
+the XL
+    (digit)
+    (!--  TODO correct ??? )
+    (roman-numerals)
+    (!--  
+    <have:name>
+		<ptrn:language>
+            <have:lang-la></have:lang-la>
+        </ptrn:language>
+	</have:name>
+	)
+    (denoted "XL")
+    (!--  TODO: <have:natural-number>40</have:natural-number> )
+    (!--  TODO: XL == forty ? ).

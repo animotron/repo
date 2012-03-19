@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<the:css-serialization xmlns:an="animo/reference" xmlns:the="animo/instance">
-    <do:xquery xmlns:do="animo/perform">
-        serialize:as-css($context)
-    </do:xquery>
-</the:css-serialization>

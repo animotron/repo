@@ -1,0 +1,10 @@
+the ninety
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "ninety")
+        (!--  TODO: nine + ty  )
+        (lang-ru "девяносто")
+        (!--  TODO: девя + но + сто ))
+    (denoted 90)
+    (!--  десятичная система счисления ).

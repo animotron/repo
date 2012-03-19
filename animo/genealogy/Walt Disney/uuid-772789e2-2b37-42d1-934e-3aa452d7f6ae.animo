@@ -1,0 +1,9 @@
+the uuid-772789e2-2b37-42d1-934e-3aa452d7f6ae
+    (male)
+    (word
+        lang-en "John /Richardson/")
+    (birth
+        (date
+            T D1843)
+        (!--  TODO: ABT )
+        (place "Ireland")).

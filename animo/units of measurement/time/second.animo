@@ -1,0 +1,13 @@
+the second
+    (time)
+    (!--  this relation wrong, must be unit-of-time )
+    (word
+        (lang-en "second")
+        (lang-ru "секунда")
+        (lang-la "secunda")
+        (!--  сокращение выражения «pars minuta secunda» ))
+    (denoted
+        (lang-en "s")
+        (!--  or "sec" )
+        (lang-ru "с")
+        (!--  or "сек" )).

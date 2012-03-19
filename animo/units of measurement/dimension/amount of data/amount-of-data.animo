@@ -1,0 +1,6 @@
+the amount-of-data
+    (unit-of-measurement)
+    (!--  of data )
+    (word
+        (lang-en "amount of data")
+        (lang-ru "объём данных")).

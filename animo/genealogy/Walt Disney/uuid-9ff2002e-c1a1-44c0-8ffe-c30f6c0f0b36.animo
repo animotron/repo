@@ -1,0 +1,9 @@
+the uuid-9ff2002e-c1a1-44c0-8ffe-c30f6c0f0b36
+    (male)
+    (word
+        lang-en "Thomas /Disney/")
+    (birth
+        (date
+            T D1851)
+        (!--  TODO: ABT )
+        (place "Canada")).

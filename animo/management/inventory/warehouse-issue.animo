@@ -1,0 +1,6 @@
+the warehouse-issue
+    (warehouse-document)
+    (issue)
+    (word
+        (lang-en "warehouse issue")
+        (lang-ru "расход со склада")).

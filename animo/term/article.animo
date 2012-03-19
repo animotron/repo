@@ -1,0 +1,5 @@
+the article
+    (content)
+    (word
+        (lang-en "article")
+        (lang-ru "статья")).

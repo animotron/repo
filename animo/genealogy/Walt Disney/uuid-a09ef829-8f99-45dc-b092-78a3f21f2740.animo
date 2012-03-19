@@ -1,0 +1,13 @@
+the uuid-a09ef829-8f99-45dc-b092-78a3f21f2740
+    (female)
+    (word
+        lang-en "Violette /Lawrence/")
+    (birth
+        (date
+            T D1792)
+        (!--  ABT )
+        (place "Massachusetts"))
+    (death
+        (date
+            T D1870-06-12)
+        (place "Greenfield, Huron, Ohio")).

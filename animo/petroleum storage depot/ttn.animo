@@ -1,0 +1,37 @@
+the ttn
+    (document)
+    (word
+        (lang-en "TTN")
+        (lang-ru "ТТН"))
+    (vendor
+        (number)
+        (date))
+    (customer
+        (number)
+        (date)
+        (warrant)
+        (car))
+    (contract)
+    (sku
+        (good)
+        (qty)
+        (price)
+        (sum)
+        (tax)
+        (total))
+    (comment)
+    (!-- 
+    <have:number/>
+    <have:date/>
+    <have:party/>
+    <have:contract/>
+    <have:warrant/>
+    <have:car/>
+    <have:good/>
+    <have:qty/>
+    <have:price/>
+    <have:sum/>
+    <have:vat/>
+    <have:total/>
+    <have:comment/>
+).

@@ -1,0 +1,9 @@
+the uuid-3381d926-a5ef-4b94-9374-8d96bafb2c54
+    (female)
+    (word
+        lang-en "Charlotte /Disney/")
+    (birth
+        (date
+            T D1850)
+        (!--  TODO: ABT )
+        (place "Canada")).

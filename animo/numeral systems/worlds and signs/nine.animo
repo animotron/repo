@@ -1,0 +1,7 @@
+the nine
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "nine")
+        (lang-ru "девять"))
+    (denoted 9).

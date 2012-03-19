@@ -1,0 +1,14 @@
+the milli
+    (word "thousandth")
+    (denoted "m")
+    (!--  Symbol )
+    (prefix "milli")
+    (short-scale
+        (word "thousandth")
+        (factor "1000^-1"))
+    (long-scale
+        (word "thousandth")
+        (factor "10^-3"))
+    (number Q D0.001)
+    (since
+        T D1795).

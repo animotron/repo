@@ -1,0 +1,21 @@
+the exponentiation
+    (word
+        (lang-en "exponentiation")
+        (lang-ru "возведение в степень"))
+    (denoted "^")
+    (!--  TODO: is it correct??? )
+    (!--  
+	Первым таким значком были две звёздочки: **, используемые в языке Фортран. 
+	В появившемся несколько позже языке Алгол использовался значок стрелки:  (о такой стрелке см. Стрелки Кну́та). 
+	Язык BASIC предложил символ ^ («циркумфлекс»), который приобрёл наибольшую популярность.
+	)
+    (wiki
+        uri "http://en.wikipedia.org/wiki/Exponentiation")
+    (!--  a mathematical operation, written as <b><i>a</i><sup><i>n</i></sup></b>, 
+		involving two numbers, the base a and the exponent n )
+    (!--  
+		a raised to the n-th power, 
+		a raised to the power [of] n,
+		(or possibly) a raised to the exponent [of] n, 
+		(or more briefly as) a to the n
+	).

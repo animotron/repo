@@ -1,0 +1,9 @@
+the million
+    (!--  TODO: remove? )
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "million")
+        (lang-ru "миллион"))
+    (!--  ??? <have:denoted>1000</have:denoted>  десятичная система счисления )
+    (!--  [7-9] разряд в десятичная система счисления ).

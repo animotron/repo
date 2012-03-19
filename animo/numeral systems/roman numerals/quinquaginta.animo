@@ -1,0 +1,9 @@
+the quinquaginta
+    (digit)
+    (!--  TODO correct ??? )
+    (roman-numerals)
+    (word
+        lang-la "quinquaginta")
+    (denoted "L")
+    (!--  TODO: <have:natural-number>50</have:natural-number> )
+    (!--  TODO: quinquaginta == ninety ? ).

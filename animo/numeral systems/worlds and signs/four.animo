@@ -1,0 +1,7 @@
+the four
+    (digit)
+    (natural-number)
+    (word
+        (lang-en "four")
+        (lang-ru "четыри"))
+    (denoted 4).

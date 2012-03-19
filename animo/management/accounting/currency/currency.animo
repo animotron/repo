@@ -1,0 +1,6 @@
+the currency
+    (word
+        (lang-en "currency")
+        (lang-ru "валюта"))
+    (!--  this is from currency, exchange-rate have from to currency )
+    (exchange-rate).
