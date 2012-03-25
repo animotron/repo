@@ -1,14 +1,14 @@
 the IX
     (digit)
-    (!--  TODO correct ??? )
+    (!-- " TODO correct ??? ")
     (roman-numerals)
-    (!--  
+    (!-- " 
     <have:name>
 		<ptrn:language>
             <have:lang-la></have:lang-la>
         </ptrn:language>
 	</have:name>
-	)
+	")
     (denoted "IX")
-    (!--  TODO: <have:natural-number>9</have:natural-number> )
-    (!--  TODO: IX == nine ? ).
+    (!-- " TODO: <have:natural-number>9</have:natural-number> ")
+    (!-- " TODO: IX == nine ? ").

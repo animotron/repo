@@ -1,9 +1,9 @@
 the quingenti
     (digit)
-    (!--  TODO correct ??? )
+    (!-- " TODO correct ??? ")
     (roman-numerals)
     (word
         lang-la "quingenti")
     (denoted "D")
-    (!--  TODO: <have:natural-number>500</have:natural-number> )
-    (!--  TODO: quingenti == five-hundred ? ).
+    (!-- " TODO: <have:natural-number>500</have:natural-number> ")
+    (!-- " TODO: quingenti == five-hundred ? ").

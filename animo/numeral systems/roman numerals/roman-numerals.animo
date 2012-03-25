@@ -1,34 +1,34 @@
 the roman-numerals
     (sign-value-notation)
-    (!--  TODO: <is:base10/> )
+    (!-- " TODO: <is:base10/> ")
     (word
         (lang-en "roman numerals")
         (lang-ru "римские цифры"))
     (wiki
         uri "http://en.wikipedia.org/wiki/Roman_numerals")
-    (!--  The Roman numeral system is decimal[1] but not directly positional and does not include a zero. )
-    (!--  TODO: 
+    (!-- " The Roman numeral system is decimal[1] but not directly positional and does not include a zero. ")
+    (!-- " TODO: 
 	
 	U+216x	Ⅰ	Ⅱ	Ⅲ	Ⅳ	Ⅴ	Ⅵ	Ⅶ	Ⅷ	Ⅸ	Ⅹ	Ⅺ	Ⅻ	Ⅼ	Ⅽ	Ⅾ	Ⅿ
 	U+217x	ⅰ	ⅱ	ⅲ	ⅳ	ⅴ	ⅵ	ⅶ	ⅷ	ⅸ	ⅹ	ⅺ	ⅻ	ⅼ	ⅽ	ⅾ	ⅿ
 	U+218x	ↀ	ↁ	ↂ
-	 )
-    (!--  
-	1234 may be thought of as "one thousand and two hundreds and three tens and four", 
+	 ")
+    (!-- " 
+	1234 may be thought of as \"one thousand and two hundreds and three tens and four\", 
 	obtaining M (one thousand) + CC (two hundreds) + XXX (thirty) + IV (four), for MCCXXXIV
-	)
-    (!--  
+	")
+    (!-- " 
 	Note that the subtractive principle is not extended beyond the chart: 
 	for example, IL is not used for 49, rather this should be written as forty (XL) and nine (IX), or XLIX.
-	)
-    (!--  TODO: minus only at IV(IIII) IX, XL, XC, CD, CM )
-    (!-- 
+	")
+    (!-- " TODO: minus only at IV(IIII) IX, XL, XC, CD, CM ")
+    (!-- "
 	The following is a C++ algorithm for translating a decimal (up to 3999) into a Roman Numerical System:
 	
 	string decimal2roman(int input) {
-	  const string roman[13] = { "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+	  const string roman[13] = { \"M\", \"CM\", \"D\", \"CD\", \"C\", \"XC\", \"L\", \"XL\", \"X\", \"IX\", \"V\", \"IV\", \"I\"};
 	  const int decimal[13] =  {1000,  900, 500,  400, 100,   90,  50,   40,  10,   9,    5,    4,   1};
-	  string romanvalue = "";
+	  string romanvalue = \"\";
 	  for (int i = 0; i < 13; i++) {
     	while (input >= decimal[i]) {
 	      input -= decimal[i];
@@ -37,7 +37,7 @@ the roman-numerals
 	  }
 	  return romanvalue;
 	} 
-	)
+	")
     (alphabet
         (unus)
         (IV)

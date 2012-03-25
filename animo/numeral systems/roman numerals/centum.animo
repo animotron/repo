@@ -1,9 +1,9 @@
 the centum
     (digit)
-    (!--  TODO correct ??? )
+    (!-- " TODO correct ??? ")
     (roman-numerals)
     (word
         lang-la "centum")
     (denoted "C")
-    (!--  TODO: <have:natural-number>100</have:natural-number> )
-    (!--  TODO: centum == one-hundred ? ).
+    (!-- " TODO: <have:natural-number>100</have:natural-number> ")
+    (!-- " TODO: centum == one-hundred ? ").

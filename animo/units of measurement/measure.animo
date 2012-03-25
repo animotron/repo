@@ -2,19 +2,19 @@ the measure
     (word
         (lang-en "measure")
         (lang-ru "имено́ванные чи́сла")
-        (!--  http://ru.wikipedia.org/wiki/Именованные_числа )
-        (!--  
+        (!-- " http://ru.wikipedia.org/wiki/Именованные_числа ")
+        (!-- " 
             The word measurement stems, via 
             the Middle French term mesure, 
             from Latin mēnsūra, and the verb metiri.
-            ))
+            "))
     (wiki
         uri "http://en.wikipedia.org/wiki/Measuring")
-    (!--  
+    (!-- " 
 	В метрологии понятию «именованное число» соответствует понятие «значение физической величины (размерной)», 
 	отвлечённые числа используются в качестве числовых значений размерных величин
 	либо значений безразмерных величин.
-	)
+	")
     (quantity)
-    (!--  the magnitude of a quantity )
+    (!-- " the magnitude of a quantity ")
     (unit-of-measurement).

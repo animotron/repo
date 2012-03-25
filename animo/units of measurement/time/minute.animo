@@ -1,11 +1,11 @@
 the minute
     (time)
-    (!--  this relation wrong, must be unit-of-time )
+    (!-- " this relation wrong, must be unit-of-time ")
     (word
         (lang-en "minute")
         (lang-ru "минута"))
     (denoted
         (lang-en "m")
-        (!--  or "min" )
+        (!-- " or \"min\" ")
         (lang-ru "м")
-        (!--  or "мин" )).
+        (!-- " or \"мин\" ")).

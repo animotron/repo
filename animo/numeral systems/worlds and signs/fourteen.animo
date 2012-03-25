@@ -3,8 +3,8 @@ the fourteen
     (natural-number)
     (word
         (lang-en "fourteen")
-        (!--  TODO: four + teen )
+        (!-- " TODO: four + teen ")
         (lang-ru "четырнадцать")
-        (!--  TODO: четыр + над + цать  ))
+        (!-- " TODO: четыр + над + цать  "))
     (denoted 14)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

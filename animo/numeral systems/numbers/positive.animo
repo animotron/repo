@@ -3,4 +3,4 @@ the positive
     (word
         (lang-en "positive")
         (lang-ru "положительн(ые)"))
-    (!--  <have:wiki><have:uri></have:uri></have:wiki> ).
+    (!-- " <have:wiki><have:uri></have:uri></have:wiki> ").

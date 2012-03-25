@@ -3,8 +3,8 @@ the eighteen
     (natural-number)
     (word
         (lang-en "eighteen")
-        (!--  TODO: eigh + teen )
+        (!-- " TODO: eigh + teen ")
         (lang-ru "восемнадцать")
-        (!--  TODO: сем + над + цать  ))
+        (!-- " TODO: сем + над + цать  "))
     (denoted 18)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

@@ -2,7 +2,7 @@ the alphabet
     (word
         (lang-en "alphabet")
         (lang-ru "алфави́т")
-        (!--  TODO: греч. ἀλφάβητος ))
+        (!-- " TODO: греч. ἀλφάβητος "))
     (wiki
         uri "http://en.wikipedia.org/wiki/Alphabet")
-    (!--  a standardized set of letters—basic written symbols or graphemes—each of which roughly represents a phoneme in a spoken language, either as it exists now or as it was in the past ).
+    (!-- " a standardized set of letters—basic written symbols or graphemes—each of which roughly represents a phoneme in a spoken language, either as it exists now or as it was in the past ").

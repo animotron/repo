@@ -3,8 +3,8 @@ the fifteen
     (natural-number)
     (word
         (lang-en "fifteen")
-        (!--  TODO: fif + teen )
+        (!-- " TODO: fif + teen ")
         (lang-ru "пятнадцать")
-        (!--  TODO: пят + над + цать  ))
+        (!-- " TODO: пят + над + цать  "))
     (denoted 15)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

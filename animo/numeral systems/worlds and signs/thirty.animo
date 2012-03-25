@@ -3,8 +3,8 @@ the thirty
     (natural-number)
     (word
         (lang-en "thirty")
-        (!--  TODO: thir + ty  )
+        (!-- " TODO: thir + ty  ")
         (lang-ru "двадцать")
-        (!--  TODO: три + д + цать  ))
+        (!-- " TODO: три + д + цать  "))
     (denoted 30)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

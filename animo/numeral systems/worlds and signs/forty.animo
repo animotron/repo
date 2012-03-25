@@ -3,7 +3,7 @@ the forty
     (natural-number)
     (word
         (lang-en "forty")
-        (!--  TODO: for + ty  )
+        (!-- " TODO: for + ty  ")
         (lang-ru "сорок"))
     (denoted 40)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

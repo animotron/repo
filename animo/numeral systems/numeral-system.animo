@@ -1,9 +1,9 @@
 the numeral-system
-    (!--  TODO: rename "the" to numerals? )
+    (!-- " TODO: rename \"the\" to numerals? ")
     (word
         (lang-en "numeral system")
-        (!--  TODO: system of numeration )
+        (!-- " TODO: system of numeration ")
         (lang-ru "система счисле́ния"))
-    (!--  символический метод записи чисел, представление чисел с помощью письменных знаков )
+    (!-- " символический метод записи чисел, представление чисел с помощью письменных знаков ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Numeral_system").

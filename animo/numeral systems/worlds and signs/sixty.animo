@@ -3,8 +3,8 @@ the sixty
     (natural-number)
     (word
         (lang-en "sixty")
-        (!--  TODO: six + ty  )
+        (!-- " TODO: six + ty  ")
         (lang-ru "шестьдесят")
-        (!--  TODO: шесть + десят ))
+        (!-- " TODO: шесть + десят "))
     (denoted 60)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

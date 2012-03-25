@@ -3,8 +3,8 @@ the ninety
     (natural-number)
     (word
         (lang-en "ninety")
-        (!--  TODO: nine + ty  )
+        (!-- " TODO: nine + ty  ")
         (lang-ru "девяносто")
-        (!--  TODO: девя + но + сто ))
+        (!-- " TODO: девя + но + сто "))
     (denoted 90)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

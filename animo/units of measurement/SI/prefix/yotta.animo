@@ -1,11 +1,11 @@
 the yotta
     (word TODO)
     (denoted "Y")
-    (!--  Symbol )
+    (!-- " Symbol ")
     (prefix "yotta")
     (short-scale
         (word "septillion")
-        (!--  TODO: septi + llion )
+        (!-- " TODO: septi + llion ")
         (factor "1000^8")
         (logic "1000^(7+1)"))
     (long-scale

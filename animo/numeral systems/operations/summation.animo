@@ -4,18 +4,18 @@ the summation
         (lang-en "summation")
         (lang-ru "су́мма")
         (lang-la "summa")
-        (!--  итог, общее количество ))
+        (!-- " итог, общее количество "))
     (denoted "Σ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Summation")
-    (!--  the operation of combining a sequence of numbers using addition )
-    (!--  the result is their sum or total )
-    (!--  If numbers are added sequentially from left to right, any intermediate result is a partial sum or running total of the summation. )
-    (!--  
+    (!-- " the operation of combining a sequence of numbers using addition ")
+    (!-- " the result is their sum or total ")
+    (!-- " If numbers are added sequentially from left to right, any intermediate result is a partial sum or running total of the summation. ")
+    (!-- " 
 	The numbers to be summed may be integers, rational numbers, real numbers, or complex numbers. 
 	
 	Besides numbers, other types of values can be added as well: vectors, matrices, polynomials, 
 	and in general elements of any additive group (or even monoid). 
 	
 	For finite sequences of such elements, summation always produces a well-defined sum (possibly by virtue of the convention for empty sums).
-	).
+	").

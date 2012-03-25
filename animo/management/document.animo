@@ -2,6 +2,6 @@ the document
     (word
         (lang-en "document")
         (lang-ru "документ"))
-    (!--  point on time line (this element is internal on that line, because zoom quite big) )
+    (!-- " point on time line (this element is internal on that line, because zoom quite big) ")
     (timestamp)
     (place).

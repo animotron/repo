@@ -2,5 +2,5 @@ the aunt
     (word
         (lang-en "aunt")
         (lang-ru "тетя"))
-    (!--  father's sister, mother's sister, father's brother's wife, mother's brother's wife )
-    (!--  <have:denoted></have:denoted> ).
+    (!-- " father's sister, mother's sister, father's brother's wife, mother's brother's wife ")
+    (!-- " <have:denoted></have:denoted> ").

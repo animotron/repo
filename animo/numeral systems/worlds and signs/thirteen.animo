@@ -3,8 +3,8 @@ the thirteen
     (natural-number)
     (word
         (lang-en "thirteen")
-        (!--  TODO: thir + teen )
+        (!-- " TODO: thir + teen ")
         (lang-ru "тринадцать")
-        (!--  TODO: три + над + цать  ))
+        (!-- " TODO: три + над + цать  "))
     (denoted 13)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

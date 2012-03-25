@@ -2,7 +2,7 @@ the debit-record
     word
         (lang-en "debit record")
         (lang-en "debit entry")
-        (!--  abbreviation )
+        (!-- " abbreviation ")
         (lang-en "Dr")
         (lang-ru "дебетовая запись")
         (lang-ru "Дт").

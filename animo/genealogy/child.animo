@@ -1,6 +1,6 @@
 the child
     (word
         (lang-en "child")
-        (!--  Child(ren) )
+        (!-- " Child(ren) ")
         (lang-ru "ребенок"))
-    (!--  <have:denoted>SI</have:denoted> ).
+    (!-- " <have:denoted>SI</have:denoted> ").

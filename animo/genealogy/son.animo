@@ -2,4 +2,4 @@ the son
     (word
         (lang-en "son")
         (lang-ru "сын"))
-    (!--  <have:denoted>S</have:denoted> ).
+    (!-- " <have:denoted>S</have:denoted> ").

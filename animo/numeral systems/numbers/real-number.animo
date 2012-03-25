@@ -4,9 +4,9 @@ the real-number
         (lang-ru "вещественное число")
         (lang-la "numerus realis"))
     (denoted "ℝ")
-    (!--  TODO: boldface R )
+    (!-- " TODO: boldface R ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Real_number")
-    (!--  
+    (!-- " 
 	a real number is a value that represents a quantity along a continuum
-	).
+	").

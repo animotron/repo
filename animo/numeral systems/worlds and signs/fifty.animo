@@ -3,8 +3,8 @@ the fifty
     (natural-number)
     (word
         (lang-en "fifty")
-        (!--  TODO: fif + ty  )
+        (!-- " TODO: fif + ty  ")
         (lang-ru "пятьдесят")
-        (!--  TODO: пять + десят ))
+        (!-- " TODO: пять + десят "))
     (denoted 50)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

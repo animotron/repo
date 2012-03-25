@@ -2,7 +2,7 @@ the groupsep
     (grapheme)
     (word
         (lang-en "the separator between the whole and decimal parts of a number")
-        (!--  the separator between the whole and decimal parts of a number ))
+        (!-- " the separator between the whole and decimal parts of a number "))
     (denoted
         (lang-en ".")
         (lang-ru ",")).

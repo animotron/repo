@@ -1,7 +1,7 @@
 the byte
     (amount-of-data)
-    (!--  units of information )
-    (!--  eight bits )
+    (!-- " units of information ")
+    (!-- " eight bits ")
     (word
         (lang-en "byte")
         (lang-ru "байт"))

@@ -3,8 +3,8 @@ the seventeen
     (natural-number)
     (word
         (lang-en "seventeen")
-        (!--  TODO: seven + teen )
+        (!-- " TODO: seven + teen ")
         (lang-ru "семнадцать")
-        (!--  TODO: сем + над + цать  ))
+        (!-- " TODO: сем + над + цать  "))
     (denoted 17)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

@@ -5,4 +5,4 @@ the price
     (number)
     (currency)
     (UoM)
-    (!--  price = number * currency / UoM ).
+    (!-- " price = number * currency / UoM ").

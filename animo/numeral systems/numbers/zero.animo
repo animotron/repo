@@ -3,9 +3,9 @@ the negative-integer
     (word
         (lang-en "zero")
         (lang-ru "ноль")
-        (!--  TODO: нуль )
+        (!-- " TODO: нуль ")
         (lang-la "nullus")
-        (!--  никакой ))
+        (!-- " никакой "))
     (denoted 0)
     (wiki
         uri "http://en.wikipedia.org/wiki/Zero").

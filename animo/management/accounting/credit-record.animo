@@ -2,7 +2,7 @@ the credit-record
     word
         (lang-en "credit record")
         (lang-en "credit entry")
-        (!--  abbreviation )
+        (!-- " abbreviation ")
         (lang-en "Cr")
         (lang-ru "запись по кредиту")
         (lang-ru "Кт").

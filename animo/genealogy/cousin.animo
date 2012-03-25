@@ -2,6 +2,6 @@ the cousin
     (word
         (lang-en "cousin")
         (lang-ru "кузен(a)")
-        (!--  родственник ))
-    (!--  the children of aunts or uncles )
-    (!--  <have:denoted></have:denoted> ).
+        (!-- " родственник "))
+    (!-- " the children of aunts or uncles ")
+    (!-- " <have:denoted></have:denoted> ").

@@ -4,4 +4,4 @@ the cost
         (lang-ru "стоимость"))
     (number)
     (currency)
-    (!--  cost = number * currency ).
+    (!-- " cost = number * currency ").

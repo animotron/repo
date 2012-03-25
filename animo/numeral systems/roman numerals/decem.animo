@@ -1,9 +1,9 @@
 the decem
     (digit)
-    (!--  TODO correct ??? )
+    (!-- " TODO correct ??? ")
     (roman-numerals)
     (word
         lang-la "decem")
     (denoted "X")
-    (!--  TODO: <have:natural-number>10</have:natural-number> )
-    (!--  TODO: decem == ten ? ).
+    (!-- " TODO: <have:natural-number>10</have:natural-number> ")
+    (!-- " TODO: decem == ten ? ").

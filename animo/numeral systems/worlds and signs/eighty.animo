@@ -3,8 +3,8 @@ the eighty
     (natural-number)
     (word
         (lang-en "eighty")
-        (!--  TODO: eigh + ty  )
+        (!-- " TODO: eigh + ty  ")
         (lang-ru "восемьдесят")
-        (!--  TODO: восемь + десят ))
+        (!-- " TODO: восемь + десят "))
     (denoted 80)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

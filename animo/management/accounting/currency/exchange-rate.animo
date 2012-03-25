@@ -4,5 +4,5 @@ the exchange-rate
         (lang-ru "обменный курс"))
     (timestamp)
     (ratio)
-    (!--  to currency )
+    (!-- " to currency ")
     (currency).

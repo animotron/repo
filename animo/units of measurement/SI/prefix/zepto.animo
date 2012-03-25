@@ -1,15 +1,15 @@
 the zepto
     (word TODO)
     (denoted "z")
-    (!--  Symbol )
+    (!-- " Symbol ")
     (prefix "zepto")
     (short-scale
         (word "sextillionth")
-        (!--  TODO: sexti + llionth )
+        (!-- " TODO: sexti + llionth ")
         (factor "1000^-7"))
     (long-scale
         (word "trilliardth")
-        (!--  TODO: tri + lliardth )
+        (!-- " TODO: tri + lliardth ")
         (factor "10^-21"))
     (number Q D0.000000000000000000001)
     (since

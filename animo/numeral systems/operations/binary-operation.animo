@@ -3,10 +3,10 @@ the binary-operation
     (word
         (lang-en "binary operation")
         (lang-ru "бинарная операция"))
-    (!--  a calculation involving two operands, in other words, an operation whose arity is two )
+    (!-- " a calculation involving two operands, in other words, an operation whose arity is two ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Binary_operation")
-    (!--  
+    (!-- " 
 	префиксная (польская запись) — * x y
 	постфиксная (обратная польская запись) — x y * 
-	).
+	").

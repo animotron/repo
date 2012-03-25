@@ -1,7 +1,7 @@
 the asterisk-operator
     (word
         lang-en "asterisk operator")
-    (!-- have:HTML>&lowast;</have:HTML)
+    (!-- "have:HTML>&lowast;</have:HTML")
     (unicode "U+2217")
     (LaTeX "\ast")
     (denoted "∗")

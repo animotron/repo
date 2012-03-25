@@ -1,7 +1,7 @@
 the deci
     (word "tenth")
     (denoted "d")
-    (!--  Symbol )
+    (!-- " Symbol ")
     (prefix "deci")
     (short-scale
         (word "tenth")

@@ -2,6 +2,6 @@ the number
     (word
         (lang-en "number")
         (lang-ru "число"))
-    (!--  a mathematical object used to count and measure )
+    (!-- " a mathematical object used to count and measure ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Number").

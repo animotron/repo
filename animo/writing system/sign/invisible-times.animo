@@ -1,8 +1,8 @@
 the invisible-times
     (word
         lang-en "asterisk operator")
-    (!-- have:HTML>&lowast;</have:HTML)
+    (!-- "have:HTML>&lowast;</have:HTML")
     (unicode "U+2062")
-    (!--  TODO: <have:denoted></have:denoted>  )
+    (!-- " TODO: <have:denoted></have:denoted>  ")
     (wiki
         uri "http://ru.wikipedia.org/wiki/Знак_умножения").

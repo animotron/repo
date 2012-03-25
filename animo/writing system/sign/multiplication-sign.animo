@@ -1,7 +1,7 @@
 the multiplication-sign
     (word
         lang-en "multiplication sign")
-    (!-- have:HTML>&times;</have:HTML)
+    (!-- "have:HTML>&times;</have:HTML")
     (unicode "U+00D7")
     (LaTeX "\times")
     (denoted "×")

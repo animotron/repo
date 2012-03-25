@@ -1,9 +1,9 @@
 the unus
     (digit)
-    (!--  TODO correct ??? )
+    (!-- " TODO correct ??? ")
     (roman-numerals)
     (word
         lang-la "unus")
     (denoted "I")
-    (!--  TODO: <have:natural-number>1</have:natural-number> )
-    (!--  TODO: unus == one ? ).
+    (!-- " TODO: <have:natural-number>1</have:natural-number> ")
+    (!-- " TODO: unus == one ? ").

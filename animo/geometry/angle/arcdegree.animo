@@ -1,6 +1,6 @@
 the arcdegree
     (word
-        (!--  full: a degree of arc, arc degree, or arcdegree )
+        (!-- " full: a degree of arc, arc degree, or arcdegree ")
         (lang-en "arcdegree")
         (lang-ru "дуговой градус")
         (lang-la "gradus"))

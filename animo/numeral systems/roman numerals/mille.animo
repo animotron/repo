@@ -1,9 +1,9 @@
 the mille
     (digit)
-    (!--  TODO correct ??? )
+    (!-- " TODO correct ??? ")
     (roman-numerals)
     (word
         lang-la "mille")
     (denoted "M")
-    (!--  TODO: <have:natural-number>1000</have:natural-number> )
-    (!--  TODO: mille == one-thousand ? ).
+    (!-- " TODO: <have:natural-number>1000</have:natural-number> ")
+    (!-- " TODO: mille == one-thousand ? ").

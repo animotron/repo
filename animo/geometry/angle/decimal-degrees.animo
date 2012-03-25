@@ -2,15 +2,15 @@ the decimal-degrees
     (word
         (lang-en "decimal degrees")
         (lang-ru "десятичный градус"))
-    (!--  shortname: DD )
+    (!-- " shortname: DD ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Decimal_degrees")
-    (!--  Example:
+    (!-- " Example:
 	
 	The decimal degree representation of the location of the United States Capitol is:
 		38.889722°, -77.008889°
 
-	In most systems, such as Google Maps, the degree symbol is omitted and thus the coordinates are expressed as "38.889722, -77.008889".
+	In most systems, such as Google Maps, the degree symbol is omitted and thus the coordinates are expressed as \"38.889722, -77.008889\".
 
 	A DMS value is converted to decimal degrees using the formula:
 		decimal = D + M / 60 + S / 3600
@@ -20,8 +20,8 @@ the decimal-degrees
 
 	is:
 		38.889722°, -77.008889°
- 	)
-    (!--  
+ 	")
+    (!-- " 
  		Conversion from DMS to Decimal Degree
 
 		Given a DMS (Degrees, Minutes, Seconds) coordinate such as W87°43′41″, it's trivial to convert it to a number of decimal degrees using the following method:
@@ -30,4 +30,4 @@ the decimal-degrees
 		Add fractional degrees to whole degrees to produce the final result: 87 + 0.728056 = 87.728056
 		Since it is a West longitude coordinate, negate the result.
 		The final result is -87.728056.
-	).
+	").

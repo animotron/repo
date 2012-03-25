@@ -4,7 +4,7 @@ the newton
         (lang-en "Newton")
         (lang-ru "Ньютон"))
     (denoted "N")
-    (!--  Н )
+    (!-- " Н ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Newton_(unit)")
-    (!--  SI: кг·м·c^−2 ).
+    (!-- " SI: кг·м·c^−2 ").

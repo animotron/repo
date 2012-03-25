@@ -2,32 +2,32 @@ math "http://www.w3.org/1998/Math/MathML"applysumbvarcilowlimitciuplimitciapplyt
     (numeral-system)
     (word
         (lang-en "positional notation")
-        (!--  TODO: place-value notation )
+        (!-- " TODO: place-value notation ")
         (lang-ru "позиционная систе́ма счисле́ния")
-        (!--  TODO: позиционная нумерация ))
-    (!--  a method of representing or encoding numbers )
+        (!-- " TODO: позиционная нумерация "))
+    (!-- " a method of representing or encoding numbers ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Positional_notation")
     (base)
     (alphabet)
-    (!--  
+    (!-- " 
 	Позиционная система счисления определяется целым числом b > 1, называемым основанием системы счисления. 
 	Система счисления с основанием b также называется b-ричной (в частности, двоичной, троичной, десятичной и т. п.).
-	)
-    (!--  TODO: notation == alphabet ??? )
-    (!--  "2506" => 2*10^3 + 5*10^2 + 0*10^1 + 6*10^0 )
-    (!--  "171B" => 1*16^3 + 7*16^2 + 1*16^1 + B*16^0 => 1*16^3 + 7*16^2 + 1*16^1 + 11*16^0 )
-    (!--  формула перевода в base10 )
-    (!--  
+	")
+    (!-- " TODO: notation == alphabet ??? ")
+    (!-- " \"2506\" => 2*10^3 + 5*10^2 + 0*10^1 + 6*10^0 ")
+    (!-- " \"171B\" => 1*16^3 + 7*16^2 + 1*16^1 + B*16^0 => 1*16^3 + 7*16^2 + 1*16^1 + 11*16^0 ")
+    (!-- " формула перевода в base10 ")
+    (!-- " 
 	int result = 0;
 	for (int x = animo-parser:length; x >= 1 ; x = x - 1) {
 		result += N10( animo-parser:symbol( x ) ) * 10 ^ get:base;
 	}
-	)
-    (!--  
+	")
+    (!-- " 
 	animo-parser:length >= x >= 1
 	N10( animo-parser:symbol( x ) ) * get:base ^ x;
-	 )
+	 ")
     (number
         \
             ($)
@@ -43,26 +43,26 @@ math "http://www.w3.org/1998/Math/MathML"applysumbvarcilowlimitciuplimitciapplyt
                             (\
                                 (@)
                                 "N10")
-                            (!--  TODO: ??? )
+                            (!-- " TODO: ??? ")
                             (\
                                 \
                                     (\
                                         (@)
                                         "animo-parser:symbol")
-                                    (!--  TODO: parser function that return symbol at position x? )
+                                    (!-- " TODO: parser function that return symbol at position x? ")
                                     (\ "x")))
                     (\
                         \
                             (\)
                             (\
                                 get base)
-                            (!--  get base of correct numerals )
+                            (!-- " get base of correct numerals ")
                             (\ "x")))))
-    (!--  
+    (!-- " 
 	N10(123) => N7
 	
 	123/7 = 17 with remainder of 4
 	 17/7 =  2 with remainder of 3
 	  2/7 =  0 with remainder of 2
 	                               = N7(234)
-	).
+	").

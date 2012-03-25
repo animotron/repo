@@ -1,12 +1,12 @@
 the six-hundred
-    (!--  TODO: remove? )
+    (!-- " TODO: remove? ")
     (digit)
     (natural-number)
     (word
         (lang-en "six hundred")
-        (!--  TODO: six + " " +hundred )
+        (!-- " TODO: six + \" \" +hundred ")
         (lang-ru "шестьсот")
-        (!--  TODO: шесть + сот )
-        (!--  TODO: шестисот, шестистам, шестьюстами, шестьюстах ))
+        (!-- " TODO: шесть + сот ")
+        (!-- " TODO: шестисот, шестистам, шестьюстами, шестьюстах "))
     (denoted 600)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

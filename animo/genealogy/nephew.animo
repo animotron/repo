@@ -2,5 +2,5 @@ the nephew
     (word
         (lang-en "nephew")
         (lang-ru "племянник"))
-    (!--  sister's son, brother's son, wife's brother's son, wife's sister's son, husband's brother's son, husband's sister's son )
-    (!--  <have:denoted></have:denoted> ).
+    (!-- " sister's son, brother's son, wife's brother's son, wife's sister's son, husband's brother's son, husband's sister's son ")
+    (!-- " <have:denoted></have:denoted> ").

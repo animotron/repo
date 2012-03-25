@@ -2,5 +2,5 @@ the mother
     (word
         (lang-en "mother")
         (lang-ru "мать")
-        (!--  TODO: разг. мама, маменька, матушка; груб. мамаша ))
-    (!--  <have:denoted>M</have:denoted> ).
+        (!-- " TODO: разг. мама, маменька, матушка; груб. мамаша "))
+    (!-- " <have:denoted>M</have:denoted> ").

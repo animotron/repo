@@ -1,12 +1,12 @@
 the nine-hundred
-    (!--  TODO: remove? )
+    (!-- " TODO: remove? ")
     (digit)
     (natural-number)
     (word
         (lang-en "nine hundred")
-        (!--  TODO: nine + " " +hundred )
+        (!-- " TODO: nine + \" \" +hundred ")
         (lang-ru "девятьсот")
-        (!--  TODO: девять + сот )
-        (!--  TODO: девятисот, девятистам, девятьюстами, девятистах ))
+        (!-- " TODO: девять + сот ")
+        (!-- " TODO: девятисот, девятистам, девятьюстами, девятистах "))
     (denoted 900)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

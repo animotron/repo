@@ -1,11 +1,11 @@
 the zetta
     (word TODO)
     (denoted "Z")
-    (!--  Symbol )
+    (!-- " Symbol ")
     (prefix "zetta")
     (short-scale
         (word "sextillion")
-        (!--  TODO: sexti + llion )
+        (!-- " TODO: sexti + llion ")
         (factor "1000^7")
         (logic "1000^(6+1)"))
     (long-scale

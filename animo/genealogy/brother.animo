@@ -2,4 +2,4 @@ the brother
     (word
         (lang-en "brother")
         (lang-ru "брат"))
-    (!--  <have:denoted>B</have:denoted> ).
+    (!-- " <have:denoted>B</have:denoted> ").

@@ -3,8 +3,8 @@ the twenty
     (natural-number)
     (word
         (lang-en "twenty")
-        (!--  TODO: twen + ty  )
+        (!-- " TODO: twen + ty  ")
         (lang-ru "двадцать")
-        (!--  TODO: два + д + цать  ))
+        (!-- " TODO: два + д + цать  "))
     (denoted 20)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

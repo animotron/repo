@@ -2,4 +2,4 @@ the daughter
     (word
         (lang-en "daughter")
         (lang-ru "дочь"))
-    (!--  <have:denoted>D</have:denoted> ).
+    (!-- " <have:denoted>D</have:denoted> ").

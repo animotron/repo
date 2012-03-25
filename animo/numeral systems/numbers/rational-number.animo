@@ -2,12 +2,12 @@ the rational-number
     (word
         (lang-en "rational number")
         (lang-ru "рациональное число")
-        (!--  TODO: <have:lang-la>ratio — отношение, деление, дробь</have:lang-la> ))
+        (!-- " TODO: <have:lang-la>ratio — отношение, деление, дробь</have:lang-la> "))
     (denoted "ℚ")
-    (!--  TODO: boldface Q )
+    (!-- " TODO: boldface Q ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Rational_number")
-    (!--  
+    (!-- " 
 	any number that can be expressed as the quotient or fraction a/b of two integers, 
 	with the denominator b not equal to zero
-	).
+	").

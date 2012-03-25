@@ -3,8 +3,8 @@ the sixteen
     (natural-number)
     (word
         (lang-en "sixteen")
-        (!--  TODO: six + teen )
+        (!-- " TODO: six + teen ")
         (lang-ru "шестнадцать")
-        (!--  TODO: шест + над + цать  ))
+        (!-- " TODO: шест + над + цать  "))
     (denoted 16)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

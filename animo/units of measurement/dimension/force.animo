@@ -6,4 +6,4 @@ the force
         uri "http://en.wikipedia.org/wiki/Force_(physics)")
     (denoted "F")
     (SI-unit newton)
-    (!--  F = m * a  (Newton's second law) ).
+    (!-- " F = m * a  (Newton's second law) ").

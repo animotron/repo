@@ -2,7 +2,7 @@ the complex-number
     (word
         (lang-en "complex number")
         (lang-ru "комплексное число"))
-    (!--  TODO: <have:denoted></have:denoted> boldface C )
+    (!-- " TODO: <have:denoted></have:denoted> boldface C ")
     (wiki
         uri "http://en.wikipedia.org/wiki/Complex_number")
-    (!--  x + iy, где x и y — вещественные числа, i — мнимая единица ).
+    (!-- " x + iy, где x и y — вещественные числа, i — мнимая единица ").

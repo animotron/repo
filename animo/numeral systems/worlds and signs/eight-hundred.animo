@@ -1,12 +1,12 @@
 the eight-hundred
-    (!--  TODO: remove? )
+    (!-- " TODO: remove? ")
     (digit)
     (natural-number)
     (word
         (lang-en "eight hundred")
-        (!--  TODO: eight + " " +hundred )
+        (!-- " TODO: eight + \" \" +hundred ")
         (lang-ru "восемьсот")
-        (!--  TODO: восемь + сот )
-        (!--  TODO: восьмисот, восьмьюстами и восемьюстами, восьмистах ))
+        (!-- " TODO: восемь + сот ")
+        (!-- " TODO: восьмисот, восьмьюстами и восемьюстами, восьмистах "))
     (denoted 800)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

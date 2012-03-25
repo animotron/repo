@@ -1,15 +1,15 @@
 the bit
     (amount-of-data)
-    (!--  units of information )
-    (!--  eight bits )
+    (!-- " units of information ")
+    (!-- " eight bits ")
     (word
         (lang-en "bit")
         (lang-ru "бит"))
     (denoted "b")
     (wiki
         uri "http://en.wikipedia.org/wiki/Bit")
-    (!--  
+    (!-- " 
    	the basic unit of information in computing and telecommunications; 
    	it is the amount of information stored by a digital device or other physical system 
    	that exists in one of two possible distinct states.
-   	).
+   	").

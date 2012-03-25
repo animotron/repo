@@ -1,7 +1,7 @@
 the hecto
     (word "hundred")
     (denoted "h")
-    (!--  Symbol )
+    (!-- " Symbol ")
     (prefix "hecto")
     (short-scale
         (word "hundred")

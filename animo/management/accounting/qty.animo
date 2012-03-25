@@ -4,4 +4,4 @@ the qty
         (lang-ru "количество"))
     (number)
     (UoM)
-    (!--  number * UoM ).
+    (!-- " number * UoM ").

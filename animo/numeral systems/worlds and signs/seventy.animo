@@ -3,8 +3,8 @@ the seventy
     (natural-number)
     (word
         (lang-en "seventy")
-        (!--  TODO: seven + ty  )
+        (!-- " TODO: seven + ty  ")
         (lang-ru "семьдесят")
-        (!--  TODO: семь + десят ))
+        (!-- " TODO: семь + десят "))
     (denoted 70)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

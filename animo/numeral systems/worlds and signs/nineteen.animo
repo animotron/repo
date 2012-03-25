@@ -3,8 +3,8 @@ the nineteen
     (natural-number)
     (word
         (lang-en "nineteen")
-        (!--  TODO: nine + teen )
+        (!-- " TODO: nine + teen ")
         (lang-ru "девятнадцать")
-        (!--  TODO: девят + над + цать  ))
+        (!-- " TODO: девят + над + цать  "))
     (denoted 19)
-    (!--  десятичная система счисления ).
+    (!-- " десятичная система счисления ").

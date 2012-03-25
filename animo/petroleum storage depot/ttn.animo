@@ -20,7 +20,7 @@ the ttn
         (tax)
         (total))
     (comment)
-    (!-- 
+    (!-- "
     <have:number/>
     <have:date/>
     <have:party/>
@@ -34,4 +34,4 @@ the ttn
     <have:vat/>
     <have:total/>
     <have:comment/>
-).
+").

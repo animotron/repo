@@ -1,11 +1,11 @@
 the mega
     (word TODO)
     (denoted "M")
-    (!--  Symbol )
+    (!-- " Symbol ")
     (prefix "mega")
     (short-scale
         (word "million")
-        (!--  TODO: mi + llion )
+        (!-- " TODO: mi + llion ")
         (factor "1000^2")
         (logic "1000^(1+1)"))
     (long-scale
