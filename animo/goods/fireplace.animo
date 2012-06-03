@@ -1,4 +1,4 @@
-the fireplace
-    word
+def fireplace
+    (word
         (lang-en "fireplace")
-        (lang-ru "камины").
+        (lang-ru "камины")).

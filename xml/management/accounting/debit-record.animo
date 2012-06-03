@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:debit-record xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:debit-record xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>debit record</have:lang-en>
@@ -10,4 +10,4 @@
             <have:lang-ru>Дт</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:debit-record>
+</def:debit-record>

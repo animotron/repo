@@ -1,4 +1,4 @@
-the mains-supply-transformer
+def mains-supply-transformer
     (electrical-equipment)
     (word
         (lang-en "mains supply transformer")

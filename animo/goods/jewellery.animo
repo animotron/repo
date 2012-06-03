@@ -1,4 +1,4 @@
-the jewellery
+def jewellery
     (jewellers)
     (word
         (lang-en "jewellery")

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:piece xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:piece xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:unit-of-measurement/>
     
     <have:name>
@@ -15,4 +15,4 @@
             <have:lang-ru>шт</have:lang-ru>
         </ptrn:language>
    	</have:denoted>
-</the:piece>
+</def:piece>

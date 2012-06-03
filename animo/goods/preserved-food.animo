@@ -1,4 +1,4 @@
-the preserved-food
+def preserved-food
     (foodstuff)
     (word
         (lang-en "preserved food")

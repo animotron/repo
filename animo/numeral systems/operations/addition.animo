@@ -1,4 +1,4 @@
-the addition
+def addition
     (binary-operation)
     (word
         (lang-en "addition")

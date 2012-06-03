@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-b08561a9-56ee-4eb5-bae0-a79d4bbbbb32 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-b08561a9-56ee-4eb5-bae0-a79d4bbbbb32 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -7,4 +7,4 @@
         <have:lang-en>Silas John /Nims/</have:lang-en>
 	</have:name>
 	
-</the:uuid-b08561a9-56ee-4eb5-bae0-a79d4bbbbb32>
+</def:uuid-b08561a9-56ee-4eb5-bae0-a79d4bbbbb32>

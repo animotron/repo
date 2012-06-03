@@ -1,4 +1,4 @@
-the example
+def example
     word
         (lang-en "example")
         (lang-ru "пример").

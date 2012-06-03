@@ -1,4 +1,4 @@
-the painting
-    word
+def painting
+    (word
         (lang-en "painting")
-        (lang-ru "покраска").
+        (lang-ru "покраска")).

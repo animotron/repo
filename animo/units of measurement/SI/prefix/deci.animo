@@ -1,4 +1,4 @@
-the deci
+def deci
     (word "tenth")
     (denoted "d")
     (!-- " Symbol ")

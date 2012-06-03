@@ -1,4 +1,4 @@
-the child
+def child
     (word
         (lang-en "child")
         (!-- " Child(ren) ")

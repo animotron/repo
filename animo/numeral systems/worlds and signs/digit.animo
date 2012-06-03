@@ -1,8 +1,8 @@
-the digit
+def digit
     (sign)
     (word
         (lang-en "numerical digit")
         (lang-ru "цифры"))
     (wiki
         uri "http://en.wikipedia.org/wiki/Numerical_digit")
-    (!-- " A digit is a symbol (a number symbol, e.g., \"3\" or \"7\") used in numerals (combinations of symbols, e.g., \"37\"), to represent numbers (integers or real numbers) in positional numeral systems. The name \"digit\" comes from the fact that the 10 digits (ancient Latin digita meaning fingers) of the hands correspond to the 10 symbols of the common base 10 number system, i.e. the decimal (ancient Latin adjective dec. meaning ten) digits. ").
+    (!-- " A digit is a symbol (a number symbol, e.g., \"3\" or \"7\") used in numerals (combinations of symbols, e.g., \"37\"), to represent numbers (integers or real numbers) in positional numeral systems. The name \"digit\" comes from def fact that def 10 digits (ancient Latin digita meaning fingers) of def hands correspond to def 10 symbols of def common base 10 number system, i.e. def decimal (ancient Latin adjective dec. meaning ten) digits. ").

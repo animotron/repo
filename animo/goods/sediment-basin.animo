@@ -1,4 +1,4 @@
-the sediment-basin
-    word
+def sediment-basin
+    (word
         (lang-en "sediment basin")
-        (lang-ru "отстойник").
+        (lang-ru "отстойник")).

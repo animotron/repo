@@ -1,4 +1,4 @@
-the wagon
-    word
+def wagon
+    (word
         (lang-en "wagon")
-        (lang-ru "вагоны").
+        (lang-ru "вагоны")).

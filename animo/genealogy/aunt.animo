@@ -1,4 +1,4 @@
-the aunt
+def aunt
     (word
         (lang-en "aunt")
         (lang-ru "тетя"))

@@ -1,4 +1,4 @@
-the autoshop
+def autoshop
     (shop)
     (word
         (lang-en "autoshop")

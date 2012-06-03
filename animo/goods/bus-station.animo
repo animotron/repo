@@ -1,4 +1,4 @@
-the bus-station
+def bus-station
     (enterprise)
     (word
         (lang-en "bus station")

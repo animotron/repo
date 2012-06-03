@@ -1,4 +1,4 @@
-the mining-and-processing-plant
+def mining-and-processing-plant
     (enterprise)
     (word
         (lang-en "mining and processing plant")

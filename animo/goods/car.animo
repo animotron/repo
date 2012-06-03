@@ -1,5 +1,4 @@
-the car
-    (transport)
+def car (transport)
     (word
         (lang-en "car")
         (lang-ru "автомобиль")).

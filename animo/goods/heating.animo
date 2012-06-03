@@ -1,4 +1,4 @@
-the heating
-    word
+def heating
+    (word
         (lang-en "heating")
-        (lang-ru "отопление").
+        (lang-ru "отопление")).

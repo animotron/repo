@@ -1,4 +1,4 @@
-the broadside-advertisement
-    word
+def broadside-advertisement
+    (word
         (lang-en "broadside advertisement")
-        (lang-ru "широкоформатная").
+        (lang-ru "широкоформатная")).

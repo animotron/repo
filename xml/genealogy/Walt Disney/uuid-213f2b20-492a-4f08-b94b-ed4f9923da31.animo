@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-213f2b20-492a-4f08-b94b-ed4f9923da31 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-213f2b20-492a-4f08-b94b-ed4f9923da31 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Corinth, Saratoga, New York</have:place>
 	</have:death>
 	
-</the:uuid-213f2b20-492a-4f08-b94b-ed4f9923da31>
+</def:uuid-213f2b20-492a-4f08-b94b-ed4f9923da31>

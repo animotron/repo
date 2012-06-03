@@ -1,4 +1,4 @@
-the bag
-    word
+def bag
+    (word
         (lang-en "bag")
-        (lang-ru "мешки").
+        (lang-ru "мешки")).

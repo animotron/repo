@@ -1,4 +1,4 @@
-the barrier
-    word
+def barrier
+    (word
         (lang-en "barrier")
-        (lang-ru "шлагбаум").
+        (lang-ru "шлагбаум")).

@@ -1,4 +1,4 @@
-the camp
-    word
+def camp
+    (word
         (lang-en "camp")
-        (lang-ru "лагерь").
+        (lang-ru "лагерь")).

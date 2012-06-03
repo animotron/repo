@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:million xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:million xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<!-- TODO: remove? -->
 
@@ -16,4 +16,4 @@
 	<!-- ??? <have:denoted>1000</have:denoted>  десятичная система счисления -->
 	<!-- [7-9] разряд в десятичная система счисления -->
 	
-</the:million>
+</def:million>

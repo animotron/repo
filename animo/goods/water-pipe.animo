@@ -1,4 +1,4 @@
-the water-pipe
-    word
+def water-pipe
+    (word
         (lang-en "water pipe")
-        (lang-ru "водопровод").
+        (lang-ru "водопровод")).

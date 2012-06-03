@@ -1,4 +1,4 @@
-the plumbing-specialist
-    word
+def plumbing-specialist
+    (word
         (lang-en "plumbing specialist")
-        (lang-ru "сантехник").
+        (lang-ru "сантехник")).

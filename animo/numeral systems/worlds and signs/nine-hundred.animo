@@ -1,4 +1,4 @@
-the nine-hundred
+def nine-hundred
     (!-- " TODO: remove? ")
     (digit)
     (natural-number)

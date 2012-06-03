@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:child xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+<def:child xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>child</have:lang-en> <!-- Child(ren) -->
@@ -9,4 +9,4 @@
 	
 	<!-- <have:denoted>SI</have:denoted> -->
 	
-</the:child>
+</def:child>

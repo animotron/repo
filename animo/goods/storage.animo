@@ -1,4 +1,4 @@
-the storage
-    word
+def storage
+    (word
         (lang-en "storage")
-        (lang-ru "хранение").
+        (lang-ru "хранение")).

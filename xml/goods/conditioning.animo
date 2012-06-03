@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:conditioning xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:conditioning xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>conditioning</have:lang-en>
             <have:lang-ru>кондиционирование</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:conditioning>
+</def:conditioning>

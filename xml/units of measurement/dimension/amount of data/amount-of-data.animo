@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:amount-of-data xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:math="animo/math">
+<def:amount-of-data xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance" xmlns:math="animo/math">
 
 	<is:unit-of-measurement/> <!-- of data -->
     
@@ -10,4 +10,4 @@
         </ptrn:language>
     </have:name>
 
-</the:amount-of-data>
+</def:amount-of-data>

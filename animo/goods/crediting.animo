@@ -1,4 +1,4 @@
-the crediting
-    word
+def crediting
+    (word
         (lang-en "crediting")
-        (lang-ru "кредитование").
+        (lang-ru "кредитование")).

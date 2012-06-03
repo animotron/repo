@@ -1,4 +1,4 @@
-the studio
-    word
+def studio
+    (word
         (lang-en "studio")
-        (lang-ru "студия").
+        (lang-ru "студия")).

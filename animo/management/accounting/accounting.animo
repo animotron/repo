@@ -1,4 +1,4 @@
-the accounting
+def accounting
     word
         (lang-en "accounting")
         (lang-ru "бухгалтерия").

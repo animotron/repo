@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-334dfa04-d765-4f14-a98f-3a567d6d9a65 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-334dfa04-d765-4f14-a98f-3a567d6d9a65 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -12,4 +12,4 @@
 		<have:place>Greenfield, Huron, Ohio</have:place>
 	</have:birth>
 	
-</the:uuid-334dfa04-d765-4f14-a98f-3a567d6d9a65>
+</def:uuid-334dfa04-d765-4f14-a98f-3a567d6d9a65>

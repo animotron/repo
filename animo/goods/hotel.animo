@@ -1,4 +1,4 @@
-the hotel
+def hotel
     (building)
     (word
         (lang-en "hotel")

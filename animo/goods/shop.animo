@@ -1,4 +1,3 @@
-the shop
-    word
-        (lang-en "shop")
-        (lang-ru "магазин").
+def shop word
+    (lang-en "shop")
+    (lang-ru "магазин").

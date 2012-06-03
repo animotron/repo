@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:positive-integer xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:positive-integer xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 	
 	<!-- <is:integer/> TODO: new relation type?  -->
 	<is:positive/>
@@ -18,4 +18,4 @@
 	
 	<!-- 1, 2, 3, 4, 5, ... -->
 	
-</the:positive-integer>
+</def:positive-integer>

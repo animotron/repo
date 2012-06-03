@@ -1,4 +1,4 @@
-the conditioning
-    word
+def conditioning
+    (word
         (lang-en "conditioning")
-        (lang-ru "кондиционирование").
+        (lang-ru "кондиционирование")).

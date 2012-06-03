@@ -1,4 +1,4 @@
-the tonometer
+def tonometer
     (medical-instruments)
     (word
         (lang-en "tonometer")

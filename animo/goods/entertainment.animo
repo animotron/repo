@@ -1,4 +1,4 @@
-the entertainment
-    word
+def entertainment
+    (word
         (lang-en "entertainment")
-        (lang-ru "развлечения").
+        (lang-ru "развлечения")).

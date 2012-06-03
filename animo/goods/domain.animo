@@ -1,4 +1,4 @@
-the domain
-    word
+def domain
+    (word
         (lang-en "domain")
-        (lang-ru "домен").
+        (lang-ru "домен")).

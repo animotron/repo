@@ -1,4 +1,4 @@
-the blockhouse
+def blockhouse
     (building-materials)
     (word
         (lang-en "blockhouse")

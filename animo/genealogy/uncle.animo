@@ -1,4 +1,4 @@
-the uncle
+def uncle
     (word
         (lang-en "uncle")
         (lang-ru "дядя"))

@@ -1,4 +1,4 @@
-<the:contract xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:contract xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:document/>
     <have:name>
         <ptrn:language>
@@ -6,4 +6,4 @@
             <have:lang-ru>договор</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:contract>
+</def:contract>

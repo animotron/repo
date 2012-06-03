@@ -1,4 +1,4 @@
-the tacking
-    word
+def tacking
+    (word
         (lang-en "tacking")
-        (lang-ru "снасти").
+        (lang-ru "снасти")).

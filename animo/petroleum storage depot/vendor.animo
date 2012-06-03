@@ -1,4 +1,4 @@
-the vendor
+def vendor
     word
         (lang-en "vendor")
         (lang-ru "продавец").

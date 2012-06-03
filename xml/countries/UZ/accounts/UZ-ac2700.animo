@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:UZ-ac2700 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:UZ-ac2700 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:account/>
     <have:name>
         <ptrn:language>
@@ -10,4 +10,4 @@
     <have:code>27</have:code>
     <have:code>2700</have:code>
     
-</the:UZ-ac2700>
+</def:UZ-ac2700>

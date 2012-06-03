@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:out-of-home-media xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:out-of-home-media xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:advertisement/>
     <have:name>
         <ptrn:language>
@@ -7,4 +7,4 @@
             <have:lang-ru>наружная реклама</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:out-of-home-media>
+</def:out-of-home-media>

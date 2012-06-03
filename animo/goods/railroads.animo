@@ -1,4 +1,3 @@
-the railroads
-    word
-        (lang-en "railroads")
-        (lang-ru "ж/д пути").
+def railroads word
+    (lang-en "railroads")
+    (lang-ru "ж/д пути").

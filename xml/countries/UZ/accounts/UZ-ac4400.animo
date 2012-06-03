@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:UZ-ac4400 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:UZ-ac4400 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:account/>
     <have:name>
         <ptrn:language>
@@ -10,4 +10,4 @@
     <have:code>44</have:code>
     <have:code>4400</have:code>
     
-</the:UZ-ac4400>
+</def:UZ-ac4400>

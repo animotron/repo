@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:deca xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+<def:deca xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
 
     <have:name>ten</have:name>
     
@@ -18,4 +18,4 @@
    	<have:number><Q:D10/></have:number>
    	
    	<have:since><T:D1795/></have:since>
-</the:deca>
+</def:deca>

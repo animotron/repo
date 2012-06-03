@@ -1,4 +1,4 @@
-the gift
-    word
+def gift
+    (word
         (lang-en "gift")
-        (lang-ru "дарение").
+        (lang-ru "дарение")).

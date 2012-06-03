@@ -1,4 +1,4 @@
-the consulting
-    word
+def consulting
+    (word
         (lang-en "consulting")
-        (lang-ru "консалтинг").
+        (lang-ru "консалтинг")).

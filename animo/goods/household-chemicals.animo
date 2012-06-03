@@ -1,4 +1,4 @@
-the household-chemicals
+def household-chemicals
     (chemistry)
     (word
         (lang-en "household chemicals")

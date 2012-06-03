@@ -1,4 +1,4 @@
-the paint
+def paint
     (building-materials)
     (word
         (lang-en "paint")

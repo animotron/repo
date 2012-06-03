@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:winter-garden xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:winter-garden xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>winter garden</have:lang-en>
             <have:lang-ru>зимние сады</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:winter-garden>
+</def:winter-garden>

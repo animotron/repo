@@ -1,4 +1,4 @@
-the generator
+def generator
     (auto-parts)
     (word
         (lang-en "generator")

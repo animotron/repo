@@ -1,4 +1,4 @@
-the technical-gases
+def technical-gases
     (gas)
     (word
         (lang-en "technical gases")

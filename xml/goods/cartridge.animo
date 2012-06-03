@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:cartridge xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:cartridge xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>cartridge</have:lang-en>
             <have:lang-ru>картриджи</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:cartridge>
+</def:cartridge>

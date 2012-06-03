@@ -1,4 +1,4 @@
-the Pi
+def Pi
     (word
         (lang-en "Pi")
         (lang-ru "Пи"))

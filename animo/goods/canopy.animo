@@ -1,4 +1,4 @@
-the canopy
+def canopy
     (building-materials)
     (word
         (lang-en "canopy")

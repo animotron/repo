@@ -1,4 +1,4 @@
-the electrocardiogram
-    word
+def electrocardiogram
+    (word
         (lang-en "electrocardiogram")
-        (lang-ru "экг").
+        (lang-ru "экг")).

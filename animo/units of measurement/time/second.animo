@@ -1,4 +1,4 @@
-the second
+def second
     (time)
     (!-- " this relation wrong, must be unit-of-time ")
     (word

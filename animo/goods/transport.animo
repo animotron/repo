@@ -1,4 +1,3 @@
-the transport
-    word
-        (lang-en "transport")
-        (lang-ru "транспорт").
+def transport word
+    (lang-en "transport")
+    (lang-ru "транспорт").

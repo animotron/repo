@@ -1,4 +1,4 @@
-the tickets
-    word
+def tickets
+    (word
         (lang-en "tickets")
-        (lang-ru "билеты").
+        (lang-ru "билеты")).

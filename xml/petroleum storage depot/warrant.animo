@@ -1,4 +1,4 @@
-<the:warrant xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:warrant xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:document/>
     <have:name>
         <ptrn:language>
@@ -9,4 +9,4 @@
     <have:number/>
     <have:date/>
     <have:person/>
-</the:warrant>
+</def:warrant>

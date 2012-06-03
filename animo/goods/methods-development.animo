@@ -1,4 +1,4 @@
-the methods-development
-    word
+def methods-development
+    (word
         (lang-en "methods development")
-        (lang-ru "отдел труда").
+        (lang-ru "отдел труда")).

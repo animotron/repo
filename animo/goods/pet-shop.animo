@@ -1,4 +1,4 @@
-the pet-shop
+def pet-shop
     (shop)
     (word
         (lang-en "pet-shop")

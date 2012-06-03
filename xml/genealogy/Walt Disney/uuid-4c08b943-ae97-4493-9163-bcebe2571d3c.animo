@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-4c08b943-ae97-4493-9163-bcebe2571d3c xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-4c08b943-ae97-4493-9163-bcebe2571d3c xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Homesville, Ontario</have:place>
 	</have:death>
 	
-</the:uuid-4c08b943-ae97-4493-9163-bcebe2571d3c>
+</def:uuid-4c08b943-ae97-4493-9163-bcebe2571d3c>

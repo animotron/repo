@@ -1,4 +1,3 @@
-the angle
-    word
-        (lang-en "angle")
-        (lang-ru "уголок").
+def angle word
+    (lang-en "angle")
+    (lang-ru "уголок").

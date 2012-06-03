@@ -1,4 +1,3 @@
-the polygraphia
-    word
-        (lang-en "polygraphia")
-        (lang-ru "полиграфия").
+def polygraphia word
+    (lang-en "polygraphia")
+    (lang-ru "полиграфия").

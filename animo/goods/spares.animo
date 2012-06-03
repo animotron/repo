@@ -1,4 +1,4 @@
-the spares
-    word
+def spares
+    (word
         (lang-en "spares")
-        (lang-ru "запчасти").
+        (lang-ru "запчасти")).

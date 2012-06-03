@@ -1,4 +1,4 @@
-the ball
-    word
+def ball
+    (word
         (lang-en "ball")
-        (lang-ru "шары").
+        (lang-ru "шары")).

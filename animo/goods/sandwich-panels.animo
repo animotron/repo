@@ -1,4 +1,4 @@
-the sandwich-panels
+def sandwich-panels
     (building-materials)
     (word
         (lang-en "sandwich panels")

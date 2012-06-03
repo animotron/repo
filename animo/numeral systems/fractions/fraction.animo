@@ -1,4 +1,4 @@
-the fraction
+def fraction
     (!-- " in математика ")
     (word
         (lang-en "fraction")

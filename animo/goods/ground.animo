@@ -1,4 +1,4 @@
-the ground
-    word
+def ground
+    (word
         (lang-en "ground")
-        (lang-ru "грунт").
+        (lang-ru "грунт")).

@@ -1,4 +1,4 @@
-the filter
-    word
+def filter
+    (word
         (lang-en "filter")
-        (lang-ru "фильтры").
+        (lang-ru "фильтры")).

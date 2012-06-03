@@ -1,4 +1,4 @@
-the lawyer
-    word
+def lawyer
+    (word
         (lang-en "lawyer")
-        (lang-ru "юрист").
+        (lang-ru "юрист")).

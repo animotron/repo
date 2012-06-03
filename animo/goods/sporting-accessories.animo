@@ -1,4 +1,4 @@
-the sporting-accessories
+def sporting-accessories
     (goods)
     (word
         (lang-en "sporting accessories")

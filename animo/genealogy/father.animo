@@ -1,4 +1,4 @@
-the father
+def father
     (word
         (lang-en "father")
         (lang-ru "отец")

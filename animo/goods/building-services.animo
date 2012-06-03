@@ -1,4 +1,4 @@
-the building-services
+def building-services
     (service)
     (word
         (lang-en "building services")

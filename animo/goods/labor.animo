@@ -1,4 +1,4 @@
-the labor
-    word
+def labor
+    (word
         (lang-en "labor")
-        (lang-ru "роды").
+        (lang-ru "роды")).

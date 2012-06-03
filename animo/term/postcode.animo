@@ -1,4 +1,4 @@
-the postcode
+def postcode
     (word
         lang-en "postcode")
     (word).

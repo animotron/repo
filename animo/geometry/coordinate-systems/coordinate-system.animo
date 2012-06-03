@@ -1,4 +1,4 @@
-the coordinate-system
+def coordinate-system
     (word
         (lang-en "coordinate system")
         (lang-ru "система координат"))

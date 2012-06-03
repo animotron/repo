@@ -1,4 +1,4 @@
-the sound
+def sound
     (household-appliances)
     (word
         (lang-en "sound")

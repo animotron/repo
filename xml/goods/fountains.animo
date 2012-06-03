@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:fountains xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:fountains xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>fountains</have:lang-en>
             <have:lang-ru>фонтаны</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:fountains>
+</def:fountains>

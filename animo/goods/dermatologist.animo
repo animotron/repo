@@ -1,4 +1,4 @@
-the dermatologist
+def dermatologist
     (health)
     (word
         (lang-en "dermatologist")

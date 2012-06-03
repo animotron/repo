@@ -1,4 +1,4 @@
-the radian
+def radian
     (word
         (lang-en "radian")
         (lang-ru "радиан")

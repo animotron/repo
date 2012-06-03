@@ -1,4 +1,4 @@
-the fan
+def fan
     (household-appliances)
     (word
         (lang-en "fan")

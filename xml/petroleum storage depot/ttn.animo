@@ -1,4 +1,4 @@
-<the:ttn xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:ttn xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:document/>
     <have:name>
         <ptrn:language>
@@ -41,4 +41,4 @@
     <have:total/>
     <have:comment/>
 -->
-</the:ttn>
+</def:ttn>

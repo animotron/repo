@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:military-registration-and-enlistment-office xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:military-registration-and-enlistment-office xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>military registration and enlistment office</have:lang-en>
             <have:lang-ru>военкомат</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:military-registration-and-enlistment-office>
+</def:military-registration-and-enlistment-office>

@@ -1,4 +1,4 @@
-the disks
-    word
+def disks
+    (word
         (lang-en "disks")
-        (lang-ru "диски").
+        (lang-ru "диски")).

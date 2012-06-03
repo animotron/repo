@@ -1,4 +1,4 @@
-the nursery
-    word
+def nursery
+    (word
         (lang-en "nursery")
-        (lang-ru "детская").
+        (lang-ru "детская")).

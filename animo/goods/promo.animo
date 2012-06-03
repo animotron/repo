@@ -1,4 +1,4 @@
-the promo
-    word
+def promo
+    (word
         (lang-en "promo")
-        (lang-ru "промо-акции").
+        (lang-ru "промо-акции")).

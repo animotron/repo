@@ -1,4 +1,4 @@
-the real-number
+def real-number
     (word
         (lang-en "rational number")
         (lang-ru "вещественное число")

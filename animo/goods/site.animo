@@ -1,4 +1,4 @@
-the site
-    word
+def site
+    (word
         (lang-en "site")
-        (lang-ru "сайт").
+        (lang-ru "сайт")).

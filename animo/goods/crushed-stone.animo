@@ -1,4 +1,4 @@
-the crushed-stone
+def crushed-stone
     (building-materials)
     (word
         (lang-en "crushed stone")

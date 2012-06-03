@@ -1,4 +1,4 @@
-the embroidery
-    word
+def embroidery
+    (word
         (lang-en "embroidery")
-        (lang-ru "вышивка").
+        (lang-ru "вышивка")).

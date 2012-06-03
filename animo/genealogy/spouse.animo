@@ -1,4 +1,4 @@
-the spouse
+def spouse
     (word
         (lang-en "spouse")
         (lang-ru "супруги")

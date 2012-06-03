@@ -1,4 +1,4 @@
-the moulding
-    word
+def moulding
+    (word
         (lang-en "moulding")
-        (lang-ru "лепнина").
+        (lang-ru "лепнина")).

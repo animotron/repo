@@ -1,4 +1,4 @@
-the cut-aways
-    word
+def cut-aways
+    (word
         (lang-en "cut-aways")
-        (lang-ru "визитки").
+        (lang-ru "визитки")).

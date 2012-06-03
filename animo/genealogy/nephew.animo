@@ -1,4 +1,4 @@
-the nephew
+def nephew
     (word
         (lang-en "nephew")
         (lang-ru "племянник"))

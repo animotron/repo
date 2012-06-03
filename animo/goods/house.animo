@@ -1,5 +1,4 @@
-the house
-    (building)
+def house (building)
     (immovables)
     (word
         (lang-en "house")

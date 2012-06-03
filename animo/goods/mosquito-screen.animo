@@ -1,4 +1,4 @@
-the mosquito-screen
-    word
+def mosquito-screen
+    (word
         (lang-en "mosquito screen")
-        (lang-ru "москитная сетка").
+        (lang-ru "москитная сетка")).

@@ -1,4 +1,3 @@
-the catering
-    word
-        (lang-en "catering")
-        (lang-ru "общественное питание").
+def catering word
+    (lang-en "catering")
+    (lang-ru "общественное питание").

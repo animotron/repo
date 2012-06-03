@@ -1,4 +1,4 @@
-the encyclopaedias
-    word
+def encyclopaedias
+    (word
         (lang-en "encyclopaedias")
-        (lang-ru "энциклопедии").
+        (lang-ru "энциклопедии")).

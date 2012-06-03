@@ -1,4 +1,4 @@
-the space-television
+def space-television
     (television)
     (word
         (lang-en "space television")

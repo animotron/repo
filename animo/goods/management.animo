@@ -1,4 +1,3 @@
-the management
-    word
-        (lang-en "management")
-        (lang-ru "управление").
+def management word
+    (lang-en "management")
+    (lang-ru "управление").

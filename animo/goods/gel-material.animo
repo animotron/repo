@@ -1,4 +1,4 @@
-the gel-material
+def gel-material
     (building-materials)
     (word
         (lang-en "gel material")

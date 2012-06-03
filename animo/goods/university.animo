@@ -1,4 +1,4 @@
-the university
+def university
     (education)
     (word
         (lang-en "university")

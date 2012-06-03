@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:wife xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+<def:wife xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>wife</have:lang-en>
@@ -9,4 +9,4 @@
 	
 	<!-- <have:denoted>W</have:denoted> -->
 	
-</the:wife>
+</def:wife>

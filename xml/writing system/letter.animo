@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:letter xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:letter xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:grapheme/><!-- TODO: in an alphabetic system of writing -->
 	
@@ -12,4 +12,4 @@
 
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Letter_(alphabet)</have:uri></have:wiki>
 	
-</the:letter>
+</def:letter>

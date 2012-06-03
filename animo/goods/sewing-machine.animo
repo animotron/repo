@@ -1,4 +1,4 @@
-the sewing-machine
+def sewing-machine
     (equipmen)
     (word
         (lang-en "sewing machine")

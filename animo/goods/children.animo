@@ -1,4 +1,4 @@
-the children
-    word
+def children
+    (word
         (lang-en "children")
-        (lang-ru "дети").
+        (lang-ru "дети")).

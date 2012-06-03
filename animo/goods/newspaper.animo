@@ -1,4 +1,4 @@
-the newspaper
+def newspaper
     (printed-matter)
     (word
         (lang-en "newspaper")

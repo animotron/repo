@@ -1,4 +1,4 @@
-the arch
-    word
+def arch
+    (word
         (lang-en "arch")
-        (lang-ru "арки").
+        (lang-ru "арки")).

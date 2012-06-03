@@ -1,4 +1,4 @@
-the packages
-    word
+def packages
+    (word
         (lang-en "packages")
-        (lang-ru "пакеты").
+        (lang-ru "пакеты")).

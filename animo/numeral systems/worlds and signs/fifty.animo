@@ -1,4 +1,4 @@
-the fifty
+def fifty
     (digit)
     (natural-number)
     (word

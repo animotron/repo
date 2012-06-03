@@ -1,4 +1,4 @@
-the controllers
-    word
+def controllers
+    (word
         (lang-en "controllers")
-        (lang-ru "контроллеры").
+        (lang-ru "контроллеры")).

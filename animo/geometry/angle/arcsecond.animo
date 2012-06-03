@@ -1,4 +1,4 @@
-the arcsecond
+def arcsecond
     (word
         (lang-en "arcminute")
         (lang-ru "дуговая секунда")

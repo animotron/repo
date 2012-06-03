@@ -1,4 +1,4 @@
-the thousand
+def thousand
     (!-- " TODO: remove? ")
     (digit)
     (natural-number)

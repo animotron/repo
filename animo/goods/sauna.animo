@@ -1,4 +1,4 @@
-the sauna
-    word
+def sauna
+    (word
         (lang-en "sauna")
-        (lang-ru "сауна").
+        (lang-ru "сауна")).

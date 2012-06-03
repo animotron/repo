@@ -1,4 +1,4 @@
-the boiler-room
-    word
+def boiler-room
+    (word
         (lang-en "boiler-room")
-        (lang-ru "котельная").
+        (lang-ru "котельная")).

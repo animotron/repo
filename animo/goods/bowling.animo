@@ -1,4 +1,4 @@
-the bowling
+def bowling
     (sport)
     (word
         (lang-en "bowling")

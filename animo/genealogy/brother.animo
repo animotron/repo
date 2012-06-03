@@ -1,4 +1,4 @@
-the brother
+def brother
     (word
         (lang-en "brother")
         (lang-ru "брат"))

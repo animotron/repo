@@ -1,4 +1,4 @@
-the bicycles
+def bicycles
     (transport)
     (word
         (lang-en "bicycles")

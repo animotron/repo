@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:bit xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:math="animo/math">
+<def:bit xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance" xmlns:math="animo/math">
 
 	<is:amount-of-data/> <!-- units of information -->
 	
@@ -17,9 +17,9 @@
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Bit</have:uri></have:wiki>
 
    	<!-- 
-   	the basic unit of information in computing and telecommunications; 
-   	it is the amount of information stored by a digital device or other physical system 
+   	def basic unit of information in computing and telecommunications;
+   	it is def amount of information stored by a digital device or other physical system
    	that exists in one of two possible distinct states.
    	-->
    	
-</the:bit>
+</def:bit>

@@ -1,4 +1,4 @@
-the eight-hundred
+def eight-hundred
     (!-- " TODO: remove? ")
     (digit)
     (natural-number)

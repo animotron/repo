@@ -1,4 +1,4 @@
-the gynecologist
-    word
+def gynecologist
+    (word
         (lang-en "gynecologist")
-        (lang-ru "гинеколог").
+        (lang-ru "гинеколог")).

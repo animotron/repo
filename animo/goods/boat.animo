@@ -1,4 +1,4 @@
-the boat
-    word
+def boat
+    (word
         (lang-en "boat")
-        (lang-ru "лодка").
+        (lang-ru "лодка")).

@@ -1,4 +1,4 @@
-the quinque
+def quinque
     (digit)
     (!-- " TODO correct ??? ")
     (roman-numerals)

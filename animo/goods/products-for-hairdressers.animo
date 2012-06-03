@@ -1,4 +1,4 @@
-the products-for-hairdressers
+def products-for-hairdressers
     (goods)
     (word
         (lang-en "products for hairdressers")

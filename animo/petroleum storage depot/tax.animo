@@ -1,4 +1,4 @@
-the tax
+def tax
     (text)
     (word
         (lang-en "tax")

@@ -1,4 +1,4 @@
-the mortgage
-    word
+def mortgage
+    (word
         (lang-en "mortgage")
-        (lang-ru "ипотека").
+        (lang-ru "ипотека")).

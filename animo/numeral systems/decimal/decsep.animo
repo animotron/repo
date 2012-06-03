@@ -1,8 +1,8 @@
-the groupsep
+def groupsep
     (grapheme)
     (word
-        (lang-en "the separator between the whole and decimal parts of a number")
-        (!-- " the separator between the whole and decimal parts of a number "))
+        (lang-en "def separator between def whole and decimal parts of a number")
+        (!-- " def separator between def whole and decimal parts of a number "))
     (denoted
         (lang-en ".")
         (lang-ru ",")).

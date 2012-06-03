@@ -1,4 +1,4 @@
-the beauty-shop
+def beauty-shop
     (saloon)
     (word
         (lang-en "beauty shop")

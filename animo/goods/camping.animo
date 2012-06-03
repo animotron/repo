@@ -1,4 +1,4 @@
-the camping
-    word
+def camping
+    (word
         (lang-en "camping")
-        (lang-ru "кемпинг").
+        (lang-ru "кемпинг")).

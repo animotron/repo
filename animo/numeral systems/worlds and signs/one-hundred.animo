@@ -1,4 +1,4 @@
-the hundred
+def hundred
     (digit)
     (natural-number)
     (word

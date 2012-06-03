@@ -1,4 +1,3 @@
-the service
-    word
-        (lang-en "service")
-        (lang-ru "услуги").
+def service word
+    (lang-en "service")
+    (lang-ru "услуги").

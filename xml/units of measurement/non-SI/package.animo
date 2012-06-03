@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:package xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:package xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:unit-of-measurement/>
     
     <have:name>
@@ -15,4 +15,4 @@
             <have:lang-ru>упк</have:lang-ru>
         </ptrn:language>
    	</have:denoted>
-</the:package>
+</def:package>

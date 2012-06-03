@@ -1,4 +1,4 @@
-the thirteen
+def thirteen
     (digit)
     (natural-number)
     (word

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:scrap-metal xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:scrap-metal xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:secondary-raw-materials/>
     <have:name>
         <ptrn:language>
@@ -7,4 +7,4 @@
             <have:lang-ru>лом металлов</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:scrap-metal>
+</def:scrap-metal>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:furniture-for-the-bath xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:furniture-for-def-bath xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:furniture/>
     <have:name>
         <ptrn:language>
-            <have:lang-en>furniture for the bath</have:lang-en>
+            <have:lang-en>furniture for def bath</have:lang-en>
             <have:lang-ru>мебель для бань</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:furniture-for-the-bath>
+</def:furniture-for-def-bath>

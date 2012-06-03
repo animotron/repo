@@ -1,4 +1,4 @@
-the production
-    word
+def production
+    (word
         (lang-en "production")
-        (lang-ru "производство").
+        (lang-ru "производство")).

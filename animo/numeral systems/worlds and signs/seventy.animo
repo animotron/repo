@@ -1,4 +1,4 @@
-the seventy
+def seventy
     (digit)
     (natural-number)
     (word

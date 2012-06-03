@@ -1,4 +1,4 @@
-the irrational-number
+def irrational-number
     (word
         (lang-en "irrational number")
         (lang-ru "иррациональное число"))

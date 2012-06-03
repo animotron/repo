@@ -1,4 +1,4 @@
-the family
+def family
     (word
         (lang-en "family")
         (lang-ru "семья"))

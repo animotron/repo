@@ -1,4 +1,4 @@
-the service-center
+def service-center
     (service)
     (word
         (lang-en "service center")

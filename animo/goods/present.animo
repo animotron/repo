@@ -1,4 +1,4 @@
-the present
-    word
+def present
+    (word
         (lang-en "present")
-        (lang-ru "подарки").
+        (lang-ru "подарки")).

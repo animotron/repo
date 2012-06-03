@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:cousin xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern">
+<def:cousin xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>cousin</have:lang-en>
@@ -7,8 +7,8 @@
         </ptrn:language>
 	</have:name>
 	
-	<!-- the children of aunts or uncles -->
+	<!-- def children of aunts or uncles -->
 	
 	<!-- <have:denoted></have:denoted> -->
 	
-</the:cousin>
+</def:cousin>

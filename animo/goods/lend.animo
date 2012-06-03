@@ -1,4 +1,4 @@
-the lend
-    word
+def lend
+    (word
         (lang-en "lend")
-        (lang-ru "займ").
+        (lang-ru "займ")).

@@ -1,4 +1,3 @@
-the health
-    word
-        (lang-en "health")
-        (lang-ru "здоровье").
+def health word
+    (lang-en "health")
+    (lang-ru "здоровье").

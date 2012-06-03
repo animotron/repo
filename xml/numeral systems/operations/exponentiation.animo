@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:exponentiation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:exponentiation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>exponentiation</have:lang-en>
@@ -18,13 +18,13 @@
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Exponentiation</have:uri></have:wiki>
 	
 	<!-- a mathematical operation, written as <b><i>a</i><sup><i>n</i></sup></b>, 
-		involving two numbers, the base a and the exponent n -->
+		involving two numbers, def base a and def exponent n -->
 		
 	<!-- 
-		a raised to the n-th power, 
-		a raised to the power [of] n,
-		(or possibly) a raised to the exponent [of] n, 
-		(or more briefly as) a to the n
+		a raised to def n-th power,
+		a raised to def power [of] n,
+		(or possibly) a raised to def exponent [of] n,
+		(or more briefly as) a to def n
 	-->
 	
-</the:exponentiation>
+</def:exponentiation>

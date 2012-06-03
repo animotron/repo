@@ -1,4 +1,4 @@
-the vector-space
+def vector-space
     (algebraic-structure)
     (group-additive)
     (!-- " является абелевой группой по сложению. ")

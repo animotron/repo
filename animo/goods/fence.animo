@@ -1,4 +1,4 @@
-the fence
+def fence
     (building-materials)
     (word
         (lang-en "fence")

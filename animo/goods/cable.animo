@@ -1,4 +1,4 @@
-the cable
+def cable
     (building-materials)
     (word
         (lang-en "cable")

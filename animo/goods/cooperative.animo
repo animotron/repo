@@ -1,4 +1,4 @@
-the cooperative
-    word
+def cooperative
+    (word
         (lang-en "cooperative")
-        (lang-ru "кооператив").
+        (lang-ru "кооператив")).

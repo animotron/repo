@@ -1,4 +1,4 @@
-the brazier
-    word
+def brazier
+    (word
         (lang-en "brazier")
-        (lang-ru "мангалы").
+        (lang-ru "мангалы")).

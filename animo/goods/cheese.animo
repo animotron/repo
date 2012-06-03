@@ -1,4 +1,4 @@
-the cheese
+def cheese
     (foodstuff)
     (word
         (lang-en "cheese")

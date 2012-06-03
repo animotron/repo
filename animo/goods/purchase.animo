@@ -1,4 +1,4 @@
-the purchase
-    word
+def purchase
+    (word
         (lang-en "purchase")
-        (lang-ru "покупка").
+        (lang-ru "покупка")).

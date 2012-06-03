@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:unit-of-measurement xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:unit-of-measurement xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
 
     <have:name>
         <ptrn:language>
@@ -10,4 +10,4 @@
     
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Units_of_measurement</have:uri></have:wiki>
 
-</the:unit-of-measurement>
+</def:unit-of-measurement>

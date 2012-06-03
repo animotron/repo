@@ -1,4 +1,4 @@
-the klining
-    word
+def klining
+    (word
         (lang-en "klining")
-        (lang-ru "клининг").
+        (lang-ru "клининг")).

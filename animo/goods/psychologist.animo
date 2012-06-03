@@ -1,4 +1,4 @@
-the psychologist
+def psychologist
     (health)
     (word
         (lang-en "psychologist")

@@ -1,4 +1,4 @@
-the arcdegree
+def arcdegree
     (word
         (!-- " full: a degree of arc, arc degree, or arcdegree ")
         (lang-en "arcdegree")

@@ -1,4 +1,4 @@
-the operation
+def operation
     (word
         (lang-en "operation")
         (!-- " TODO: mathematical operation ")

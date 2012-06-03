@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:numeral-system xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:numeral-system xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
-	<!-- TODO: rename "the" to numerals? -->
+	<!-- TODO: rename "def" to numerals? -->
 	
     <have:name>
 		<ptrn:language>
@@ -14,4 +14,4 @@
 	
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Numeral_system</have:uri></have:wiki>
 	
-</the:numeral-system>
+</def:numeral-system>

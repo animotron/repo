@@ -1,4 +1,4 @@
-the door-intercommunication-system
+def door-intercommunication-system
     (house)
     (word
         (lang-en "door intercommunication system")

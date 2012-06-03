@@ -1,4 +1,4 @@
-the complex-number
+def complex-number
     (word
         (lang-en "complex number")
         (lang-ru "комплексное число"))

@@ -1,4 +1,4 @@
-the son
+def son
     (word
         (lang-en "son")
         (lang-ru "сын"))

@@ -1,4 +1,4 @@
-the receipt
+def receipt
     word
         (lang-en "receipt")
         (lang-ru "приход").

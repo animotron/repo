@@ -1,4 +1,4 @@
-the roofing-slate
+def roofing-slate
     (building-materials)
     (word
         (lang-en "roofing slate")

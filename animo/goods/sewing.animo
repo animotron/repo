@@ -1,4 +1,4 @@
-the sewing
-    word
+def sewing
+    (word
         (lang-en "sewing")
-        (lang-ru "нитки").
+        (lang-ru "нитки")).

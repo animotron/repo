@@ -1,4 +1,4 @@
-the find
+def find
     word
         (lang-en "find")
         (lang-ru "искать").

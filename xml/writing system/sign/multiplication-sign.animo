@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:multiplication-sign xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:multiplication-sign xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>multiplication sign</have:lang-en>
@@ -16,4 +16,4 @@
 
 	<have:wiki><have:uri>http://ru.wikipedia.org/wiki/Знак_умножения</have:uri></have:wiki>
 	
-</the:multiplication-sign>
+</def:multiplication-sign>

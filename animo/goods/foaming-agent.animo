@@ -1,4 +1,4 @@
-the foaming-agent
+def foaming-agent
     (foam)
     (word
         (lang-en "foaming agent")

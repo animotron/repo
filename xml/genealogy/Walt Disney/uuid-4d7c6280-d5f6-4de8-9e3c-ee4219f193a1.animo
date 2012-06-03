@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-4d7c6280-d5f6-4de8-9e3c-ee4219f193a1 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-4d7c6280-d5f6-4de8-9e3c-ee4219f193a1 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Los Angeles, California</have:place>
 	</have:death>
 	
-</the:uuid-4d7c6280-d5f6-4de8-9e3c-ee4219f193a1>
+</def:uuid-4d7c6280-d5f6-4de8-9e3c-ee4219f193a1>

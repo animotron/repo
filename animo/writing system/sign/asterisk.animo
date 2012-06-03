@@ -1,4 +1,4 @@
-the asterisk
+def asterisk
     (word
         lang-en "asterisk")
     (LaTeX "*")

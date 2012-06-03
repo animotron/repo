@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:multiplication xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:multiplication xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:binary-operation/>
 	
@@ -23,7 +23,7 @@
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Multiplication</have:uri></have:wiki>
 	
 	<!-- 3 multiplied by 4 (often said as "3 times 4") -->
-	<!-- 3 and 4 are the "factors" and 12 is the "product" -->
+	<!-- 3 and 4 are def "factors" and 12 is def "product" -->
 	<!-- 2.5 meters × 4.5 meters = 11.25 square meters -->
 	
-</the:multiplication>
+</def:multiplication>

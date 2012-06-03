@@ -1,4 +1,4 @@
-the beer
-    word
+def beer
+    (word
         (lang-en "beer")
-        (lang-ru "пиво").
+        (lang-ru "пиво")).

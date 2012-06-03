@@ -1,4 +1,4 @@
-the bouquet
+def bouquet
     (flowers)
     (word
         (lang-en "bouquet")

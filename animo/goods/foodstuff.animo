@@ -1,5 +1,4 @@
-the foodstuff
-    (food)
+def foodstuff (food)
     (word
         (lang-en "foodstuff")
         (lang-ru "продукты питания")).

@@ -1,4 +1,4 @@
-the arcminute
+def arcminute
     (word
         (lang-en "arcminute")
         (lang-ru "дуговая минута"))

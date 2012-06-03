@@ -1,4 +1,4 @@
-the plastic-products
+def plastic-products
     (building-materials)
     (word
         (lang-en "plastic products")

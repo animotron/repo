@@ -1,4 +1,4 @@
-the alcoholic-drinks
-    word
+def alcoholic-drinks
+    (word
         (lang-en "alcoholic drinks")
-        (lang-ru "спиртное").
+        (lang-ru "спиртное")).

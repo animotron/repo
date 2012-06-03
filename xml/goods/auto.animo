@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:auto xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:auto xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:transport/>
     <have:name>
         <ptrn:language>
@@ -7,4 +7,4 @@
             <have:lang-ru>авто</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:auto>
+</def:auto>

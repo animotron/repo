@@ -1,4 +1,4 @@
-the hospital
+def hospital
     (medical-center)
     (word
         (lang-en "hospital")

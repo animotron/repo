@@ -1,4 +1,4 @@
-the byte
+def byte
     (amount-of-data)
     (!-- " units of information ")
     (!-- " eight bits ")

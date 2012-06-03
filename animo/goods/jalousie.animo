@@ -1,4 +1,4 @@
-the jalousie
-    word
+def jalousie
+    (word
         (lang-en "jalousie")
-        (lang-ru "жалюзи").
+        (lang-ru "жалюзи")).

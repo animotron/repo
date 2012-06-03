@@ -1,4 +1,4 @@
-the seventeen
+def seventeen
     (digit)
     (natural-number)
     (word

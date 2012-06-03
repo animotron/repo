@@ -1,5 +1,5 @@
-the numeral-system
-    (!-- " TODO: rename \"the\" to numerals? ")
+def numeral-system
+    (!-- " TODO: rename \"def\" to numerals? ")
     (word
         (lang-en "numeral system")
         (!-- " TODO: system of numeration ")

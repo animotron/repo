@@ -1,4 +1,4 @@
-the mobile-hoist
+def mobile-hoist
     (car)
     (word
         (lang-en "mobile hoist")

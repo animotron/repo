@@ -1,4 +1,4 @@
-the cosmetician
-    word
+def cosmetician
+    (word
         (lang-en "cosmetician")
-        (lang-ru "косметолог").
+        (lang-ru "косметолог")).

@@ -1,4 +1,4 @@
-the leather-goods
-    word
+def leather-goods
+    (word
         (lang-en "leather goods")
-        (lang-ru "кожгалантерея").
+        (lang-ru "кожгалантерея")).

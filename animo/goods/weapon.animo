@@ -1,4 +1,4 @@
-the weapon
-    word
+def weapon
+    (word
         (lang-en "weapon")
-        (lang-ru "оружие").
+        (lang-ru "оружие")).

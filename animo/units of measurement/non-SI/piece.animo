@@ -1,4 +1,4 @@
-the piece
+def piece
     (unit-of-measurement)
     (word
         (lang-en "piece")

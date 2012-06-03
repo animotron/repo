@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:giga xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
+<def:giga xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance" xmlns:T="animo/time" xmlns:Q="animo/quantity">
 
     <have:name><an:TODO/></have:name>
     
@@ -18,4 +18,4 @@
    	<have:number><Q:D1000000000/></have:number>
    	
    	<have:since><T:D1960/></have:since>
-</the:giga>
+</def:giga>

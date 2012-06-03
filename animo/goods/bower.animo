@@ -1,4 +1,4 @@
-the bower
-    word
+def bower
+    (word
         (lang-en "bower")
-        (lang-ru "беседки").
+        (lang-ru "беседки")).

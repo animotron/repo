@@ -1,4 +1,4 @@
-the language
+def language
     word
         (lang-en "language")
         (lang-ru "язык").

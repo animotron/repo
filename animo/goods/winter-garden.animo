@@ -1,4 +1,4 @@
-the winter-garden
-    word
+def winter-garden
+    (word
         (lang-en "winter garden")
-        (lang-ru "зимние сады").
+        (lang-ru "зимние сады")).

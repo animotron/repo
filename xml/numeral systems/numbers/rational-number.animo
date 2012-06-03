@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:rational-number xmlns:is="animo/relation/is" xmlns:si="animo/relation/si" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:rational-number xmlns:is="animo/relation/is" xmlns:si="animo/relation/si" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 	
     <have:name>
 		<ptrn:language>
@@ -14,8 +14,8 @@
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Rational_number</have:uri></have:wiki>
 
 	<!-- 
-	any number that can be expressed as the quotient or fraction a/b of two integers, 
-	with the denominator b not equal to zero
+	any number that can be expressed as def quotient or fraction a/b of two integers,
+	with def denominator b not equal to zero
 	-->	
 	
-</the:rational-number>
+</def:rational-number>

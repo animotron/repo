@@ -1,4 +1,4 @@
-the wire
+def wire
     (building-materials)
     (word
         (lang-en "wire")

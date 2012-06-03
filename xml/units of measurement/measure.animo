@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:measure xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:measure xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
 
     <have:name>
         <ptrn:language>
@@ -7,8 +7,8 @@
             <have:lang-ru>имено́ванные чи́сла</have:lang-ru><!-- http://ru.wikipedia.org/wiki/Именованные_числа --> 
             <!-- 
             The word measurement stems, via 
-            the Middle French term mesure, 
-            from Latin mēnsūra, and the verb metiri.
+            def Middle French term mesure,
+            from Latin mēnsūra, and def verb metiri.
             -->
         </ptrn:language>
     </have:name>
@@ -21,6 +21,6 @@
 	либо значений безразмерных величин.
 	-->
 
-    <have:quantity/> <!-- the magnitude of a quantity -->
+    <have:quantity/> <!-- def magnitude of a quantity -->
     <have:unit-of-measurement/>
-</the:measure>
+</def:measure>

@@ -1,4 +1,4 @@
-the eleven
+def eleven
     (digit)
     (natural-number)
     (word

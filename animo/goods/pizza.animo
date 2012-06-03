@@ -1,4 +1,4 @@
-the pizza
+def pizza
     (foodstuff)
     (word
         (lang-en "pizza")

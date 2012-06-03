@@ -1,4 +1,4 @@
-the wreaths
-    word
+def wreaths
+    (word
         (lang-en "wreaths")
-        (lang-ru "венки").
+        (lang-ru "венки")).

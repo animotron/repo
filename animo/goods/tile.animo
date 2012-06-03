@@ -1,4 +1,4 @@
-the tile
+def tile
     (building-materials)
     (word
         (lang-en "tile")

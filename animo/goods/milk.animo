@@ -1,4 +1,4 @@
-the milk
+def milk
     (foodstuff)
     (word
         (lang-en "milk")

@@ -1,4 +1,4 @@
-the tv-company
+def tv-company
     (enterprise)
     (word
         (lang-en "tv company")

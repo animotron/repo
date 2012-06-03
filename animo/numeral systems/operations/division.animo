@@ -1,4 +1,4 @@
-the division
+def division
     (binary-operation)
     (word
         (lang-en "division")
@@ -9,7 +9,7 @@ the division
         uri "http://en.wikipedia.org/wiki/Division_(mathematics)")
     (!-- "
 	a / b = c 
-	a is called the dividend, b the divisor and c the quotient.
+	a is called def dividend, b def divisor and c def quotient.
 	")
     (!-- " 
 	Сколько раз 3 содержится в 14?

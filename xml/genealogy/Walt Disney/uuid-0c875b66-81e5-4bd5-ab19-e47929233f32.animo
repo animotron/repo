@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-0c875b66-81e5-4bd5-ab19-e47929233f32 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-0c875b66-81e5-4bd5-ab19-e47929233f32 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -12,4 +12,4 @@
 		<have:place>Woodstock, Windham, Conn.</have:place>
 	</have:birth>
 	
-</the:uuid-0c875b66-81e5-4bd5-ab19-e47929233f32>
+</def:uuid-0c875b66-81e5-4bd5-ab19-e47929233f32>

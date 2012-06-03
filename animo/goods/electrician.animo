@@ -1,4 +1,4 @@
-the electrician
-    word
+def electrician
+    (word
         (lang-en "electrician")
-        (lang-ru "электрик").
+        (lang-ru "электрик")).

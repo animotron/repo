@@ -1,4 +1,4 @@
-the timestamp
+def timestamp
     word
         (lang-en "timestamp")
         (lang-ru "временная метка")

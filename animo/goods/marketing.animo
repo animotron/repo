@@ -1,4 +1,4 @@
-the marketing
-    word
+def marketing
+    (word
         (lang-en "marketing")
-        (lang-ru "торговля").
+        (lang-ru "торговля")).

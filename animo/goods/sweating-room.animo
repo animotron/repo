@@ -1,4 +1,4 @@
-the sweating-room
+def sweating-room
     (health)
     (word
         (lang-en "sweating-room")

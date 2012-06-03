@@ -1,4 +1,4 @@
-the binary-operation
+def binary-operation
     (operation)
     (word
         (lang-en "binary operation")

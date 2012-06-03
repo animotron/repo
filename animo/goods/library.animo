@@ -1,4 +1,4 @@
-the library
-    word
+def library
+    (word
         (lang-en "library")
-        (lang-ru "библиотека").
+        (lang-ru "библиотека")).

@@ -1,4 +1,4 @@
-the supermarket
+def supermarket
     (shop)
     (word
         (lang-en "supermarket")

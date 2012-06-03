@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:alphabet xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:alphabet xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>alphabet</have:lang-en>
@@ -10,6 +10,6 @@
 
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Alphabet</have:uri></have:wiki>
 	
-	<!-- a standardized set of letters—basic written symbols or graphemes—each of which roughly represents a phoneme in a spoken language, either as it exists now or as it was in the past -->
+	<!-- a standardized set of letters—basic written symbols or graphemes—each of which roughly represents a phoneme in a spoken language, either as it exists now or as it was in def past -->
 	
-</the:alphabet>
+</def:alphabet>

@@ -1,4 +1,4 @@
-the spherical-coordinate-system
+def spherical-coordinate-system
     (coordinate-system)
     (word
         (lang-en "spherical coordinate system")

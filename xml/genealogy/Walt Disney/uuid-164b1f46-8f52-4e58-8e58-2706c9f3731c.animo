@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-164b1f46-8f52-4e58-8e58-2706c9f3731c xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-164b1f46-8f52-4e58-8e58-2706c9f3731c xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -12,4 +12,4 @@
 		<have:place>Ohio</have:place>
 	</have:birth>
 	
-</the:uuid-164b1f46-8f52-4e58-8e58-2706c9f3731c>
+</def:uuid-164b1f46-8f52-4e58-8e58-2706c9f3731c>

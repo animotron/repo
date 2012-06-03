@@ -1,4 +1,3 @@
-the stomatology
-    word
-        (lang-en "stomatology")
-        (lang-ru "стоматология").
+def stomatology word
+    (lang-en "stomatology")
+    (lang-ru "стоматология").

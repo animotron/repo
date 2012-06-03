@@ -1,4 +1,4 @@
-<the:vat xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:vat xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:tax/>
     <is:text/>
     <have:name>
@@ -7,4 +7,4 @@
             <have:lang-ru>ндс</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:vat>
+</def:vat>

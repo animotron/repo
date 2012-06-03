@@ -1,4 +1,3 @@
-the tent
-    word
-        (lang-en "tent")
-        (lang-ru "тент").
+def tent word
+    (lang-en "tent")
+    (lang-ru "тент").

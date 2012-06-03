@@ -1,4 +1,4 @@
-the job
-    word
+def job
+    (word
         (lang-en "job")
-        (lang-ru "работа").
+        (lang-ru "работа")).

@@ -1,4 +1,4 @@
-the party
+def party
     (!-- " IS ??? ")
     (word
         (lang-en "party")

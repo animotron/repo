@@ -1,4 +1,4 @@
-the bullet-operator
+def bullet-operator
     (word
         lang-en "bullet operator")
     (unicode "U+2219")

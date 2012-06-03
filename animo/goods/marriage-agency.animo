@@ -1,4 +1,4 @@
-the marriage-agency
+def marriage-agency
     (agency)
     (word
         (lang-en "marriage agency")

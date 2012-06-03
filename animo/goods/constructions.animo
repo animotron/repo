@@ -1,4 +1,4 @@
-the constructions
-    word
+def constructions
+    (word
         (lang-en "constructions")
-        (lang-ru "конструкции").
+        (lang-ru "конструкции")).

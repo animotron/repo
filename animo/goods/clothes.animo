@@ -1,4 +1,4 @@
-the clothes
+def clothes
     (goods)
     (word
         (lang-en "clothes")

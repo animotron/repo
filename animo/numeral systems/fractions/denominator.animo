@@ -1,4 +1,4 @@
-the denominator
+def denominator
     word
         (lang-en "denominator")
         (lang-ru "знаменатель").

@@ -1,11 +1,11 @@
-the infinity
+def infinity
     (number)
     (word
         (lang-en "infinite")
         (lang-ru "бесконечность")
         (lang-la "infinitas"))
     (denoted "∞")
-    (!-- " TODO: sometimes called the lemniscate, from the Latin lemniscus, meaning \"ribbon\" ")
+    (!-- " TODO: sometimes called def lemniscate, from def Latin lemniscus, meaning \"ribbon\" ")
     (!-- " TODO:
 	В 1655 году Джон Валлис издаёт большой трактат «Арифметика бесконечного» 
 	(«Arithmetica Infinitorum sive Nova Methodus Inquirendi in Curvilineorum Quadraturam, aliaque Difficiliora Matheseos Problemata»), 

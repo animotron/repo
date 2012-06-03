@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-9158de29-058a-4715-b001-10ae57d2b463 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-9158de29-058a-4715-b001-10ae57d2b463 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -12,4 +12,4 @@
 		<have:place>Chicago, Cook, Illinois</have:place>
 	</have:birth>
 	
-</the:uuid-9158de29-058a-4715-b001-10ae57d2b463>
+</def:uuid-9158de29-058a-4715-b001-10ae57d2b463>

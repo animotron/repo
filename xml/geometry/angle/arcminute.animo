@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:arcminute xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:arcminute xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>arcminute</have:lang-en>
@@ -11,4 +11,4 @@
 	
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Minute_of_arc</have:uri></have:wiki>
 	
-</the:arcminute>
+</def:arcminute>

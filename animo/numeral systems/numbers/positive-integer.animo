@@ -1,4 +1,4 @@
-the positive-integer
+def positive-integer
     (!-- " <is:integer/> TODO: new relation type?  ")
     (positive)
     (natural-number)

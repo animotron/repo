@@ -1,4 +1,4 @@
-the decimal
+def decimal
     (positional-notation)
     (!-- " have:base 10 ")
     (numeral-system)

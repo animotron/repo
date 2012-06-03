@@ -1,4 +1,4 @@
-the fifteen
+def fifteen
     (digit)
     (natural-number)
     (word

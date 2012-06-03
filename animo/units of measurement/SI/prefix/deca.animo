@@ -1,4 +1,4 @@
-the deca
+def deca
     (word "ten")
     (denoted "da")
     (!-- " Symbol ")

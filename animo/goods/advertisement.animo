@@ -1,4 +1,3 @@
-the advertisement
-    word
-        (lang-en "advertisement")
-        (lang-ru "реклама").
+def advertisement word
+    (lang-en "advertisement")
+    (lang-ru "реклама").

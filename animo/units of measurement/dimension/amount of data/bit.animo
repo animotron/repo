@@ -1,4 +1,4 @@
-the bit
+def bit
     (amount-of-data)
     (!-- " units of information ")
     (!-- " eight bits ")
@@ -9,7 +9,7 @@ the bit
     (wiki
         uri "http://en.wikipedia.org/wiki/Bit")
     (!-- " 
-   	the basic unit of information in computing and telecommunications; 
-   	it is the amount of information stored by a digital device or other physical system 
+   	def basic unit of information in computing and telecommunications;
+   	it is def amount of information stored by a digital device or other physical system
    	that exists in one of two possible distinct states.
    	").

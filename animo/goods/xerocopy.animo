@@ -1,4 +1,4 @@
-the xerocopy
-    word
+def xerocopy
+    (word
         (lang-en "xerocopy")
-        (lang-ru "ксерокопия").
+        (lang-ru "ксерокопия")).

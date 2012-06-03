@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-6752ebce-2ca1-4b44-b3f0-fdc87da7d3a3 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-6752ebce-2ca1-4b44-b3f0-fdc87da7d3a3 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Hutchinson, Reno, Kansas</have:place>
 	</have:death>
 	
-</the:uuid-6752ebce-2ca1-4b44-b3f0-fdc87da7d3a3>
+</def:uuid-6752ebce-2ca1-4b44-b3f0-fdc87da7d3a3>

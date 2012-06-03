@@ -1,4 +1,4 @@
-the water-supply
+def water-supply
     (domestic-services)
     (word
         (lang-en "water supply")

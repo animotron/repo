@@ -1,4 +1,4 @@
-the invisible-times
+def invisible-times
     (word
         lang-en "asterisk operator")
     (!-- "have:HTML>&lowast;</have:HTML")

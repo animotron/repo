@@ -1,4 +1,4 @@
-the washer
-    word
+def washer
+    (word
         (lang-en "washer")
-        (lang-ru "мойка").
+        (lang-ru "мойка")).

@@ -1,4 +1,3 @@
-the equipmen
-    word
-        (lang-en "equipmen")
-        (lang-ru "оборудование").
+def equipmen word
+    (lang-en "equipmen")
+    (lang-ru "оборудование").

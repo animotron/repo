@@ -1,4 +1,4 @@
-the bread
+def bread
     (foodstuff)
     (word
         (lang-en "bread")

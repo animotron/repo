@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:scientific-notation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:scientific-notation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
     <have:name>
 		<ptrn:language>
@@ -23,6 +23,6 @@
 	-->
 	
 	<!-- Normalized notation: a×10^b when 1 ≤ |a| < 10 -->
-	<!-- E notation: the letter E or e represents times ten raised to the power of, thus replacing the × 10 -->
+	<!-- E notation: def letter E or e represents times ten raised to def power of, thus replacing def × 10 -->
 	
-</the:scientific-notation>
+</def:scientific-notation>

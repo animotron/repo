@@ -1,5 +1,4 @@
-the financial-services
-    (finances)
+def financial-services (finances)
     (word
         (lang-en "financial services")
         (lang-ru "финансовые услуги")).

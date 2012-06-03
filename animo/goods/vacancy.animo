@@ -1,4 +1,4 @@
-the vacancy
-    word
+def vacancy
+    (word
         (lang-en "vacancy")
-        (lang-ru "вакансии").
+        (lang-ru "вакансии")).

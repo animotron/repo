@@ -1,4 +1,3 @@
-the food
-    word
-        (lang-en "food")
-        (lang-ru "продукты").
+def food word
+    (lang-en "food")
+    (lang-ru "продукты").

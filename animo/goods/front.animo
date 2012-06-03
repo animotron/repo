@@ -1,4 +1,4 @@
-the front
-    word
+def front
+    (word
         (lang-en "front")
-        (lang-ru "фасады").
+        (lang-ru "фасады")).

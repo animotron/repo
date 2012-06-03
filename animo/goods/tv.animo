@@ -1,4 +1,4 @@
-the tv
+def tv
     (household-appliances)
     (word
         (lang-en "tv")

@@ -1,4 +1,4 @@
-the television-repair
+def television-repair
     (service)
     (word
         (lang-en "television repair")

@@ -1,4 +1,4 @@
-the urologist
-    word
+def urologist
+    (word
         (lang-en "urologist")
-        (lang-ru "уролог").
+        (lang-ru "уролог")).

@@ -1,4 +1,4 @@
-the ladder
-    word
+def ladder
+    (word
         (lang-en "ladder")
-        (lang-ru "лестница").
+        (lang-ru "лестница")).

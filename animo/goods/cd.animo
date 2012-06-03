@@ -1,4 +1,4 @@
-the cd
+def cd
     (disks)
     (word
         (lang-en "cd")

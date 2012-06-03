@@ -1,4 +1,4 @@
-the sports-school
+def sports-school
     (school)
     (word
         (lang-en "sports school")

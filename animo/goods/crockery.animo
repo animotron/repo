@@ -1,4 +1,4 @@
-the crockery
-    word
+def crockery
+    (word
         (lang-en "crockery")
-        (lang-ru "посуда").
+        (lang-ru "посуда")).

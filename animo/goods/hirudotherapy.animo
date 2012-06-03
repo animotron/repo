@@ -1,4 +1,4 @@
-the hirudotherapy
-    word
+def hirudotherapy
+    (word
         (lang-en "hirudotherapy")
-        (lang-ru "гирудотерапия").
+        (lang-ru "гирудотерапия")).

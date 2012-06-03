@@ -1,5 +1,4 @@
-the large-format-printing
-    (stamp)
+def large-format-printing (stamp)
     (word
         (lang-en "large format printing")
         (lang-ru "широкоформатная печать")).

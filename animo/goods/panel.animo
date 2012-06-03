@@ -1,4 +1,4 @@
-the panel
+def panel
     (building-materials)
     (word
         (lang-en "panel")

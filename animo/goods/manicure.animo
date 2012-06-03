@@ -1,4 +1,4 @@
-the manicure
-    word
+def manicure
+    (word
         (lang-en "manicure")
-        (lang-ru "маникюр").
+        (lang-ru "маникюр")).

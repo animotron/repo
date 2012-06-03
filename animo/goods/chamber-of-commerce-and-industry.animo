@@ -1,4 +1,4 @@
-the chamber-of-commerce-and-industry
-    word
+def chamber-of-commerce-and-industry
+    (word
         (lang-en "chamber of commerce and industry")
-        (lang-ru "торгово-промышленная палата").
+        (lang-ru "торгово-промышленная палата")).

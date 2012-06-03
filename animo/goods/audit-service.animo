@@ -1,4 +1,4 @@
-the audit-service
+def audit-service
     (audit)
     (word
         (lang-en "audit service")

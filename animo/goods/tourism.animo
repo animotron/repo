@@ -1,5 +1,4 @@
-the tourism
-    (service)
+def tourism (service)
     (word
         (lang-en "tourism")
         (lang-ru "туризм")).

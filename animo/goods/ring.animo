@@ -1,4 +1,4 @@
-the ring
-    word
+def ring
+    (word
         (lang-en "ring")
-        (lang-ru "кольца").
+        (lang-ru "кольца")).

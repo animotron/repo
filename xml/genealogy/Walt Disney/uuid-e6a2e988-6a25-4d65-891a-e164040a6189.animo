@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-e6a2e988-6a25-4d65-891a-e164040a6189 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-e6a2e988-6a25-4d65-891a-e164040a6189 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Hartsville, , New York</have:place>
 	</have:death>
 	
-</the:uuid-e6a2e988-6a25-4d65-891a-e164040a6189>
+</def:uuid-e6a2e988-6a25-4d65-891a-e164040a6189>

@@ -1,4 +1,4 @@
-the world
+def world
     word
         (lang-en "world")
         (lang-ru "мир").

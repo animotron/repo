@@ -1,4 +1,4 @@
-the antiques
-    word
+def antiques
+    (word
         (lang-en "antiques")
-        (lang-ru "антиквариат").
+        (lang-ru "антиквариат")).

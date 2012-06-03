@@ -1,4 +1,4 @@
-the mass
+def mass
     (unit-of-measurement)
     (word
         (lang-en "mass")

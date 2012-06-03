@@ -1,4 +1,4 @@
-the creation
-    word
+def creation
+    (word
         (lang-en "creation")
-        (lang-ru "создание").
+        (lang-ru "создание")).

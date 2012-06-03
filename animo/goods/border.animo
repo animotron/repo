@@ -1,4 +1,4 @@
-the border
+def border
     (building-materials)
     (word
         (lang-en "border")

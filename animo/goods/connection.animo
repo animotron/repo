@@ -1,4 +1,4 @@
-the connection
+def connection
     (service)
     (word
         (lang-en "connection")

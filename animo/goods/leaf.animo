@@ -1,4 +1,4 @@
-the leaf
-    word
+def leaf
+    (word
         (lang-en "leaf")
-        (lang-ru "лист").
+        (lang-ru "лист")).

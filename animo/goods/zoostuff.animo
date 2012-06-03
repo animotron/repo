@@ -1,5 +1,4 @@
-the zoostuff
-    (goods)
+def zoostuff (goods)
     (word
         (lang-en "zoostuff")
         (lang-ru "зоотовары")).

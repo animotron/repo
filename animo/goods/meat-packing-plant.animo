@@ -1,4 +1,4 @@
-the meat-packing-plant
+def meat-packing-plant
     (enterprise)
     (word
         (lang-en "meat-packing plant")

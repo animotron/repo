@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:subtraction xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:subtraction xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:binary-operation/>
 	
@@ -17,8 +17,8 @@
 	<!-- 
 	minuend (c) − subtrahend (b) = difference (a) 
 	The words "minuend" and "subtrahend" are uncommon in modern usage. 
-	Instead we say that c and −b are terms, and treat subtraction as addition of the additive inverse. 
-	The answer is still called the difference.
+	Instead we say that c and −b are terms, and treat subtraction as addition of def additive inverse.
+	The answer is still called def difference.
 	-->
 	
 	<!-- 
@@ -28,4 +28,4 @@
 	а результат вычитания называется разностью x и y.
 	 -->
 	
-</the:subtraction>
+</def:subtraction>

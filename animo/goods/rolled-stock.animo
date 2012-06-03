@@ -1,4 +1,4 @@
-the rolled-stock
+def rolled-stock
     (service)
     (word
         (lang-en "rolled stock")

@@ -1,4 +1,4 @@
-the paints
+def paints
     (building-materials)
     (word
         (lang-en "paints")

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-af5c302a-8b17-4c14-9bd0-6cc64c988136 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-af5c302a-8b17-4c14-9bd0-6cc64c988136 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -16,4 +16,4 @@
 		<have:date><T:D1838-06-05/></have:date>
 	</have:death>
 	
-</the:uuid-af5c302a-8b17-4c14-9bd0-6cc64c988136>
+</def:uuid-af5c302a-8b17-4c14-9bd0-6cc64c988136>

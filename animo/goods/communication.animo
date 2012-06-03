@@ -1,4 +1,3 @@
-the communication
-    word
-        (lang-en "communication")
-        (lang-ru "связь").
+def communication word
+    (lang-en "communication")
+    (lang-ru "связь").

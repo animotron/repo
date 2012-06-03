@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:spherical-coordinate-system xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:spherical-coordinate-system xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 	<is:coordinate-system/>
     <have:name>
 		<ptrn:language>
@@ -10,4 +10,4 @@
 
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Spherical_coordinate_system</have:uri></have:wiki>
 	
-</the:spherical-coordinate-system>
+</def:spherical-coordinate-system>

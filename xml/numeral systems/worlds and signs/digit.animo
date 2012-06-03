@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:digit xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:digit xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:sign/>
 	
@@ -12,6 +12,6 @@
 	
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Numerical_digit</have:uri></have:wiki>
 	
-	<!-- A digit is a symbol (a number symbol, e.g., "3" or "7") used in numerals (combinations of symbols, e.g., "37"), to represent numbers (integers or real numbers) in positional numeral systems. The name "digit" comes from the fact that the 10 digits (ancient Latin digita meaning fingers) of the hands correspond to the 10 symbols of the common base 10 number system, i.e. the decimal (ancient Latin adjective dec. meaning ten) digits. -->
+	<!-- A digit is a symbol (a number symbol, e.g., "3" or "7") used in numerals (combinations of symbols, e.g., "37"), to represent numbers (integers or real numbers) in positional numeral systems. The name "digit" comes from def fact that def 10 digits (ancient Latin digita meaning fingers) of def hands correspond to def 10 symbols of def common base 10 number system, i.e. def decimal (ancient Latin adjective dec. meaning ten) digits. -->
 	
-</the:digit>
+</def:digit>

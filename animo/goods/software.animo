@@ -1,4 +1,4 @@
-the software
-    word
+def software
+    (word
         (lang-en "software")
-        (lang-ru "программное обеспечение").
+        (lang-ru "программное обеспечение")).

@@ -1,4 +1,4 @@
-the cable-television
+def cable-television
     (television)
     (word
         (lang-en "cable television")

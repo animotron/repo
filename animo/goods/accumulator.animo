@@ -1,4 +1,4 @@
-the accumulator
+def accumulator
     (auto-parts)
     (word
         (lang-en "accumulator")

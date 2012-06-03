@@ -1,4 +1,4 @@
-the pots
-    word
+def pots
+    (word
         (lang-en "pots")
-        (lang-ru "горшки").
+        (lang-ru "горшки")).

@@ -1,4 +1,4 @@
-the food-supplements
-    word
+def food-supplements
+    (word
         (lang-en "food supplements")
-        (lang-ru "бад").
+        (lang-ru "бад")).

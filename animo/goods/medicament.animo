@@ -1,4 +1,4 @@
-the medicament
+def medicament
     (health)
     (word
         (lang-en "medicament")

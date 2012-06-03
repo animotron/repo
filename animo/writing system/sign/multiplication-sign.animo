@@ -1,4 +1,4 @@
-the multiplication-sign
+def multiplication-sign
     (word
         lang-en "multiplication sign")
     (!-- "have:HTML>&times;</have:HTML")

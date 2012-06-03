@@ -1,4 +1,4 @@
-the grain
+def grain
     (food)
     (word
         (lang-en "grain")

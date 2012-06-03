@@ -1,4 +1,4 @@
-the time
+def time
     (unit-of-measurement)
     (word
         (lang-en "time")

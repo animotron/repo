@@ -1,4 +1,4 @@
-the invalid
-    word
+def invalid
+    (word
         (lang-en "invalid")
-        (lang-ru "инвалиды").
+        (lang-ru "инвалиды")).

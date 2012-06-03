@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:atelier xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:atelier xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:service/>
     <is:shop/>
     <have:name>
@@ -8,4 +8,4 @@
             <have:lang-ru>ателье</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:atelier>
+</def:atelier>

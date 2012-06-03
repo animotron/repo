@@ -1,4 +1,4 @@
-the candy
+def candy
     (foodstuff)
     (word
         (lang-en "candy")

@@ -1,4 +1,4 @@
-the heat-insulated-floor
+def heat-insulated-floor
     (building-materials)
     (word
         (lang-en "heat-insulated floor")

@@ -1,4 +1,4 @@
-the map
-    word
+def map
+    (word
         (lang-en "map")
-        (lang-ru "карта").
+        (lang-ru "карта")).

@@ -1,5 +1,4 @@
-the stationery
-    (goods)
+def stationery (goods)
     (word
         (lang-en "stationery")
         (lang-ru "канцтовары")).

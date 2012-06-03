@@ -1,4 +1,4 @@
-the numerator
+def numerator
     word
         (lang-en "numerator")
         (lang-ru "числитель").

@@ -1,4 +1,4 @@
-the car-wash
+def car-wash
     (service)
     (word
         (lang-en "car wash")

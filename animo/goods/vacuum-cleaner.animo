@@ -1,4 +1,4 @@
-the vacuum-cleaner
+def vacuum-cleaner
     (household-appliances)
     (word
         (lang-en "vacuum cleaner")

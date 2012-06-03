@@ -1,4 +1,4 @@
-the wholesale
-    word
+def wholesale
+    (word
         (lang-en "wholesale")
-        (lang-ru "опт").
+        (lang-ru "опт")).

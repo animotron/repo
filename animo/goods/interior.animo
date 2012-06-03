@@ -1,4 +1,4 @@
-the interior
-    word
+def interior
+    (word
         (lang-en "interior")
-        (lang-ru "интерьер").
+        (lang-ru "интерьер")).

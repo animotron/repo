@@ -1,4 +1,4 @@
-the addressee
+def addressee
     (person)
     (organization)
     (word

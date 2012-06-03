@@ -1,4 +1,4 @@
-the exchange
-    word
+def exchange
+    (word
         (lang-en "exchange")
-        (lang-ru "обмен").
+        (lang-ru "обмен")).

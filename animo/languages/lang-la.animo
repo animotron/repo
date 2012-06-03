@@ -1,4 +1,4 @@
-the lang-la
+def lang-la
     (language)
     (word
         (lang-en "latin")

@@ -1,4 +1,4 @@
-the perfumery
-    word
+def perfumery
+    (word
         (lang-en "perfumery")
-        (lang-ru "парфюмерия").
+        (lang-ru "парфюмерия")).

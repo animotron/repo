@@ -1,4 +1,4 @@
-the sushi
+def sushi
     (foodstuff)
     (word
         (lang-en "sushi")

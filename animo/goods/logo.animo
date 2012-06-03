@@ -1,4 +1,4 @@
-the logo-service
-    word
+def logo-service
+    (word
         (lang-en "logo")
-        (lang-ru "логотипы").
+        (lang-ru "логотипы")).

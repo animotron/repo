@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-cc12afd8-3f3e-4ce7-8400-a7e0f5ff82a2 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-cc12afd8-3f3e-4ce7-8400-a7e0f5ff82a2 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -7,4 +7,4 @@
         <have:lang-en>Amelia Emma /Hirshberger/</have:lang-en>
 	</have:name>
 	
-</the:uuid-cc12afd8-3f3e-4ce7-8400-a7e0f5ff82a2>
+</def:uuid-cc12afd8-3f3e-4ce7-8400-a7e0f5ff82a2>

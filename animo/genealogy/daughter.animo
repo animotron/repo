@@ -1,4 +1,4 @@
-the daughter
+def daughter
     (word
         (lang-en "daughter")
         (lang-ru "дочь"))

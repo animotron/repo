@@ -1,4 +1,4 @@
-the photographic-equipment
+def photographic-equipment
     (goods)
     (word
         (lang-en "photographic equipment")

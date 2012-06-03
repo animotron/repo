@@ -1,4 +1,4 @@
-the metal-tiled
+def metal-tiled
     (building-materials)
     (word
         (lang-en "metal tiled")

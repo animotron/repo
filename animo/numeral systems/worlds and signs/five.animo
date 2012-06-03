@@ -1,4 +1,4 @@
-the five
+def five
     (digit)
     (natural-number)
     (word

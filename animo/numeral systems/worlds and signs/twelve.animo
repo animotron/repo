@@ -1,4 +1,4 @@
-the twelve
+def twelve
     (digit)
     (natural-number)
     (word

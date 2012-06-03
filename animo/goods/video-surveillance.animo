@@ -1,4 +1,4 @@
-the video-surveillance
+def video-surveillance
     (service)
     (word
         (lang-en "video surveillance")

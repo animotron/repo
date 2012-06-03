@@ -1,4 +1,4 @@
-the street
+def street
     (word
         (lang-en "street")
         (lang-ru "улица"))

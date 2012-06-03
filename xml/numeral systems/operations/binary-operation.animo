@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:binary-operation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:binary-operation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:operation/>
 	
@@ -19,4 +19,4 @@
 	постфиксная (обратная польская запись) — x y * 
 	-->
 	
-</the:binary-operation>
+</def:binary-operation>

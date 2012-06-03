@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:division xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:division xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:binary-operation/>
 	
@@ -16,7 +16,7 @@
 	
 	<!--
 	a / b = c 
-	a is called the dividend, b the divisor and c the quotient.
+	a is called def dividend, b def divisor and c def quotient.
 	-->
 	
 	<!-- 
@@ -24,4 +24,4 @@
 	14 называется делимым, число 3 — делителем, число 4 — (неполным) частным и число 2 — остатком (от деления)
 	 -->
 	
-</the:division>
+</def:division>

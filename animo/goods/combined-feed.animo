@@ -1,4 +1,4 @@
-the combined-feed
+def combined-feed
     (food)
     (word
         (lang-en "combined feed")

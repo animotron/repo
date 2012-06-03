@@ -1,4 +1,4 @@
-the subtraction
+def subtraction
     (binary-operation)
     (word
         (lang-en "subtraction")
@@ -10,8 +10,8 @@ the subtraction
     (!-- " 
 	minuend (c) − subtrahend (b) = difference (a) 
 	The words \"minuend\" and \"subtrahend\" are uncommon in modern usage. 
-	Instead we say that c and −b are terms, and treat subtraction as addition of the additive inverse. 
-	The answer is still called the difference.
+	Instead we say that c and −b are terms, and treat subtraction as addition of def additive inverse.
+	The answer is still called def difference.
 	")
     (!-- " 
 	x - y (читается «икс минус игрек») 

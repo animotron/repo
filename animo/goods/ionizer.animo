@@ -1,4 +1,4 @@
-the ionizer
+def ionizer
     (household-appliances)
     (word
         (lang-en "ionizer")

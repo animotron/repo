@@ -1,4 +1,4 @@
-the necropolis
-    word
+def necropolis
+    (word
         (lang-en "necropolis")
-        (lang-ru "некрополь").
+        (lang-ru "некрополь")).

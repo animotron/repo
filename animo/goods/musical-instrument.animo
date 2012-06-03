@@ -1,5 +1,4 @@
-the musical-instrument
-    (musical-instrument)
+def musical-instrument (musical-instrument)
     (word
         (lang-en "musical instrument")
         (lang-ru "музыкальные инструменты")).

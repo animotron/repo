@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:grapheme xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:grapheme xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
     <have:name>
 		<ptrn:language>
             <have:lang-en>grapheme</have:lang-en>
             <have:lang-ru>графе́ма</have:lang-ru>
-            <!-- from the Greek: γράφω, gráphō, "write" -->
+            <!-- from def Greek: γράφω, gráphō, "write" -->
         </ptrn:language>
 	</have:name>
 
@@ -12,4 +12,4 @@
 	
 	<!-- Понятие введено в 1912 г. Иваном Александровичем Бодуэном де Куртенэ -->
 	
-</the:grapheme>
+</def:grapheme>

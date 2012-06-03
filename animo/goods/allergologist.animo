@@ -1,4 +1,4 @@
-the allergologist
+def allergologist
     (doctor)
     (word
         (lang-en "allergologist")

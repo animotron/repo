@@ -1,4 +1,4 @@
-the directory
-    word
+def directory
+    (word
         (lang-en "directory")
-        (lang-ru "справочник").
+        (lang-ru "справочник")).

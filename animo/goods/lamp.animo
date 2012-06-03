@@ -1,5 +1,4 @@
-the lamp
-    (lighting-equipment)
+def lamp (lighting-equipment)
     (word
         (lang-en "lamp")
         (lang-ru "светильники")).

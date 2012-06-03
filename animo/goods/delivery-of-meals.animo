@@ -1,4 +1,4 @@
-the delivery-of-meals
+def delivery-of-meals
     (service)
     (word
         (lang-en "delivery of meals")

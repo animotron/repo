@@ -1,4 +1,4 @@
-the water-purifiers
+def water-purifiers
     (household-appliances)
     (word
         (lang-en "water purifiers")

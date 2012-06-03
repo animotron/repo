@@ -1,4 +1,4 @@
-the privatization
-    word
+def privatization
+    (word
         (lang-en "privatization")
-        (lang-ru "приватизация").
+        (lang-ru "приватизация")).

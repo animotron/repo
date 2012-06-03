@@ -1,4 +1,4 @@
-the manufactured-goods
+def manufactured-goods
     (goods)
     (word
         (lang-en "manufactured goods")

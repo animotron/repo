@@ -1,4 +1,4 @@
-the way
-    word
+def way
+    (word
         (lang-en "way")
-        (lang-ru "дороги").
+        (lang-ru "дороги")).

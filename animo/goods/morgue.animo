@@ -1,4 +1,4 @@
-the morgue
-    word
+def morgue
+    (word
         (lang-en "morgue")
-        (lang-ru "морг").
+        (lang-ru "морг")).

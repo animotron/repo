@@ -1,4 +1,4 @@
-the funeral-services
+def funeral-services
     (service)
     (word
         (lang-en "funeral services")

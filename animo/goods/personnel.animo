@@ -1,4 +1,4 @@
-the personnel
-    word
+def personnel
+    (word
         (lang-en "personnel")
-        (lang-ru "персонал").
+        (lang-ru "персонал")).

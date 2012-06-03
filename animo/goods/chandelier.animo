@@ -1,4 +1,4 @@
-the chandelier
+def chandelier
     (lighting-equipment)
     (word
         (lang-en "chandelier")

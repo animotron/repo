@@ -1,4 +1,4 @@
-the ttn-register
+def ttn-register
     (number)
     (timestamp)
     (comment).

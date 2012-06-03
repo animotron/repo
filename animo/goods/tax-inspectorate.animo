@@ -1,4 +1,4 @@
-the tax-inspectorate
-    word
+def tax-inspectorate
+    (word
         (lang-en "tax inspectorate")
-        (lang-ru "налоговая").
+        (lang-ru "налоговая")).

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:trial-balance xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:trial-balance xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>trial balance</have:lang-en>
@@ -8,4 +8,4 @@
             <have:lang-ru>оборотно-сальдовая ведомость</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:trial-balance>
+</def:trial-balance>

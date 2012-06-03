@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:gramme xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:gramme xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:mass/>
     
     <have:name>
@@ -15,4 +15,4 @@
             <have:lang-ru>г</have:lang-ru>
         </ptrn:language>
    	</have:denoted>
-</the:gramme>
+</def:gramme>

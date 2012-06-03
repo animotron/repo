@@ -1,4 +1,4 @@
-the club
-    word
+def club
+    (word
         (lang-en "club")
-        (lang-ru "клуб").
+        (lang-ru "клуб")).

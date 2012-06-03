@@ -1,4 +1,4 @@
-the gas
-    word
+def gas
+    (word
         (lang-en "gas")
-        (lang-ru "газ").
+        (lang-ru "газ")).

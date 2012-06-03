@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:photos-on-mugs xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:photos-on-mugs xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>photos on mugs</have:lang-en>
             <have:lang-ru>фото на кружках</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:photos-on-mugs>
+</def:photos-on-mugs>

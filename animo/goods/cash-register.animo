@@ -1,4 +1,4 @@
-the cash-register
-    word
+def cash-register
+    (word
         (lang-en "cash register")
-        (lang-ru "кассовые аппараты").
+        (lang-ru "кассовые аппараты")).

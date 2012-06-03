@@ -1,4 +1,4 @@
-the credit
-    word
+def credit
+    (word
         (lang-en "credit")
-        (lang-ru "кредит").
+        (lang-ru "кредит")).

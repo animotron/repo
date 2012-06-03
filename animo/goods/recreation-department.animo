@@ -1,4 +1,4 @@
-the recreation-department
+def recreation-department
     (base)
     (word
         (lang-en "recreation department")

@@ -1,4 +1,4 @@
-the dot-operator
+def dot-operator
     (word
         lang-en "dot operator")
     (unicode "U+22C5")

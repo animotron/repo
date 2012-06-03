@@ -1,4 +1,4 @@
-the psychotherapist
+def psychotherapist
     (health)
     (word
         (lang-en "psychotherapist")

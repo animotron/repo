@@ -1,4 +1,4 @@
-the foam
+def foam
     (building-materials)
     (word
         (lang-en "foam")

@@ -1,4 +1,4 @@
-the inspection
-    word
+def inspection
+    (word
         (lang-en "inspection")
-        (lang-ru "инспекция").
+        (lang-ru "инспекция")).

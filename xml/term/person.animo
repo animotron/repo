@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:person xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:person xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>person</have:lang-en>
         </ptrn:language>
     </have:name>
-</the:person>
+</def:person>

@@ -1,4 +1,4 @@
-the appliances
+def appliances
     (goods)
     (word
         (lang-en "appliances")

@@ -1,4 +1,4 @@
-the roman-numerals
+def roman-numerals
     (sign-value-notation)
     (!-- " TODO: <is:base10/> ")
     (word
@@ -18,7 +18,7 @@ the roman-numerals
 	obtaining M (one thousand) + CC (two hundreds) + XXX (thirty) + IV (four), for MCCXXXIV
 	")
     (!-- " 
-	Note that the subtractive principle is not extended beyond the chart: 
+	Note that def subtractive principle is not extended beyond def chart:
 	for example, IL is not used for 49, rather this should be written as forty (XL) and nine (IX), or XLIX.
 	")
     (!-- " TODO: minus only at IV(IIII) IX, XL, XC, CD, CM ")

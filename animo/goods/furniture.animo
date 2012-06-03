@@ -1,5 +1,4 @@
-the furniture
-    (goods)
+def furniture (goods)
     (word
         (lang-en "furniture")
         (lang-ru "мебель")).

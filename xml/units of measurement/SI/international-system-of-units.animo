@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:international-system-of-units xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:international-system-of-units xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
 
     <have:name>
         <ptrn:language>
@@ -14,4 +14,4 @@
             <have:lang-ru>СИ</have:lang-ru>
         </ptrn:language>
    	</have:denoted>
-</the:international-system-of-units>
+</def:international-system-of-units>

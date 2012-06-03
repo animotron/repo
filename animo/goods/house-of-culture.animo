@@ -1,4 +1,4 @@
-the house-of-culture
-    word
+def house-of-culture
+    (word
         (lang-en "house of culture")
-        (lang-ru "дом культуры").
+        (lang-ru "дом культуры")).

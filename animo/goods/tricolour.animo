@@ -1,4 +1,4 @@
-the tricolour
-    word
+def tricolour
+    (word
         (lang-en "tricolour")
-        (lang-ru "триколор").
+        (lang-ru "триколор")).

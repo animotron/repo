@@ -1,4 +1,4 @@
-the childrens-center
-    word
+def childrens-center
+    (word
         (lang-en "children's center")
-        (lang-ru "детский центр").
+        (lang-ru "детский центр")).

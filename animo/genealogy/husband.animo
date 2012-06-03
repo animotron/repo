@@ -1,4 +1,4 @@
-the husband
+def husband
     (word
         (lang-en "husband")
         (lang-ru "муж")

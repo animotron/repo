@@ -1,4 +1,4 @@
-the orthopedics
-    word
+def orthopedics
+    (word
         (lang-en "orthopedics")
-        (lang-ru "ортопедия").
+        (lang-ru "ортопедия")).

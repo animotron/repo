@@ -1,4 +1,4 @@
-the economy
-    word
+def economy
+    (word
         (lang-en "economy")
-        (lang-ru "хозяйство").
+        (lang-ru "хозяйство")).

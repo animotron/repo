@@ -1,4 +1,4 @@
-the parent
+def parent
     (word
         (lang-en "parent")
         (lang-ru "родители")

@@ -1,4 +1,4 @@
-the souvenirs
-    word
+def souvenirs
+    (word
         (lang-en "souvenirs")
-        (lang-ru "сувениры").
+        (lang-ru "сувениры")).

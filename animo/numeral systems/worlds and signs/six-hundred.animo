@@ -1,4 +1,4 @@
-the six-hundred
+def six-hundred
     (!-- " TODO: remove? ")
     (digit)
     (natural-number)

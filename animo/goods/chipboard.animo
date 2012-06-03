@@ -1,4 +1,4 @@
-the chipboard
+def chipboard
     (building-materials)
     (word
         (lang-en "chipboard")

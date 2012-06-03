@@ -1,4 +1,4 @@
-the jewellers
+def jewellers
     (shop)
     (word
         (lang-en "jeweller's")

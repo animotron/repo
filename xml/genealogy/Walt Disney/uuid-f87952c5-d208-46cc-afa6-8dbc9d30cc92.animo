@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-f87952c5-d208-46cc-afa6-8dbc9d30cc92 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-f87952c5-d208-46cc-afa6-8dbc9d30cc92 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Woodstock, Windham, Conn.</have:place>
 	</have:death>
 	
-</the:uuid-f87952c5-d208-46cc-afa6-8dbc9d30cc92>
+</def:uuid-f87952c5-d208-46cc-afa6-8dbc9d30cc92>

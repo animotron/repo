@@ -1,4 +1,4 @@
-the bed-clothes
-    word
+def bed-clothes
+    (word
         (lang-en "bed-clothes")
-        (lang-ru "постельное белье").
+        (lang-ru "постельное белье")).

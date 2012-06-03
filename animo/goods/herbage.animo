@@ -1,4 +1,4 @@
-the herbage
-    word
+def herbage
+    (word
         (lang-en "herbage")
-        (lang-ru "травы").
+        (lang-ru "травы")).

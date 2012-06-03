@@ -1,4 +1,4 @@
-the printing-plant
+def printing-plant
     (printed-matter)
     (service)
     (word

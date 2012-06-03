@@ -1,4 +1,4 @@
-the bond
-    word
+def bond
+    (word
         (lang-en "bond")
-        (lang-ru "залог").
+        (lang-ru "залог")).

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Ellis, Ellis, Kansas</have:place>
 	</have:death>
 	
-</the:uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3>
+</def:uuid-c6d214f9-b7a5-49aa-902d-3db9ed4a45e3>

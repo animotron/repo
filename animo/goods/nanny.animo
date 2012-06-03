@@ -1,4 +1,4 @@
-the nanny
-    word
+def nanny
+    (word
         (lang-en "nanny")
-        (lang-ru "няня").
+        (lang-ru "няня")).

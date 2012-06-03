@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:UZ-ac6720 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:UZ-ac6720 xmlns:ic="animo/connection" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:UZ-ac6700/>
     <have:name>
         <ptrn:language>
@@ -9,4 +9,4 @@
 
     <have:code>67.20</have:code>
     <have:code>6720</have:code>
-</the:UZ-ac6720>
+</def:UZ-ac6720>

@@ -1,4 +1,4 @@
-the medicaments
+def medicaments
     (health)
     (word
         (lang-en "medicaments")

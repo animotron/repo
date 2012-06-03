@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:nine-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:nine-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<!-- TODO: remove? -->
 
@@ -16,4 +16,4 @@
 	
 	<have:denoted>900</have:denoted> <!-- десятичная система счисления -->
 	
-</the:nine-hundred>
+</def:nine-hundred>

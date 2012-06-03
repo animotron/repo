@@ -1,4 +1,4 @@
-the wood
+def wood
     (building-materials)
     (word
         (lang-en "wood")

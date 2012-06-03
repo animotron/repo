@@ -1,4 +1,4 @@
-the cost
+def cost
     (word
         (lang-en "cost")
         (lang-ru "стоимость"))

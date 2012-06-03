@@ -1,4 +1,4 @@
-the gypsum-plasterboard
+def gypsum-plasterboard
     (building-materials)
     (word
         (lang-en "gypsum plasterboard")

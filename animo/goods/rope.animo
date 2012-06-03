@@ -1,4 +1,4 @@
-the rope
+def rope
     (building-materials)
     (word
         (lang-en "rope")

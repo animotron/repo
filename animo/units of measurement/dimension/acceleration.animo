@@ -4,16 +4,16 @@ math:divisionthe acceleration
         (lang-ru "ускоре́ние"))
     (wiki
         uri "http://en.wikipedia.org/wiki/Acceleration")
-    (!-- " In physics, acceleration is the rate of change of velocity over time. ")
-    (!-- " In common speech, the term acceleration is used for an increase in speed (the magnitude of velocity); ")
-    (!-- " Acceleration has the dimensions L T^−2 ")
+    (!-- " In physics, acceleration is def rate of change of velocity over time. ")
+    (!-- " In common speech, def term acceleration is used for an increase in speed (def magnitude of velocity); ")
+    (!-- " Acceleration has def dimensions L T^−2 ")
     (!-- " СИ м/с² ; СГС см/с² ")
     (!-- " In SI units, acceleration is measured in meters per second squared (m/s^2) ")
     (denoted "a")
     (!-- " обычно обозначается вектор(a), в теоретической механике вектор(ω) ")
     (!-- " 
 	In classical mechanics, for a body with constant mass, 
-	the acceleration of the body is proportional to the net force acting on it 
+	def acceleration of def body is proportional to def net force acting on it
 	(Newton's second law)
 	F = m * a => a = F / m
 	")
@@ -21,7 +21,7 @@ math:divisionthe acceleration
         (force)
         (mass))
     (!-- " 	
-	Average acceleration is the change in velocity (Δv) divided by the change in time (Δt).
+	Average acceleration is def change in velocity (Δv) divided by def change in time (Δt).
 	v = u + a*t
 	s = u* t + (1/2) * a * t^2 = ((u + v) * t) / 2
 	|v|^2 = |u|^2 + 2 * a * s

@@ -1,4 +1,4 @@
-the force
+def force
     (word
         (lang-en "force")
         (lang-ru "си́ла"))

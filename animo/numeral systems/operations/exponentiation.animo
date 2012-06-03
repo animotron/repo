@@ -1,4 +1,4 @@
-the exponentiation
+def exponentiation
     (word
         (lang-en "exponentiation")
         (lang-ru "возведение в степень"))
@@ -12,10 +12,10 @@ the exponentiation
     (wiki
         uri "http://en.wikipedia.org/wiki/Exponentiation")
     (!-- " a mathematical operation, written as <b><i>a</i><sup><i>n</i></sup></b>, 
-		involving two numbers, the base a and the exponent n ")
+		involving two numbers, def base a and def exponent n ")
     (!-- " 
-		a raised to the n-th power, 
-		a raised to the power [of] n,
-		(or possibly) a raised to the exponent [of] n, 
-		(or more briefly as) a to the n
+		a raised to def n-th power,
+		a raised to def power [of] n,
+		(or possibly) a raised to def exponent [of] n,
+		(or more briefly as) a to def n
 	").

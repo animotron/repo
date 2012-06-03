@@ -1,4 +1,4 @@
-the trapezoidal-sheet
+def trapezoidal-sheet
     (building-materials)
     (word
         (lang-en "trapezoidal sheet")

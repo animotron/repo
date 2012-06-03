@@ -1,4 +1,4 @@
-the smoking-shed
-    word
+def smoking-shed
+    (word
         (lang-en "smoking-shed")
-        (lang-ru "коптильни").
+        (lang-ru "коптильни")).

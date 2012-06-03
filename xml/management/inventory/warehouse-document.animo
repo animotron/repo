@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:warehouse-document xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:warehouse-document xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:document/>
 
     <have:name>
@@ -25,4 +25,4 @@
     <have:party/>
 	<!-- document can have many of this TODO: mark it somehow -->
     <have:SKU/>
-</the:warehouse-document>
+</def:warehouse-document>

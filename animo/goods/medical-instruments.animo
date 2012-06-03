@@ -1,4 +1,4 @@
-the medical-instruments
+def medical-instruments
     (health)
     (word
         (lang-en "medical instruments")

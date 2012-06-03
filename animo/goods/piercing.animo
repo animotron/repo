@@ -1,4 +1,4 @@
-the piercing
-    word
+def piercing
+    (word
         (lang-en "piercing")
-        (lang-ru "пирсинг").
+        (lang-ru "пирсинг")).

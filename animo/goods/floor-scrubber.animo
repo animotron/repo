@@ -1,4 +1,4 @@
-the floor-scrubber
+def floor-scrubber
     (equipmen)
     (word
         (lang-en "floor scrubber")

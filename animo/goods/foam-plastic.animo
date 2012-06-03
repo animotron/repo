@@ -1,4 +1,4 @@
-the foam-plastic
+def foam-plastic
     (building-materials)
     (word
         (lang-en "foam plastic")

@@ -1,4 +1,4 @@
-the orthopedist
-    word
+def orthopedist
+    (word
         (lang-en "orthopedist")
-        (lang-ru "ортопед").
+        (lang-ru "ортопед")).

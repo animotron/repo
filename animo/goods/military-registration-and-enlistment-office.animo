@@ -1,4 +1,4 @@
-the military-registration-and-enlistment-office
-    word
+def military-registration-and-enlistment-office
+    (word
         (lang-en "military registration and enlistment office")
-        (lang-ru "военкомат").
+        (lang-ru "военкомат")).

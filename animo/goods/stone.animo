@@ -1,4 +1,4 @@
-the stone
+def stone
     (building-materials)
     (word
         (lang-en "stone")

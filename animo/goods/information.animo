@@ -1,4 +1,4 @@
-the information
-    word
+def information
+    (word
         (lang-en "information")
-        (lang-ru "справочная").
+        (lang-ru "справочная")).

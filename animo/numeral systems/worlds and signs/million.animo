@@ -1,4 +1,4 @@
-the million
+def million
     (!-- " TODO: remove? ")
     (digit)
     (natural-number)

@@ -1,5 +1,4 @@
-the bookkeeping
-    (financial-services)
+def bookkeeping (financial-services)
     (word
         (lang-en "bookkeeping")
         (lang-ru "бухгалтерия")).

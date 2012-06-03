@@ -1,4 +1,4 @@
-the unit-of-measurement
+def unit-of-measurement
     (word
         (lang-en "unit of measurement")
         (lang-ru "единицы измерения")

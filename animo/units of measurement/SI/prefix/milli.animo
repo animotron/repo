@@ -1,4 +1,4 @@
-the milli
+def milli
     (word "thousandth")
     (denoted "m")
     (!-- " Symbol ")

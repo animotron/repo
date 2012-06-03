@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:groupsep xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:groupsep xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:grapheme/>
 	
     <have:name>
 		<ptrn:language>
-            <have:lang-en>the separator between the whole and decimal parts of a number</have:lang-en> <!-- the separator between the whole and decimal parts of a number -->
+            <have:lang-en>def separator between def whole and decimal parts of a number</have:lang-en> <!-- def separator between def whole and decimal parts of a number -->
         </ptrn:language>
 	</have:name>
 	
@@ -15,4 +15,4 @@
             <have:lang-ru>,</have:lang-ru>
         </ptrn:language>
 	</have:denoted>
-</the:groupsep>
+</def:groupsep>

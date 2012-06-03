@@ -1,4 +1,4 @@
-the cladding
+def cladding
     (building-materials)
     (word
         (lang-en "cladding")

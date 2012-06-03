@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:cash-register xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:cash-register xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>cash register</have:lang-en>
             <have:lang-ru>кассовые аппараты</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:cash-register>
+</def:cash-register>

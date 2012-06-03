@@ -1,4 +1,4 @@
-the siblings
+def siblings
     (word
         (lang-en "siblings")
         (lang-ru "дети одних родителей"))

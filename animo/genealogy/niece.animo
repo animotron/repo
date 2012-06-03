@@ -1,4 +1,4 @@
-the niece
+def niece
     (word
         (lang-en "niece")
         (lang-ru "племянница"))

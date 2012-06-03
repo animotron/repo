@@ -1,4 +1,4 @@
-the rest
-    word
+def rest
+    (word
         (lang-en "rest")
-        (lang-ru "отдых").
+        (lang-ru "отдых")).

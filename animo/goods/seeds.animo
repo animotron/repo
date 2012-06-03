@@ -1,4 +1,4 @@
-the seeds
-    word
+def seeds
+    (word
         (lang-en "seeds")
-        (lang-ru "семена").
+        (lang-ru "семена")).

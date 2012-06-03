@@ -1,4 +1,4 @@
-the thirty
+def thirty
     (digit)
     (natural-number)
     (word

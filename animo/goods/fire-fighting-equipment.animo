@@ -1,4 +1,4 @@
-the fire-fighting-equipment
+def fire-fighting-equipment
     (equipmen)
     (word
         (lang-en "fire-fighting equipment")

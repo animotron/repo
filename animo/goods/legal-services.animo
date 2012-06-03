@@ -1,4 +1,4 @@
-the legal-services
+def legal-services
     (service)
     (word
         (lang-en "legal services")

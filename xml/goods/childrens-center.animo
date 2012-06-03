@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:childrens-center xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:childrens-center xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>children's center</have:lang-en>
             <have:lang-ru>детский центр</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:childrens-center>
+</def:childrens-center>

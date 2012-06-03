@@ -1,4 +1,4 @@
-the sign
-    word
+def sign
+    (word
         (lang-en "sign")
-        (lang-ru "вывески").
+        (lang-ru "вывески")).

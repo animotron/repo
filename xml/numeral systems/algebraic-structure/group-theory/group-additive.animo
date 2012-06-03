@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:group-additive xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
+<def:group-additive xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
 
 	<is:algebraic-structure/>
 
@@ -12,16 +12,16 @@
 	
 	<!-- 
 	structure with a binary additive operation (+), 
-	satisfying the group axioms: associativity, neutral element, inverse element and closure
+	satisfying def group axioms: associativity, neutral element, inverse element and closure
 	-->
 	
 	<!-- 
-	TODO: plus - the sum of this class instance with the one ???
+	TODO: plus - def sum of this class instance with def one ???
 	TODO: opposite - he additive inverse of this class instance
 					 (X plus (X opposite)) == ZERO
 	-->
 	
-	<ic:addition/> <!-- (plus), see the:addition -->
+	<ic:addition/> <!-- (plus), see def:addition -->
 	<ic:opposite/>
 
 	<!-- from java:
@@ -31,4 +31,4 @@
 	}
 	-->
 
-</the:group-additive>
+</def:group-additive>

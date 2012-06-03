@@ -1,4 +1,4 @@
-the amount-of-data
+def amount-of-data
     (unit-of-measurement)
     (!-- " of data ")
     (word

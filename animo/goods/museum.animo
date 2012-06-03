@@ -1,4 +1,4 @@
-the museum
-    word
+def museum
+    (word
         (lang-en "museum")
-        (lang-ru "музей").
+        (lang-ru "музей")).

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:glue xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:glue xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:stationery/>
     <is:building-materials/>
     <have:name>
@@ -8,4 +8,4 @@
             <have:lang-ru>клеи</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:glue>
+</def:glue>

@@ -1,4 +1,4 @@
-the childrens-clothing
+def childrens-clothing
     (clothes)
     (word
         (lang-en "children's clothing")

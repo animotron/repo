@@ -1,4 +1,4 @@
-the furniture-for-offices
+def furniture-for-offices
     (furniture)
     (word
         (lang-en "furniture for offices")

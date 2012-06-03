@@ -1,4 +1,4 @@
-the septa
-    word
+def septa
+    (word
         (lang-en "septa")
-        (lang-ru "перегородки").
+        (lang-ru "перегородки")).

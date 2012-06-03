@@ -1,4 +1,4 @@
-the exchange-rate
+def exchange-rate
     (word
         (lang-en "exchange-rate")
         (lang-ru "обменный курс"))

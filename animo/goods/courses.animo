@@ -1,4 +1,4 @@
-the courses
+def courses
     (education)
     (word
         (lang-en "courses")

@@ -1,4 +1,4 @@
-the flowers
-    word
+def flowers
+    (word
         (lang-en "flowers")
-        (lang-ru "цветы").
+        (lang-ru "цветы")).

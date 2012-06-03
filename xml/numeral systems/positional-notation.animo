@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:positional-notation xmlns:get="animo/query/get" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
+<def:positional-notation xmlns:get="animo/query/get" xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
 	<is:numeral-system/>
     <have:name>
 		<ptrn:language>
@@ -83,4 +83,4 @@
 	                               = N7(234)
 	-->
 	
-</the:positional-notation>
+</def:positional-notation>

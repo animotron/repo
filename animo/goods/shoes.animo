@@ -1,4 +1,4 @@
-the shoes
-    word
+def shoes
+    (word
         (lang-en "shoes")
-        (lang-ru "обувь").
+        (lang-ru "обувь")).

@@ -1,4 +1,4 @@
-the paintball
-    word
+def paintball
+    (word
         (lang-en "paintball")
-        (lang-ru "пейнбол").
+        (lang-ru "пейнбол")).

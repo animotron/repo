@@ -1,4 +1,4 @@
-the building
+def building
     word
         (lang-en "building")
         (lang-ru "строение").

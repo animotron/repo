@@ -7,7 +7,7 @@ math "http://www.w3.org/1998/Math/MathML"applysumbvarcilowlimitciuplimitciapplyc
         uri "http://en.wikipedia.org/wiki/Sign-value_notation")
     (alphabet)
     (!-- " N10(alphabet) ")
-    (!-- " represents numbers by a series of numeric signs that added together equal the number represented. ")
+    (!-- " represents numbers by a series of numeric signs that added together equal def number represented. ")
     (!-- " 
 	animo-parser:length >= x >= 1
 	N10( animo-parser:symbol( x ) );

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:water-pipe xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:water-pipe xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>water pipe</have:lang-en>
             <have:lang-ru>водопровод</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:water-pipe>
+</def:water-pipe>

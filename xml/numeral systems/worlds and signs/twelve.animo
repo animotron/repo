@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:twelve xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:twelve xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:digit/>
 	<is:natural-number/>
@@ -13,4 +13,4 @@
 	
 	<have:denoted>12</have:denoted> <!-- десятичная система счисления -->
 	
-</the:twelve>
+</def:twelve>

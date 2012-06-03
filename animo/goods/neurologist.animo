@@ -1,4 +1,4 @@
-the neurologist
+def neurologist
     (health)
     (word
         (lang-en "neurologist")

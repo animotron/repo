@@ -1,4 +1,4 @@
-the pension-fund
-    word
+def pension-fund
+    (word
         (lang-en "pension fund")
-        (lang-ru "пенсионный фонд").
+        (lang-ru "пенсионный фонд")).

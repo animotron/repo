@@ -1,4 +1,4 @@
-the reconstruction
-    word
+def reconstruction
+    (word
         (lang-en "reconstruction")
-        (lang-ru "реконструкция").
+        (lang-ru "реконструкция")).

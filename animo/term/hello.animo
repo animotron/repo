@@ -1,4 +1,4 @@
-the hello
+def hello
     word
         (lang-en "hello")
         (lang-ru "привет").

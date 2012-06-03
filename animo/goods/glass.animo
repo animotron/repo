@@ -1,4 +1,4 @@
-the glass
+def glass
     (building-materials)
     (word
         (lang-en "glass")

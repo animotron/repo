@@ -1,4 +1,4 @@
-the decimal-degrees
+def decimal-degrees
     (word
         (lang-en "decimal degrees")
         (lang-ru "десятичный градус"))
@@ -7,15 +7,15 @@ the decimal-degrees
         uri "http://en.wikipedia.org/wiki/Decimal_degrees")
     (!-- " Example:
 	
-	The decimal degree representation of the location of the United States Capitol is:
+	The decimal degree representation of def location of def United States Capitol is:
 		38.889722°, -77.008889°
 
-	In most systems, such as Google Maps, the degree symbol is omitted and thus the coordinates are expressed as \"38.889722, -77.008889\".
+	In most systems, such as Google Maps, def degree symbol is omitted and thus def coordinates are expressed as \"38.889722, -77.008889\".
 
-	A DMS value is converted to decimal degrees using the formula:
+	A DMS value is converted to decimal degrees using def formula:
 		decimal = D + M / 60 + S / 3600
 
-	The decimal degree representation for the location of the United States Capitol of
+	The decimal degree representation for def location of def United States Capitol of
 		38° 53′ 23″ N, 77° 00′ 32″ W
 
 	is:
@@ -24,10 +24,10 @@ the decimal-degrees
     (!-- " 
  		Conversion from DMS to Decimal Degree
 
-		Given a DMS (Degrees, Minutes, Seconds) coordinate such as W87°43′41″, it's trivial to convert it to a number of decimal degrees using the following method:
-		Calculate the total number of seconds, 43′41″ = (43*60 + 41) = 2621 seconds.
+		Given a DMS (Degrees, Minutes, Seconds) coordinate such as W87°43′41″, it's trivial to convert it to a number of decimal degrees using def following method:
+		Calculate def total number of seconds, 43′41″ = (43*60 + 41) = 2621 seconds.
 		The fractional part is total number of seconds divided by 3600. 2621 / 3600 = ~0.728056
-		Add fractional degrees to whole degrees to produce the final result: 87 + 0.728056 = 87.728056
-		Since it is a West longitude coordinate, negate the result.
+		Add fractional degrees to whole degrees to produce def final result: 87 + 0.728056 = 87.728056
+		Since it is a West longitude coordinate, negate def result.
 		The final result is -87.728056.
 	").

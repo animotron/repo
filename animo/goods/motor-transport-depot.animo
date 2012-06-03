@@ -1,4 +1,4 @@
-the motor-transport-depot
+def motor-transport-depot
     (base)
     (word
         (lang-en "motor-transport depot")

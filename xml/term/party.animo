@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:party xmlns:is="animo/relation/is" xmlns:the="animo">
+<def:party xmlns:is="animo/relation/is" xmlns:def="animo">
     <is:person/>
     <is:organization/>
-</the:party>
+</def:party>

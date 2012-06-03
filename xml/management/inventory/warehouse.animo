@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:warehouse xmlns:ic="animo/connection" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:warehouse xmlns:ic="animo/connection" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>warehouse</have:lang-en>
             <have:lang-ru>склад</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:warehouse>
+</def:warehouse>

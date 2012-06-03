@@ -1,4 +1,4 @@
-the warehouse-document
+def warehouse-document
     (document)
     (word
         (lang-en "warehouse document")

@@ -1,4 +1,4 @@
-the five-hundred
+def five-hundred
     (!-- " TODO: remove? ")
     (digit)
     (natural-number)

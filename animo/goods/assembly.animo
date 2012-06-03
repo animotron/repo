@@ -1,5 +1,4 @@
-the assembly
-    (assembling)
+def assembly (assembling)
     (word
         (lang-en "assembly")
         (lang-ru "монтаж")).

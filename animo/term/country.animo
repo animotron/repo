@@ -1,4 +1,4 @@
-the country
+def country
     (word
         (lang-en "country")
         (lang-ru "страна"))

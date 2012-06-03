@@ -1,4 +1,4 @@
-the telephone
+def telephone
     (household-appliances)
     (word
         (lang-en "telephone")

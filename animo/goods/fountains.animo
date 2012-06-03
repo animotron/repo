@@ -1,4 +1,4 @@
-the fountains
-    word
+def fountains
+    (word
         (lang-en "fountains")
-        (lang-ru "фонтаны").
+        (lang-ru "фонтаны")).

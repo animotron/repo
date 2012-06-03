@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:addition xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:addition xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:binary-operation/>
 	
@@ -14,4 +14,4 @@
 
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Addition</have:uri></have:wiki>
 	
-</the:addition>
+</def:addition>

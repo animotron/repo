@@ -1,4 +1,4 @@
-the cash-processing-center
-    word
+def cash-processing-center
+    (word
         (lang-en "cash processing center")
-        (lang-ru "ркц").
+        (lang-ru "ркц")).

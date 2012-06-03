@@ -1,4 +1,4 @@
-the angle
+def angle
     (word
         (lang-en "angle")
         (lang-ru "угол"))

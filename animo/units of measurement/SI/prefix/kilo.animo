@@ -1,4 +1,4 @@
-the kilo
+def kilo
     (word "thousand")
     (denoted "k")
     (!-- " Symbol ")

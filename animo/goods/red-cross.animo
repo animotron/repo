@@ -1,4 +1,4 @@
-the red-cross
+def red-cross
     (health)
     (word
         (lang-en "red cross")

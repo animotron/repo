@@ -1,4 +1,4 @@
-the advertising-agency
+def advertising-agency
     (agency)
     (word
         (lang-en "advertising agency")

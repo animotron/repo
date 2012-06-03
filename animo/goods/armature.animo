@@ -1,4 +1,4 @@
-the armature
+def armature
     (building-materials)
     (word
         (lang-en "armature")

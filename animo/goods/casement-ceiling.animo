@@ -1,4 +1,4 @@
-the casement-ceiling
+def casement-ceiling
     (building-materials)
     (word
         (lang-en "casement ceiling")

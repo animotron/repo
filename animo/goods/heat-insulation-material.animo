@@ -1,4 +1,4 @@
-the heat-insulation-material
+def heat-insulation-material
     (building-materials)
     (word
         (lang-en "heat insulation material")

@@ -1,4 +1,4 @@
-the wife
+def wife
     (word
         (lang-en "wife")
         (lang-ru "жена")

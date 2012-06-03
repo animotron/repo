@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:IX xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:IX xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:digit/><!-- TODO correct ??? -->
 	<is:roman-numerals/>
@@ -17,4 +17,4 @@
 	
 	<!-- TODO: IX == nine ? -->
 
-</the:IX>
+</def:IX>

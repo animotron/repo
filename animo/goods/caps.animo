@@ -1,4 +1,4 @@
-the caps
-    word
+def caps
+    (word
         (lang-en "caps")
-        (lang-ru "крышки").
+        (lang-ru "крышки")).

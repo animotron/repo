@@ -1,4 +1,4 @@
-the board
+def board
     (building-materials)
     (word
         (lang-en "board")

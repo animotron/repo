@@ -1,5 +1,4 @@
-the technique
-    (goods)
+def technique (goods)
     (word
         (lang-en "technique")
         (lang-ru "техника")).

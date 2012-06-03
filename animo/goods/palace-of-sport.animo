@@ -1,4 +1,4 @@
-the palace-of-sport
+def palace-of-sport
     (sports-complex)
     (word
         (lang-en "palace of sport")

@@ -1,4 +1,4 @@
-the twenty
+def twenty
     (digit)
     (natural-number)
     (word

@@ -1,4 +1,4 @@
-the typesetting
+def typesetting
     (service)
     (word
         (lang-en "typesetting")

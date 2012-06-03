@@ -1,4 +1,4 @@
-the floor-coverings
+def floor-coverings
     (building-materials)
     (word
         (lang-en "floor coverings")

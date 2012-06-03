@@ -1,4 +1,4 @@
-the asset
+def asset
     word
         (lang-en "asset")
         (lang-ru "актив").

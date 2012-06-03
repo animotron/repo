@@ -1,4 +1,4 @@
-the electric-drive
+def electric-drive
     (electrical-equipment)
     (word
         (lang-en "electric drive")

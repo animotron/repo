@@ -1,4 +1,4 @@
-the eighty
+def eighty
     (digit)
     (natural-number)
     (word

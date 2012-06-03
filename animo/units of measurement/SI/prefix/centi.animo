@@ -1,4 +1,4 @@
-the centi
+def centi
     (word "hundredth")
     (denoted "c")
     (!-- " Symbol ")

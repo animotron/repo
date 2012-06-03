@@ -1,4 +1,4 @@
-the good
+def good
     word
         (lang-en "good")
         (lang-ru "наменклатура").

@@ -1,4 +1,4 @@
-the investment
-    word
+def investment
+    (word
         (lang-en "investment")
-        (lang-ru "инвестиции").
+        (lang-ru "инвестиции")).

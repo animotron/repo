@@ -1,5 +1,4 @@
-the electrical-equipment
-    (appliances)
+def electrical-equipment (appliances)
     (word
         (lang-en "electrical equipment")
         (lang-ru "электрооборудование")).

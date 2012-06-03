@@ -1,4 +1,4 @@
-the warehouse-issue
+def warehouse-issue
     (warehouse-document)
     (issue)
     (word

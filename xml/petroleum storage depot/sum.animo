@@ -1,4 +1,4 @@
-<the:sum xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:sum xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <!-- IS ??? -->
     <is:text/>
     <have:name>
@@ -7,4 +7,4 @@
             <have:lang-ru>сумма</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:sum>
+</def:sum>

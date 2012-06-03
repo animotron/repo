@@ -1,4 +1,4 @@
-the pencil
+def pencil
     (stationery)
     (word
         (lang-en "pencil")

@@ -1,4 +1,4 @@
-the positive
+def positive
     (number)
     (word
         (lang-en "positive")

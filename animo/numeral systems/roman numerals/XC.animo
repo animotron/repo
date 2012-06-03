@@ -1,4 +1,4 @@
-the XC
+def XC
     (digit)
     (!-- " TODO correct ??? ")
     (roman-numerals)

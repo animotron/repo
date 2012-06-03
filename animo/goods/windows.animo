@@ -1,4 +1,3 @@
-the windows
-    word
-        (lang-en "windows")
-        (lang-ru "окна").
+def windows word
+    (lang-en "windows")
+    (lang-ru "окна").

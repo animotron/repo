@@ -1,4 +1,4 @@
-the electrical-work
+def electrical-work
     (service)
     (word
         (lang-en "electrical work")

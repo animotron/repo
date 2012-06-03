@@ -1,4 +1,3 @@
-the sport
-    word
-        (lang-en "sport")
-        (lang-ru "спорт").
+def sport word
+    (lang-en "sport")
+    (lang-ru "спорт").

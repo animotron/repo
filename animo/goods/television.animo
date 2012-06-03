@@ -1,4 +1,4 @@
-the television
-    word
+def television
+    (word
         (lang-en "television")
-        (lang-ru "телевидение").
+        (lang-ru "телевидение")).

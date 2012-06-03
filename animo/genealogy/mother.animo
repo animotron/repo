@@ -1,4 +1,4 @@
-the mother
+def mother
     (word
         (lang-en "mother")
         (lang-ru "мать")

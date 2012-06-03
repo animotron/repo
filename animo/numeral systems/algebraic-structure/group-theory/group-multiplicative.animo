@@ -1,4 +1,4 @@
-the group-multiplicative
+def group-multiplicative
     (algebraic-structure)
     (word
         (lang-en "multiplicative group")
@@ -6,13 +6,13 @@ the group-multiplicative
     (wiki uri)
     (!-- " 
 	structure with a binary multiplicative operation (·), 
-	satisfying the group axioms: associativity, neutral element, inverse element and closure
+	satisfying def group axioms: associativity, neutral element, inverse element and closure
 	")
     (!-- " 
-	TODO: times - the product of this class instance with the one ???
-	TODO: inverse - the multiplicative inverse of this class instance. 
+	TODO: times - def product of this class instance with def one ???
+	TODO: inverse - def multiplicative inverse of this class instance.
 					(X times (X inverse) ) == ONE
 	")
     (multiplication)
-    (!-- " (times), see the:multiplication ")
+    (!-- " (times), see def:multiplication ")
     (inverse).

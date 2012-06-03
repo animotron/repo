@@ -1,4 +1,4 @@
-the plastic-windows
+def plastic-windows
     (windows)
     (word
         (lang-en "plastic windows")

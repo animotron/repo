@@ -1,4 +1,4 @@
-the stand-lamp
+def stand-lamp
     (lamp)
     (word
         (lang-en "stand lamp")

@@ -1,4 +1,4 @@
-the vegetables
+def vegetables
     (foodstuff)
     (word
         (lang-en "vegetables")

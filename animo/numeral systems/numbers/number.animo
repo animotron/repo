@@ -1,4 +1,4 @@
-the number
+def number
     (word
         (lang-en "number")
         (lang-ru "число"))

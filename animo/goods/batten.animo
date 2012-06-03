@@ -1,4 +1,4 @@
-the batten
+def batten
     (building-materials)
     (word
         (lang-en "batten")

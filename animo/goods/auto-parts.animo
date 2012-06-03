@@ -1,5 +1,4 @@
-the auto-parts
-    (spares)
+def auto-parts (spares)
     (word
         (lang-en "auto parts")
         (lang-ru "автозапчасти")).

@@ -1,5 +1,5 @@
-the furniture-for-the-bath
+def furniture-for-def-bath
     (furniture)
     (word
-        (lang-en "furniture for the bath")
+        (lang-en "furniture for def bath")
         (lang-ru "мебель для бань")).

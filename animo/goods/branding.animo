@@ -1,4 +1,4 @@
-the branding
+def branding
     (logo)
     (word
         (lang-en "branding")

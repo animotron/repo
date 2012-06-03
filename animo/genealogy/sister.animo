@@ -1,4 +1,4 @@
-the sister
+def sister
     (word
         (lang-en "sister")
         (lang-ru "сестра́"))

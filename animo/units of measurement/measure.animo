@@ -1,12 +1,12 @@
-the measure
+def measure
     (word
         (lang-en "measure")
         (lang-ru "имено́ванные чи́сла")
         (!-- " http://ru.wikipedia.org/wiki/Именованные_числа ")
         (!-- " 
             The word measurement stems, via 
-            the Middle French term mesure, 
-            from Latin mēnsūra, and the verb metiri.
+            def Middle French term mesure,
+            from Latin mēnsūra, and def verb metiri.
             "))
     (wiki
         uri "http://en.wikipedia.org/wiki/Measuring")
@@ -16,5 +16,5 @@ the measure
 	либо значений безразмерных величин.
 	")
     (quantity)
-    (!-- " the magnitude of a quantity ")
+    (!-- " def magnitude of a quantity ")
     (unit-of-measurement).

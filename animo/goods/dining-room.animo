@@ -1,4 +1,4 @@
-the dining-room
+def dining-room
     (catering)
     (word
         (lang-en "dining room")

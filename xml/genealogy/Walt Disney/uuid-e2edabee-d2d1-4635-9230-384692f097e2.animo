@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-e2edabee-d2d1-4635-9230-384692f097e2 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-e2edabee-d2d1-4635-9230-384692f097e2 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:male/>
 	
@@ -17,4 +17,4 @@
 		<have:place>Colrain, Franklin, Mass.</have:place>
 	</have:death>
 	
-</the:uuid-e2edabee-d2d1-4635-9230-384692f097e2>
+</def:uuid-e2edabee-d2d1-4635-9230-384692f097e2>

@@ -1,4 +1,4 @@
-the pawnshop
-    word
+def pawnshop
+    (word
         (lang-en "pawnshop")
-        (lang-ru "ломбард").
+        (lang-ru "ломбард")).

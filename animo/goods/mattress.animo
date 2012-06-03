@@ -1,4 +1,4 @@
-the mattress
-    word
+def mattress
+    (word
         (lang-en "mattress")
-        (lang-ru "матрацы").
+        (lang-ru "матрацы")).

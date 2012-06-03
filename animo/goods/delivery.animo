@@ -1,4 +1,3 @@
-the delivery
-    word
-        (lang-en "delivery")
-        (lang-ru "питание").
+def delivery word
+    (lang-en "delivery")
+    (lang-ru "питание").

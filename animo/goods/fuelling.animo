@@ -1,4 +1,4 @@
-the fuelling
-    word
+def fuelling
+    (word
         (lang-en "fuelling")
-        (lang-ru "заправки").
+        (lang-ru "заправки")).

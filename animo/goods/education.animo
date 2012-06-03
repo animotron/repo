@@ -1,5 +1,4 @@
-the education
-    (education)
+def education (education)
     (word
         (lang-en "education")
         (lang-ru "образование")).

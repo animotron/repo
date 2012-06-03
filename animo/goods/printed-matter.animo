@@ -1,4 +1,3 @@
-the printed-matter
-    word
-        (lang-en "printed matter")
-        (lang-ru "печатная продукция").
+def printed-matter word
+    (lang-en "printed matter")
+    (lang-ru "печатная продукция").

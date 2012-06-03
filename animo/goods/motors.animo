@@ -1,4 +1,4 @@
-the motors
+def motors
     (car)
     (word
         (lang-en "motors")

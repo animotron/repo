@@ -1,4 +1,4 @@
-the lamination
-    word
+def lamination
+    (word
         (lang-en "lamination")
-        (lang-ru "ламинирование").
+        (lang-ru "ламинирование")).

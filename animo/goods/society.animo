@@ -1,4 +1,4 @@
-the society
-    word
+def society
+    (word
         (lang-en "society")
-        (lang-ru "общество").
+        (lang-ru "общество")).

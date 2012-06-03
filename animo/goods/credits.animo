@@ -1,4 +1,4 @@
-the credits
-    word
+def credits
+    (word
         (lang-en "credits")
-        (lang-ru "кредиты").
+        (lang-ru "кредиты")).

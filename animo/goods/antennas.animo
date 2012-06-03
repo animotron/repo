@@ -1,4 +1,4 @@
-the antennas
-    word
+def antennas
+    (word
         (lang-en "antennas")
-        (lang-ru "антенны").
+        (lang-ru "антенны")).

@@ -1,4 +1,4 @@
-the appliance-repair
+def appliance-repair
     (service)
     (word
         (lang-en "appliance repair")

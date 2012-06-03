@@ -1,4 +1,4 @@
-the warehouse
+def warehouse
     word
         (lang-en "warehouse")
         (lang-ru "склад").

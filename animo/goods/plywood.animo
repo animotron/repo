@@ -1,4 +1,4 @@
-the plywood
+def plywood
     (building-materials)
     (word
         (lang-en "plywood")

@@ -1,4 +1,4 @@
-the truck
+def truck
     (car)
     (word
         (lang-en "truck")

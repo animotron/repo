@@ -1,4 +1,4 @@
-the car-of-foreign-make
+def car-of-foreign-make
     (car)
     (word
         (lang-en "car of foreign make")

@@ -1,4 +1,4 @@
-the fourteen
+def fourteen
     (digit)
     (natural-number)
     (word

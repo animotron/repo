@@ -1,4 +1,4 @@
-the fibreboard
+def fibreboard
     (building-materials)
     (word
         (lang-en "fibreboard")

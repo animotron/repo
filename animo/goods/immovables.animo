@@ -1,4 +1,3 @@
-the immovables
-    word
-        (lang-en "immovables")
-        (lang-ru "недвижимость").
+def immovables word
+    (lang-en "immovables")
+    (lang-ru "недвижимость").

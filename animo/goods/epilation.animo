@@ -1,4 +1,4 @@
-the epilation
-    word
+def epilation
+    (word
         (lang-en "epilation")
-        (lang-ru "эпиляция").
+        (lang-ru "эпиляция")).

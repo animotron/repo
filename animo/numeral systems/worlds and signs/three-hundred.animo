@@ -1,4 +1,4 @@
-the three-hundred
+def three-hundred
     (!-- " TODO: remove? ")
     (digit)
     (natural-number)

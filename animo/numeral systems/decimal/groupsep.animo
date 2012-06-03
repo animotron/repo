@@ -1,8 +1,8 @@
-the groupsep
+def groupsep
     (grapheme)
     (word
-        (lang-en "the separator between clusters of integers")
-        (!-- " the grouping separator "))
+        (lang-en "def separator between clusters of integers")
+        (!-- " def grouping separator "))
     (denoted
         (lang-en ",")
         (lang-ru "'")).

@@ -1,4 +1,4 @@
-the urology
-    word
+def urology
+    (word
         (lang-en "urology")
-        (lang-ru "урология").
+        (lang-ru "урология")).

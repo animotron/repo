@@ -1,4 +1,4 @@
-the address-geography
+def address-geography
     (word
         (lang-en "address")
         (lang-ru "адрес"))

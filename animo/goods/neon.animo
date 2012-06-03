@@ -1,4 +1,4 @@
-the neon
+def neon
     (gas)
     (word
         (lang-en "neon")

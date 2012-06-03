@@ -1,4 +1,4 @@
-the comment
+def comment
     (!-- " IS ??? ")
     (text)
     (word

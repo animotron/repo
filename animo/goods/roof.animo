@@ -1,4 +1,4 @@
-the roof
-    word
+def roof
+    (word
         (lang-en "roof")
-        (lang-ru "кровля").
+        (lang-ru "кровля")).

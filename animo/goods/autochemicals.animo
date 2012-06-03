@@ -1,5 +1,4 @@
-the autochemicals
-    (goods)
+def autochemicals (goods)
     (chemistry)
     (word
         (lang-en "autochemicals")

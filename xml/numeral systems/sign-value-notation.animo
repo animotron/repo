@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:sign-value-notation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
+<def:sign-value-notation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
 	<is:numeral-system/>
     <have:name>
 		<ptrn:language>
@@ -14,7 +14,7 @@
 	
 	<!-- N10(alphabet) -->
 	
-	<!-- represents numbers by a series of numeric signs that added together equal the number represented. -->
+	<!-- represents numbers by a series of numeric signs that added together equal def number represented. -->
 	
 
 	<!-- 
@@ -46,4 +46,4 @@
 			</apply>
 		</math>
 	</ic:number>
-</the:sign-value-notation>
+</def:sign-value-notation>

@@ -1,4 +1,4 @@
-the electric-tool
+def electric-tool
     (appliances)
     (word
         (lang-en "electric tool")

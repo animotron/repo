@@ -1,4 +1,4 @@
-the accessory
-    word
+def accessory
+    (word
         (lang-en "accessory")
-        (lang-ru "аксессуары").
+        (lang-ru "аксессуары")).

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:five-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:five-hundred xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<!-- TODO: remove? -->
 
@@ -18,4 +18,4 @@
 	
 	<!-- TODO: Пятьсот - половина тысячи -->
 	
-</the:five-hundred>
+</def:five-hundred>

@@ -27,7 +27,7 @@ import org.animotron.statement.Statements;
 import org.animotron.statement.instruction.Instruction;
 import org.animotron.statement.operator.AN;
 import org.animotron.statement.operator.REF;
-import org.animotron.statement.operator.THE;
+import org.animotron.statement.operator.DEF;
 
 import javax.xml.stream.XMLStreamReader;
 import java.io.IOException;
@@ -63,8 +63,8 @@ public class XMLAnimoExpression extends StAXExpression {
         } else {
             Statement s = Statements.relationshipType(prefix);
             if (s != null) {
-                if (s instanceof THE) {
-                    builder.start(THE._, name);
+                if (s instanceof DEF) {
+                    builder.start(DEF._, name);
                 } else if (s instanceof Instruction) {
                     builder.start(AN._);
                         builder._(REF._, prefix);

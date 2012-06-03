@@ -1,4 +1,4 @@
-the balconys
-    word
+def balconys
+    (word
         (lang-en "balconys")
-        (lang-ru "балконы").
+        (lang-ru "балконы")).

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-03637a95-668c-4b4c-a7e3-8f9f9aff1b37 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-03637a95-668c-4b4c-a7e3-8f9f9aff1b37 xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -12,4 +12,4 @@
 		<have:place>Canada</have:place>
 	</have:birth>
 	
-</the:uuid-03637a95-668c-4b4c-a7e3-8f9f9aff1b37>
+</def:uuid-03637a95-668c-4b4c-a7e3-8f9f9aff1b37>

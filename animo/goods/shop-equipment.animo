@@ -1,4 +1,4 @@
-the shop-equipment
+def shop-equipment
     (equipmen)
     (word
         (lang-en "shop equipment")

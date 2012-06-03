@@ -1,4 +1,4 @@
-the tire
+def tire
     (auto-parts)
     (word
         (lang-en "tire")

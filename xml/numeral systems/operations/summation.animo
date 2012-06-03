@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:summation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
+<def:summation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern" xmlns:ic="animo/connection">
 
 	<is:operation/>
 	
@@ -15,16 +15,16 @@
 
 	<have:wiki><have:uri>http://en.wikipedia.org/wiki/Summation</have:uri></have:wiki>
 	
-	<!-- the operation of combining a sequence of numbers using addition -->
-	<!-- the result is their sum or total -->
-	<!-- If numbers are added sequentially from left to right, any intermediate result is a partial sum or running total of the summation. -->
+	<!-- def operation of combining a sequence of numbers using addition -->
+	<!-- def result is their sum or total -->
+	<!-- If numbers are added sequentially from left to right, any intermediate result is a partial sum or running total of def summation. -->
 	<!-- 
 	The numbers to be summed may be integers, rational numbers, real numbers, or complex numbers. 
 	
 	Besides numbers, other types of values can be added as well: vectors, matrices, polynomials, 
 	and in general elements of any additive group (or even monoid). 
 	
-	For finite sequences of such elements, summation always produces a well-defined sum (possibly by virtue of the convention for empty sums).
+	For finite sequences of such elements, summation always produces a well-defined sum (possibly by virtue of def convention for empty sums).
 	-->
 	
-</the:summation>
+</def:summation>

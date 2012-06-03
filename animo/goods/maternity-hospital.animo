@@ -1,4 +1,4 @@
-the maternity-hospital
+def maternity-hospital
     (health)
     (word
         (lang-en "maternity hospital")

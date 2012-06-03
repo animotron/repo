@@ -1,4 +1,4 @@
-the solarium
-    word
+def solarium
+    (word
         (lang-en "solarium")
-        (lang-ru "солярий").
+        (lang-ru "солярий")).

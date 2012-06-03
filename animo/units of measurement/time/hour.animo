@@ -1,4 +1,4 @@
-the hour
+def hour
     (time)
     (!-- " this relation wrong, must be unit-of-time ")
     (word

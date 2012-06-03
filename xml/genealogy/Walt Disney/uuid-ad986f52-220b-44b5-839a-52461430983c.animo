@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:uuid-ad986f52-220b-44b5-839a-52461430983c xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
+<def:uuid-ad986f52-220b-44b5-839a-52461430983c xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:ptrn="animo/pattern" xmlns:T="animo/time">
 
 	<is:female/>
 	
@@ -7,4 +7,4 @@
         <have:lang-en>Hannah</have:lang-en>
 	</have:name>
 	
-</the:uuid-ad986f52-220b-44b5-839a-52461430983c>
+</def:uuid-ad986f52-220b-44b5-839a-52461430983c>

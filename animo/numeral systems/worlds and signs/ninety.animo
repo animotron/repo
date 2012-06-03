@@ -1,4 +1,4 @@
-the ninety
+def ninety
     (digit)
     (natural-number)
     (word

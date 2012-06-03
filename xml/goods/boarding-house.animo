@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:boarding-house xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:boarding-house xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <have:name>
         <ptrn:language>
             <have:lang-en>boarding house</have:lang-en>
             <have:lang-ru>пансионат</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:boarding-house>
+</def:boarding-house>

@@ -1,4 +1,4 @@
-the package
-    word
+def package
+    (word
         (lang-en "package")
-        (lang-ru "упаковка").
+        (lang-ru "упаковка")).

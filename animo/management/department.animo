@@ -1,4 +1,4 @@
-the department
+def department
     word
         (lang-en "department")
         (lang-ru "отдел").

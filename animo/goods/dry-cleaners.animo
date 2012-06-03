@@ -1,4 +1,4 @@
-the dry-cleaners
+def dry-cleaners
     (service)
     (word
         (lang-en "dry-cleaner's")

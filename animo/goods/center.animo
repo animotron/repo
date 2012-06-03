@@ -1,4 +1,4 @@
-the center
-    word
+def center
+    (word
         (lang-en "center")
-        (lang-ru "центр").
+        (lang-ru "центр")).

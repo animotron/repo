@@ -1,4 +1,4 @@
-the tea
+def tea
     (foodstuff)
     (word
         (lang-en "tea")

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:conditioner xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:the="animo/instance">
+<def:conditioner xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:ptrn="animo/pattern" xmlns:def="animo/instance">
     <is:household-appliances/>
     <is:equipmen/>
     <have:name>
@@ -8,4 +8,4 @@
             <have:lang-ru>кондиционер</have:lang-ru>
         </ptrn:language>
     </have:name>
-</the:conditioner>
+</def:conditioner>

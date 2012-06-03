@@ -1,4 +1,4 @@
-the tents
-    word
+def tents
+    (word
         (lang-en "tents")
-        (lang-ru "палатки").
+        (lang-ru "палатки")).

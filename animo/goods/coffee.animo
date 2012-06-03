@@ -1,4 +1,4 @@
-the coffee
+def coffee
     (foodstuff)
     (word
         (lang-en "coffee")

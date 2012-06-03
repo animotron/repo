@@ -1,4 +1,4 @@
-the baguette
-    word
+def baguette
+    (word
         (lang-en "baguette")
-        (lang-ru "багет").
+        (lang-ru "багет")).

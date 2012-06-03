@@ -1,4 +1,4 @@
-the rail
+def rail
     (building-materials)
     (word
         (lang-en "rail")

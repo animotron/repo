@@ -1,4 +1,4 @@
-the cartridge
-    word
+def cartridge
+    (word
         (lang-en "cartridge")
-        (lang-ru "картриджи").
+        (lang-ru "картриджи")).

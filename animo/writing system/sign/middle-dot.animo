@@ -1,4 +1,4 @@
-the middle-dot
+def middle-dot
     (word
         lang-en "middle dot")
     (!-- "have:HTML>&middot;</have:HTML")

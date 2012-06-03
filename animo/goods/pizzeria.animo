@@ -1,4 +1,4 @@
-the pizzeria
-    word
+def pizzeria
+    (word
         (lang-en "pizzeria")
-        (lang-ru "пиццерия").
+        (lang-ru "пиццерия")).

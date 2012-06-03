@@ -1,4 +1,4 @@
-the sale
-    word
+def sale
+    (word
         (lang-en "sale")
-        (lang-ru "продажа").
+        (lang-ru "продажа")).

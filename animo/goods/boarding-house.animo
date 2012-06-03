@@ -1,4 +1,4 @@
-the boarding-house
-    word
+def boarding-house
+    (word
         (lang-en "boarding house")
-        (lang-ru "пансионат").
+        (lang-ru "пансионат")).

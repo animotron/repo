@@ -1,4 +1,4 @@
-the karaoke
-    word
+def karaoke
+    (word
         (lang-en "karaoke")
-        (lang-ru "караоке").
+        (lang-ru "караоке")).

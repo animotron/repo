@@ -1,4 +1,4 @@
-the karate-federation
+def karate-federation
     (management)
     (word
         (lang-en "karate federation")

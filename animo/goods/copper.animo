@@ -1,4 +1,4 @@
-the copper
-    word
+def copper
+    (word
         (lang-en "copper")
-        (lang-ru "котлы").
+        (lang-ru "котлы")).

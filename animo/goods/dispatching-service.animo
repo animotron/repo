@@ -1,4 +1,4 @@
-the dispatching-service
-    word
+def dispatching-service
+    (word
         (lang-en "dispatching service")
-        (lang-ru "оперативно-диспетчерская служба").
+        (lang-ru "оперативно-диспетчерская служба")).

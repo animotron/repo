@@ -1,4 +1,4 @@
-the canalization
-    word
+def canalization
+    (word
         (lang-en "canalization")
-        (lang-ru "канализация").
+        (lang-ru "канализация")).

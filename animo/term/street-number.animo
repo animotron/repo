@@ -1,4 +1,4 @@
-the street-number
+def street-number
     (text)
     (word
         (lang-en "street-number")

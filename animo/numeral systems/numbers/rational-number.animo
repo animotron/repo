@@ -1,4 +1,4 @@
-the rational-number
+def rational-number
     (word
         (lang-en "rational number")
         (lang-ru "рациональное число")
@@ -8,6 +8,6 @@ the rational-number
     (wiki
         uri "http://en.wikipedia.org/wiki/Rational_number")
     (!-- " 
-	any number that can be expressed as the quotient or fraction a/b of two integers, 
-	with the denominator b not equal to zero
+	any number that can be expressed as def quotient or fraction a/b of two integers,
+	with def denominator b not equal to zero
 	").

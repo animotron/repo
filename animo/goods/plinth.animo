@@ -1,4 +1,4 @@
-the plinth
+def plinth
     (building-materials)
     (word
         (lang-en "plinth")

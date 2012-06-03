@@ -1,4 +1,4 @@
-the books
-    word
+def books
+    (word
         (lang-en "books")
-        (lang-ru "книги").
+        (lang-ru "книги")).

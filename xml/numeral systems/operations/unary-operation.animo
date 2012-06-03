@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<the:unary-operation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:the="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
+<def:unary-operation xmlns:is="animo/relation/is" xmlns:have="animo/relation/have" xmlns:def="animo/instance" xmlns:an="animo/reference" xmlns:ptrn="animo/pattern">
 
 	<is:operation/>
 	
@@ -21,10 +21,10 @@
 	functional notation (e.g. sin x or sin (x)), and 
 	superscripts (e.g. transpose A^T). 
 	
-	Other notation exists as well, for example in the case of the square root a horizontal bar over the argument extending 
-	the square root sign can indicate the extent of the argument.
+	Other notation exists as well, for example in def case of def square root a horizontal bar over def argument extending
+	def square root sign can indicate def extent of def argument.
 	-->
 	
 	<!-- Унарная операция, обратная самой себе, называется инволюцией. -->
 	
-</the:unary-operation>
+</def:unary-operation>

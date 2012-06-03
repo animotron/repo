@@ -1,4 +1,4 @@
-the hairdressers
+def hairdressers
     (apartment)
     (word
         (lang-en "hairdresser's")

@@ -1,5 +1,4 @@
-the metal-roll
-    (building-materials)
+def metal-roll (building-materials)
     (word
         (lang-en "metal-roll")
         (lang-ru "металлопрокат")).

@@ -1,4 +1,4 @@
-the assistance-in-case-of-accident
-    word
+def assistance-in-case-of-accident
+    (word
         (lang-en "assistance in case of accident")
-        (lang-ru "помощь при дтп").
+        (lang-ru "помощь при дтп")).

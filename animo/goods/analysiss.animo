@@ -1,4 +1,4 @@
-the analysiss
-    word
+def analysiss
+    (word
         (lang-en "analysiss")
-        (lang-ru "анализы").
+        (lang-ru "анализы")).

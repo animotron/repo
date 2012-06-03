@@ -1,4 +1,4 @@
-the water-heater
+def water-heater
     (household-appliances)
     (word
         (lang-en "water heater")

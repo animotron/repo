@@ -1,4 +1,3 @@
-the doctor
-    word
-        (lang-en "doctor")
-        (lang-ru "врач").
+def doctor word
+    (lang-en "doctor")
+    (lang-ru "врач").

@@ -1,5 +1,4 @@
-the chemistry
-    (goods)
+def chemistry (goods)
     (word
         (lang-en "chemistry")
         (lang-ru "химия")).

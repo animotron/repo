@@ -1,4 +1,4 @@
-the natural-number
+def natural-number
     (number)
     (word
         (lang-en "natural number")

@@ -1,4 +1,4 @@
-the post-town
+def post-town
     (word
         lang-en "post-town")
     (word).

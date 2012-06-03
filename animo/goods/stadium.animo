@@ -1,4 +1,4 @@
-the stadium
+def stadium
     (sports-complex)
     (word
         (lang-en "stadium")
