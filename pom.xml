@@ -21,7 +21,7 @@
 		<dependency>
 			<groupId>org.animotron</groupId>
 			<artifactId>core</artifactId>
-			<version>0.0.9-SNAPSHOT</version>
+			<version>0.1.M03</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
