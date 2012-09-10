@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.animotron</groupId>
 	<artifactId>repo</artifactId>
-	<version>0.0.9-SNAPSHOT</version>
+	<version>0.1.M03</version>
 	<name>Animo bridge</name>
 
 	<developers>
